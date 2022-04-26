@@ -1,0 +1,1419 @@
+timestamp_utc;looted_by__alliance;looted_by__guild;looted_by__name;item_id;item_name;quantity;looted_from__alliance;looted_from__guild;looted_from__name
+2022-04-20T02:29:32.903Z;EVICT;Take lt Easy;OverLockeed;T4_ARMOR_CLOTH_SET2;Adept's Cleric Robe;1;;ALPHA-8;wckkkk
+2022-04-20T02:29:34.733Z;EVICT;Take lt Easy;OverLockeed;T4_SHOES_CLOTH_SET1;Adept's Scholar Sandals;1;;ALPHA-8;wckkkk
+2022-04-20T02:29:35.279Z;EVICT;Take lt Easy;DBaan;T4_2H_HARPOON_HELL;Adept's Spirithunter;1;;ALPHA-8;wckkkk
+2022-04-20T02:29:41.873Z;EVICT;Take lt Easy;DBaan;T5_MOUNT_OX;Expert's Transport Ox;1;;ALPHA-8;wckkkk
+2022-04-20T02:42:31.828Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;3;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:42:31.892Z;DIOR;EscaIation;DirkSmalls;T5_2H_QUARTERSTAFF_AVALON@2;Expert's Grailseeker;1;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:42:32.233Z;DIOR;EscaIation;DirkSmalls;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:42:32.554Z;DIOR;EscaIation;DirkSmalls;T8_ARMOR_PLATE_SET2;Elder's Knight Armor;1;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:42:32.944Z;DIOR;EscaIation;Benmage;T5_BAG;Expert's Bag;1;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:42:33.004Z;DIOR;EscaIation;DirkSmalls;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:42:33.442Z;DIOR;EscaIation;DirkSmalls;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:42:34.520Z;;Militant;foxglovezinho;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:42:39.756Z;ARCH;Awful Company;beckRR;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;4;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:44:07.045Z;;Militant;OkitaZouji;T8_2H_LONGBOW@1;Elder's Longbow;1;OOPS;Different Cloth;Jubjub42O
+2022-04-20T02:44:07.364Z;;Militant;OkitaZouji;T6_SHOES_CLOTH_ROYAL@3;Master's Royal Sandals;1;OOPS;Different Cloth;Jubjub42O
+2022-04-20T02:44:11.427Z;;;ManinGus;T6_HEAD_LEATHER_ROYAL@3;Master's Royal Hood;1;OOPS;Different Cloth;Jubjub42O
+2022-04-20T02:44:11.724Z;;;ManinGus;T7_POTION_STONESKIN;Major Resistance Potion;2;OOPS;Different Cloth;Jubjub42O
+2022-04-20T02:44:11.918Z;;;ManinGus;T8_MEAL_STEW@2;Beef Stew;1;OOPS;Different Cloth;Jubjub42O
+2022-04-20T02:44:23.616Z;DIOR;EscaIation;DirkSmalls;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;EVICT;Take lt Easy;Fleezao
+2022-04-20T02:44:24.007Z;DIOR;EscaIation;DirkSmalls;T7_ARMOR_CLOTH_SET2@1;Grandmaster's Cleric Robe;1;EVICT;Take lt Easy;Fleezao
+2022-04-20T02:44:24.082Z;DIOR;EscaIation;MatheusMRC;T5_TRASH;Trash;1;EVICT;Take lt Easy;Fleezao
+2022-04-20T02:44:24.395Z;DIOR;EscaIation;MatheusMRC;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;EVICT;Take lt Easy;Fleezao
+2022-04-20T02:44:24.771Z;DIOR;EscaIation;MatheusMRC;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Take lt Easy;Fleezao
+2022-04-20T02:44:25.006Z;DIOR;EscaIation;MatheusMRC;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;EVICT;Take lt Easy;Fleezao
+2022-04-20T02:44:31.223Z;DIOR;Elevate;YonkoSSJGOD;T5_BAG@1;Expert's Bag;1;EVICT;Take lt Easy;Fleezao
+2022-04-20T02:44:36.035Z;DIOR;EscaIation;Heros1;T7_MAIN_CURSEDSTAFF_UNDEAD@1;Grandmaster's Lifecurse Staff;1;EVICT;Take lt Easy;VT23
+2022-04-20T02:44:36.307Z;DIOR;EscaIation;Heros1;T6_OFF_HORN_KEEPER@2;Master's Mistcaller;1;EVICT;Take lt Easy;VT23
+2022-04-20T02:44:36.638Z;DIOR;EscaIation;Heros1;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;EVICT;Take lt Easy;VT23
+2022-04-20T02:44:36.852Z;DIOR;EscaIation;Heros1;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;EVICT;Take lt Easy;VT23
+2022-04-20T02:44:36.940Z;DIOR;EscaIation;N97A;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Take lt Easy;Fleezao
+2022-04-20T02:44:37.172Z;DIOR;EscaIation;Heros1;T6_BAG;Master's Bag;1;EVICT;Take lt Easy;VT23
+2022-04-20T02:44:37.456Z;DIOR;EscaIation;Heros1;T7_POTION_STONESKIN;Major Resistance Potion;3;EVICT;Take lt Easy;VT23
+2022-04-20T02:44:40.161Z;DIOR;EscaIation;Heros1;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;EVICT;Take lt Easy;OverLockeed
+2022-04-20T02:44:40.528Z;DIOR;EscaIation;Heros1;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Take lt Easy;OverLockeed
+2022-04-20T02:44:40.862Z;DIOR;EscaIation;Heros1;T5_CAPEITEM_FW_MARTLOCK@3;Expert's Martlock Cape;1;EVICT;Take lt Easy;OverLockeed
+2022-04-20T02:44:41.177Z;DIOR;EscaIation;Heros1;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Take lt Easy;OverLockeed
+2022-04-20T02:44:41.483Z;DIOR;EscaIation;Heros1;T6_BAG;Master's Bag;1;EVICT;Take lt Easy;OverLockeed
+2022-04-20T02:44:42.787Z;DIOR;EscaIation;zJackson;T5_2H_HOLYSTAFF_HELL@3;Expert's Fallen Staff;1;EVICT;Take lt Easy;sheylameusako
+2022-04-20T02:44:43.197Z;DIOR;EscaIation;zJackson;T7_HEAD_PLATE_SET2@1;Grandmaster's Knight Helmet;1;EVICT;Take lt Easy;sheylameusako
+2022-04-20T02:44:43.234Z;DIOR;EscaIation;Benmage;T7_MEAL_OMELETTE@2;Pork Omelette;1;EVICT;Take lt Easy;sheylameusako
+2022-04-20T02:44:43.383Z;DIOR;EscaIation;M0RZ4;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;EVICT;Take lt Easy;sheylameusako
+2022-04-20T02:44:43.745Z;DIOR;EscaIation;zJackson;T5_SHOES_CLOTH_AVALON@3;Expert's Sandals of Purity;1;EVICT;Take lt Easy;sheylameusako
+2022-04-20T02:44:43.759Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;1;EVICT;Take lt Easy;sheylameusako
+2022-04-20T02:44:51.022Z;DIOR;EscaIation;zstrafe;T6_BAG;Master's Bag;1;EVICT;Take lt Easy;Ry4nxDx
+2022-04-20T02:44:51.395Z;DIOR;EscaIation;zstrafe;T5_2H_MACE_MORGANA@2;Expert's Camlann Mace;1;EVICT;Take lt Easy;Ry4nxDx
+2022-04-20T02:44:51.671Z;DIOR;EscaIation;zstrafe;T6_SHOES_LEATHER_SET2@2;Master's Hunter Shoes;1;EVICT;Take lt Easy;Ry4nxDx
+2022-04-20T02:44:52.077Z;DIOR;EscaIation;zstrafe;T6_ARMOR_PLATE_HELL@2;Master's Demon Armor;1;EVICT;Take lt Easy;Ry4nxDx
+2022-04-20T02:44:52.445Z;DIOR;EscaIation;zstrafe;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;EVICT;Take lt Easy;Ry4nxDx
+2022-04-20T02:44:52.759Z;DIOR;EscaIation;zstrafe;T7_HEAD_PLATE_SET2@1;Grandmaster's Knight Helmet;1;EVICT;Take lt Easy;Ry4nxDx
+2022-04-20T02:44:53.208Z;DIOR;EscaIation;zstrafe;T7_POTION_STONESKIN;Major Resistance Potion;3;EVICT;Take lt Easy;Ry4nxDx
+2022-04-20T02:45:02.959Z;DIOR;EscaIation;MatheusMRC;T6_2H_NATURESTAFF_HELL@2;Master's Blight Staff;1;EVICT;Take lt Easy;MCLOFFA
+2022-04-20T02:45:03.177Z;DIOR;EscaIation;MatheusMRC;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;EVICT;Take lt Easy;MCLOFFA
+2022-04-20T02:45:03.572Z;DIOR;EscaIation;MatheusMRC;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;EVICT;Take lt Easy;MCLOFFA
+2022-04-20T02:45:05.630Z;DIOR;EscaIation;N97A;T8_2H_ENIGMATICSTAFF;Elder's Enigmatic Staff;1;EVICT;Take lt Easy;TekomoNakombi
+2022-04-20T02:45:05.864Z;DIOR;EscaIation;Heros1;T5_TRASH;Trash;1;EVICT;Take lt Easy;PaladinoLoko
+2022-04-20T02:45:05.927Z;DIOR;EscaIation;N97A;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;EVICT;Take lt Easy;TekomoNakombi
+2022-04-20T02:45:06.083Z;DIOR;EscaIation;Heros1;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;EVICT;Take lt Easy;PaladinoLoko
+2022-04-20T02:45:06.253Z;DIOR;EscaIation;N97A;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;EVICT;Take lt Easy;TekomoNakombi
+2022-04-20T02:45:06.364Z;DIOR;EscaIation;Heros1;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;EVICT;Take lt Easy;PaladinoLoko
+2022-04-20T02:45:06.639Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Take lt Easy;PaladinoLoko
+2022-04-20T02:45:06.639Z;DIOR;EscaIation;N97A;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;EVICT;Take lt Easy;TekomoNakombi
+2022-04-20T02:45:06.669Z;DIOR;EscaIation;Heros1;T6_SHOES_LEATHER_SET2@2;Master's Hunter Shoes;1;EVICT;Take lt Easy;PaladinoLoko
+2022-04-20T02:45:06.892Z;DIOR;EscaIation;N97A;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Take lt Easy;TekomoNakombi
+2022-04-20T02:45:07.020Z;DIOR;EscaIation;SoloOoM;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Take lt Easy;TekomoNakombi
+2022-04-20T02:45:07.191Z;DIOR;EscaIation;N97A;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;6;EVICT;Take lt Easy;TekomoNakombi
+2022-04-20T02:45:09.783Z;GUTS;KraKen 69;SawLynn;T4_BAG@1;Adept's Bag;1;;Militant;dunt
+2022-04-20T02:45:10.198Z;DIOR;EscaIation;zstrafe;T6_SHOES_CLOTH_SET1@2;Master's Scholar Sandals;1;EVICT;Take lt Easy;MCLOFFA
+2022-04-20T02:45:10.597Z;DIOR;EscaIation;zstrafe;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Take lt Easy;MCLOFFA
+2022-04-20T02:45:16.597Z;0UT;DYST0PIA;EAMCARRY;T3_MOUNT_HORSE;Journeyman's Riding Horse;1;GUTS;KraKen 69;apm9
+2022-04-20T02:45:16.771Z;0UT;DYST0PIA;EAMCARRY;T4_SHOES_GATHERER_ORE@1;Adept's Miner Workboots;1;GUTS;KraKen 69;apm9
+2022-04-20T02:45:16.942Z;0UT;DYST0PIA;EAMCARRY;T4_MAIN_ROCKMACE_KEEPER;Adept's Bedrock Mace;1;GUTS;KraKen 69;apm9
+2022-04-20T02:45:17.098Z;0UT;DYST0PIA;EAMCARRY;T5_HEAD_LEATHER_SET1;Expert's Mercenary Hood;1;GUTS;KraKen 69;apm9
+2022-04-20T02:45:20.988Z;DIOR;EscaIation;MatheusMRC;T4_HEAD_CLOTH_ROYAL@3;Adept's Royal Cowl;1;EVICT;Take lt Easy;akaballan
+2022-04-20T02:45:21.240Z;DIOR;EscaIation;MatheusMRC;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;EVICT;Take lt Easy;akaballan
+2022-04-20T02:45:21.472Z;DIOR;EscaIation;MatheusMRC;T4_CAPEITEM_FW_CAERLEON@3;Adept's Caerleon Cape;1;EVICT;Take lt Easy;akaballan
+2022-04-20T02:45:21.988Z;DIOR;EscaIation;iCrain;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Take lt Easy;akaballan
+2022-04-20T02:45:22.698Z;DIOR;EscaIation;Jez0r;T5_TRASH;Trash;1;EVICT;Take lt Easy;COELHITOS
+2022-04-20T02:45:22.988Z;DIOR;EscaIation;Jez0r;T7_HEAD_LEATHER_SET3@1;Grandmaster's Assassin Hood;1;EVICT;Take lt Easy;COELHITOS
+2022-04-20T02:45:23.208Z;0UT;DYST0PIA;EAMCARRY;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Take lt Easy;MCLOFFA
+2022-04-20T02:45:23.270Z;DIOR;EscaIation;Jez0r;T5_ARMOR_LEATHER_HELL@3;Expert's Hellion Jacket;1;EVICT;Take lt Easy;COELHITOS
+2022-04-20T02:45:23.542Z;DIOR;EscaIation;Jez0r;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Take lt Easy;COELHITOS
+2022-04-20T02:45:23.691Z;DIOR;EscaIation;Jez0r;T7_POTION_STONESKIN;Major Resistance Potion;3;EVICT;Take lt Easy;COELHITOS
+2022-04-20T02:45:24.066Z;DIOR;EscaIation;Heros1;T6_2H_TWINSCYTHE_HELL@1;Master's Soulscythe;1;EVICT;Take lt Easy;PXocs
+2022-04-20T02:45:24.472Z;DIOR;EscaIation;Heros1;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;EVICT;Take lt Easy;PXocs
+2022-04-20T02:45:25.160Z;DIOR;EscaIation;SoloOoM;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;EVICT;Take lt Easy;PXocs
+2022-04-20T02:45:25.482Z;DIOR;EscaIation;SoloOoM;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;EVICT;Take lt Easy;PXocs
+2022-04-20T02:45:28.363Z;T4K3;The Slap;Pipeexx;T5_2H_ENIGMATICORB_MORGANA@3;Expert's Malevolent Locus;1;EVICT;Take lt Easy;DBaan
+2022-04-20T02:45:28.551Z;T4K3;The Slap;Pipeexx;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;EVICT;Take lt Easy;DBaan
+2022-04-20T02:45:28.763Z;T4K3;The Slap;Pipeexx;T5_ARMOR_PLATE_KEEPER@2;Expert's Judicator Armor;1;EVICT;Take lt Easy;DBaan
+2022-04-20T02:45:29.687Z;T4K3;The Slap;Pipeexx;T7_POTION_STONESKIN;Major Resistance Potion;1;EVICT;Take lt Easy;DBaan
+2022-04-20T02:45:30.176Z;T4K3;The Slap;Pipeexx;T6_SHOES_LEATHER_SET2@2;Master's Hunter Shoes;1;EVICT;Take lt Easy;DBaan
+2022-04-20T02:48:17.050Z;;Militant;l7awli;T5_2H_MACE_MORGANA@2;Expert's Camlann Mace;1;DIOR;EscaIation;ManickS
+2022-04-20T02:48:17.527Z;;Militant;l7awli;T8_TRASH;Trash;1;DIOR;EscaIation;ManickS
+2022-04-20T02:48:17.643Z;;Militant;Sokakuh;T7_HEAD_LEATHER_SET3;Grandmaster's Assassin Hood;1;DIOR;EscaIation;ManickS
+2022-04-20T02:48:17.674Z;;Militant;ErinMTFK;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;DIOR;EscaIation;ManickS
+2022-04-20T02:48:17.862Z;;Militant;l7awli;T8_TRASH;Trash;1;DIOR;EscaIation;ManickS
+2022-04-20T02:48:18.065Z;;Militant;ErinMTFK;UNIQUE_MOUNT_BAT_PERSONAL;Spectral Bat;1;DIOR;EscaIation;ManickS
+2022-04-20T02:49:14.125Z;;Militant;TwoFox;T6_2H_DAGGER_KATAR_AVALON@3;Master's Bridled Fury;1;DIOR;EscaIation;EpikJest
+2022-04-20T02:49:14.890Z;;Militant;TwoFox;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;DIOR;EscaIation;EpikJest
+2022-04-20T02:49:14.943Z;EVICT;Take lt Easy;Eterninho;T7_HEAD_LEATHER_MORGANA@3;Grandmaster's Stalker Hood;1;DIOR;EscaIation;PVPVP
+2022-04-20T02:49:15.084Z;;Militant;TwoFox;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;DIOR;EscaIation;EpikJest
+2022-04-20T02:49:15.314Z;EVICT;Take lt Easy;Eterninho;T7_2H_DAGGER_KATAR_AVALON@3;Grandmaster's Bridled Fury;1;DIOR;EscaIation;PVPVP
+2022-04-20T02:49:15.659Z;EVICT;Take lt Easy;Eterninho;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;PVPVP
+2022-04-20T02:49:15.752Z;;Militant;TwoFox;T8_HEAD_LEATHER_SET3@2;Elder's Assassin Hood;1;DIOR;EscaIation;EpikJest
+2022-04-20T02:49:15.834Z;EVICT;Take lt Easy;Eterninho;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;PVPVP
+2022-04-20T02:49:15.894Z;EVICT;Take lt Easy;Eterninho;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;DIOR;EscaIation;PVPVP
+2022-04-20T02:49:16.187Z;EVICT;Take lt Easy;Eterninho;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;DIOR;EscaIation;PVPVP
+2022-04-20T02:49:16.671Z;;Militant;TwoFox;T6_SHOES_CLOTH_ROYAL@3;Master's Royal Sandals;1;DIOR;EscaIation;EpikJest
+2022-04-20T02:49:16.747Z;DIOR;EscaIation;N97A;T8_SHOES_CLOTH_SET3;Elder's Mage Sandals;1;DIOR;EscaIation;CarbinePhx
+2022-04-20T02:49:17.019Z;DIOR;EscaIation;N97A;T4_CAPEITEM_KEEPER@3;Adept's Keeper Cape;1;DIOR;EscaIation;CarbinePhx
+2022-04-20T02:49:19.611Z;DIOR;EscaIation;N97A;T6_BAG;Master's Bag;1;DIOR;EscaIation;EpikJest
+2022-04-20T02:49:19.882Z;;;ManinGus;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;PVPVP
+2022-04-20T02:49:20.021Z;DIOR;EscaIation;N97A;T5_CAPEITEM_FW_LYMHURST@3;Expert's Lymhurst Cape;1;DIOR;EscaIation;EpikJest
+2022-04-20T02:49:20.238Z;DIOR;EscaIation;N97A;T8_MEAL_STEW@2;Beef Stew;1;DIOR;EscaIation;EpikJest
+2022-04-20T02:49:20.627Z;DIOR;EscaIation;N97A;T7_POTION_STONESKIN;Major Resistance Potion;6;DIOR;EscaIation;EpikJest
+2022-04-20T02:49:22.636Z;;Militant;Ziddic;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;EpikJest
+2022-04-20T02:49:24.488Z;;Militant;Ziddic;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;CarbinePhx
+2022-04-20T02:49:25.776Z;;;ManinGus;T6_2H_ENIGMATICSTAFF@2;Master's Enigmatic Staff;1;DIOR;EscaIation;Sleepkava
+2022-04-20T02:49:26.017Z;;;ManinGus;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;DIOR;EscaIation;Sleepkava
+2022-04-20T02:49:26.236Z;;;ManinGus;T6_ARMOR_CLOTH_AVALON@2;Master's Robe of Purity;1;DIOR;EscaIation;Sleepkava
+2022-04-20T02:49:26.299Z;GOZU;7 Segundos;piero136459;T6_OFF_HORN_KEEPER@2;Master's Mistcaller;1;OOPS;Different Cloth;FabianMakielt
+2022-04-20T02:49:26.484Z;GOZU;7 Segundos;piero136459;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;OOPS;Different Cloth;FabianMakielt
+2022-04-20T02:49:26.601Z;;;ManinGus;T6_SHOES_PLATE_UNDEAD@2;Master's Graveguard Boots;1;DIOR;EscaIation;Sleepkava
+2022-04-20T02:49:26.828Z;GOZU;7 Segundos;piero136459;T5_ARMOR_LEATHER_HELL@3;Expert's Hellion Jacket;1;OOPS;Different Cloth;FabianMakielt
+2022-04-20T02:49:27.185Z;GOZU;7 Segundos;piero136459;T6_2H_HOLYSTAFF;Master's Great Holy Staff;1;OOPS;Different Cloth;FabianMakielt
+2022-04-20T02:49:27.439Z;GOZU;7 Segundos;piero136459;T7_POTION_STONESKIN;Major Resistance Potion;2;OOPS;Different Cloth;FabianMakielt
+2022-04-20T02:49:28.032Z;GOZU;7 Segundos;xXLINKOOSXx;T4_BAG;Adept's Bag;1;OOPS;Different Cloth;FabianMakielt
+2022-04-20T02:49:28.263Z;GOZU;7 Segundos;piero136459;T6_CAPE;Master's Cape;1;OOPS;Different Cloth;FabianMakielt
+2022-04-20T02:49:28.424Z;;Militant;SugarcoldB2;T5_RELIC;Expert's Relic;1;DIOR;EscaIation;PVPVP
+2022-04-20T02:49:30.045Z;DIOR;EscaIation;N97A;T4_ARMOR_PLATE_KEEPER@3;Adept's Judicator Armor;1;DIOR;EscaIation;KoronaVirus19
+2022-04-20T02:49:30.377Z;DIOR;EscaIation;N97A;T6_2H_ENIGMATICSTAFF@2;Master's Enigmatic Staff;1;DIOR;EscaIation;KoronaVirus19
+2022-04-20T02:49:30.723Z;DIOR;EscaIation;N97A;T6_SHOES_CLOTH_SET1@2;Master's Scholar Sandals;1;DIOR;EscaIation;KoronaVirus19
+2022-04-20T02:49:30.815Z;DIOR;EscaIation;zJackson;T5_2H_KNUCKLES_MORGANA@3;Expert's Ravenstrike Cestus;1;EVICT;Consequence;Jokerfrown2
+2022-04-20T02:49:31.111Z;DIOR;EscaIation;zJackson;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;EVICT;Consequence;Jokerfrown2
+2022-04-20T02:49:31.266Z;DIOR;EscaIation;N97A;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;DIOR;EscaIation;KoronaVirus19
+2022-04-20T02:49:32.270Z;DIOR;Elevate;YonkoSSJGOD;T6_MAIN_RAPIER_MORGANA@3;Master's Bloodletter;1;;Militant;foxglovezinho
+2022-04-20T02:49:32.486Z;DIOR;Elevate;YonkoSSJGOD;T6_OFF_SPIKEDSHIELD_MORGANA@3;Master's Facebreaker;1;;Militant;foxglovezinho
+2022-04-20T02:49:32.720Z;DIOR;Elevate;YonkoSSJGOD;T6_BAG@1;Master's Bag;1;;Militant;foxglovezinho
+2022-04-20T02:49:32.963Z;DIOR;Elevate;YonkoSSJGOD;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;foxglovezinho
+2022-04-20T02:49:33.237Z;DIOR;Elevate;YonkoSSJGOD;T6_SHOES_LEATHER_SET3@3;Master's Assassin Shoes;1;;Militant;foxglovezinho
+2022-04-20T02:49:33.435Z;DIOR;EscaIation;N97A;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:49:33.643Z;DIOR;EscaIation;N97A;T8_2H_KNUCKLES_SET3@1;Elder's Spiked Gauntlets;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:49:33.976Z;DIOR;EscaIation;N97A;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:49:35.385Z;DIOR;EscaIation;Heros1;T6_TRASH;Trash;1;EVICT;Consequence;LesheroOP
+2022-04-20T02:49:35.705Z;DIOR;EscaIation;N97A;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:49:35.736Z;DIOR;EscaIation;Heros1;T8_TRASH;Trash;1;EVICT;Consequence;LesheroOP
+2022-04-20T02:49:35.769Z;DIOR;EscaIation;zstrafe;T4_BAG@1;Adept's Bag;1;DIOR;EscaIation;KoronaVirus19
+2022-04-20T02:49:36.098Z;DIOR;EscaIation;Heros1;T5_ARMOR_CLOTH_AVALON@3;Expert's Robe of Purity;1;EVICT;Consequence;LesheroOP
+2022-04-20T02:49:36.224Z;DIOR;EscaIation;zstrafe;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;KoronaVirus19
+2022-04-20T02:49:36.704Z;DIOR;EscaIation;Heros1;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;EVICT;Consequence;LesheroOP
+2022-04-20T02:49:37.080Z;DIOR;EscaIation;Heros1;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Consequence;LesheroOP
+2022-04-20T02:49:37.325Z;ARCH;Awful Company;iBjornIRONSIDEE;T5_BAG;Expert's Bag;1;EVICT;Consequence;Jokerfrown2
+2022-04-20T02:49:37.487Z;GUTS;KraKen 69;SawLynn;T7_POTION_STONESKIN;Major Resistance Potion;2;DIOR;EscaIation;PVPVP
+2022-04-20T02:49:37.673Z;ARCH;Awful Company;iBjornIRONSIDEE;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Consequence;Jokerfrown2
+2022-04-20T02:49:37.830Z;ARCH;Awful Company;iBjornIRONSIDEE;T7_POTION_STONESKIN;Major Resistance Potion;3;EVICT;Consequence;Jokerfrown2
+2022-04-20T02:49:38.159Z;ARCH;Awful Company;iBjornIRONSIDEE;T8_MEAL_STEW@1;Beef Stew;1;EVICT;Consequence;Jokerfrown2
+2022-04-20T02:49:38.977Z;DIOR;EscaIation;N97A;T6_HEAD_LEATHER_ROYAL@2;Master's Royal Hood;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:49:39.203Z;DIOR;EscaIation;N97A;T7_2H_DUALSCIMITAR_UNDEAD@3;Grandmaster's Galatine Pair;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:49:39.724Z;0UT;DYST0PIA;EAMCARRY;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;DIOR;EscaIation;iCrain
+2022-04-20T02:49:39.896Z;0UT;DYST0PIA;EAMCARRY;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;iCrain
+2022-04-20T02:49:39.904Z;T4K3;The Slap;kowatera;T8_MEAL_SANDWICH@2;Beef Sandwich;1;;Militant;foxglovezinho
+2022-04-20T02:49:40.128Z;0UT;DYST0PIA;EAMCARRY;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;DIOR;EscaIation;iCrain
+2022-04-20T02:49:40.563Z;0UT;DYST0PIA;EAMCARRY;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;iCrain
+2022-04-20T02:49:41.013Z;0UT;DYST0PIA;EAMCARRY;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;DIOR;EscaIation;iCrain
+2022-04-20T02:49:41.138Z;DIOR;EscaIation;zstrafe;UNIQUE_CONSUMABLE_EVENT_EASTER_2020_EGG;Surprise Egg;14;DIOR;EscaIation;JJordanH
+2022-04-20T02:49:41.315Z;0UT;DYST0PIA;EAMCARRY;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;iCrain
+2022-04-20T02:49:41.490Z;DIOR;EscaIation;zstrafe;T7_POTION_STONESKIN;Major Resistance Potion;2;DIOR;EscaIation;JJordanH
+2022-04-20T02:49:41.533Z;0UT;DYST0PIA;EAMCARRY;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;iCrain
+2022-04-20T02:49:42.215Z;ARCH;Awful Company;iBjornIRONSIDEE;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:49:42.653Z;0UT;DYST0PIA;EAMCARRY;T4_TRASH;Trash;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:49:42.850Z;0UT;DYST0PIA;EAMCARRY;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:49:43.049Z;0UT;DYST0PIA;EAMCARRY;T7_POTION_STONESKIN;Major Resistance Potion;4;DIOR;EscaIation;BlueDawn
+2022-04-20T02:49:43.596Z;;NO LOCK;Thuglife420;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;EVICT;Consequence;pvpundead12
+2022-04-20T02:49:43.954Z;;NO LOCK;Thuglife420;T7_HEAD_LEATHER_SET3@1;Grandmaster's Assassin Hood;1;EVICT;Consequence;pvpundead12
+2022-04-20T02:49:44.230Z;;NO LOCK;Thuglife420;T6_2H_DAGGER_KATAR_AVALON@2;Master's Bridled Fury;1;EVICT;Consequence;pvpundead12
+2022-04-20T02:49:44.603Z;;NO LOCK;Thuglife420;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;EVICT;Consequence;pvpundead12
+2022-04-20T02:49:45.792Z;;NO LOCK;Thuglife420;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;EVICT;Consequence;pvpundead12
+2022-04-20T02:49:46.908Z;EVICT;Take lt Easy;Fleezao;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;UwU31
+2022-04-20T02:49:47.097Z;EVICT;Take lt Easy;Eterninho;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Consequence;pvpundead12
+2022-04-20T02:49:47.222Z;EVICT;Take lt Easy;Fleezao;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;DIOR;EscaIation;UwU31
+2022-04-20T02:49:47.484Z;EVICT;Take lt Easy;Fleezao;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;DIOR;EscaIation;UwU31
+2022-04-20T02:49:48.608Z;EVICT;Take lt Easy;Eterninho;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;EVICT;Consequence;RatkoMladic
+2022-04-20T02:49:48.798Z;EVICT;Take lt Easy;Eterninho;T8_HEAD_PLATE_SET2@1;Elder's Knight Helmet;1;EVICT;Consequence;RatkoMladic
+2022-04-20T02:49:48.846Z;EVICT;Take lt Easy;Fleezao;T6_2H_HARPOON_HELL@2;Master's Spirithunter;1;DIOR;EscaIation;KIMHANEUL
+2022-04-20T02:49:48.996Z;EVICT;Take lt Easy;Eterninho;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;EVICT;Consequence;RatkoMladic
+2022-04-20T02:49:49.156Z;;NO LOCK;Thuglife420;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;EVICT;Consequence;LesheroOP
+2022-04-20T02:49:49.175Z;EVICT;Take lt Easy;Eterninho;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;EVICT;Consequence;RatkoMladic
+2022-04-20T02:49:49.231Z;EVICT;Take lt Easy;Fleezao;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;KIMHANEUL
+2022-04-20T02:49:49.446Z;EVICT;Take lt Easy;Fleezao;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;KIMHANEUL
+2022-04-20T02:49:49.454Z;EVICT;Take lt Easy;Eterninho;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Consequence;RatkoMladic
+2022-04-20T02:49:49.700Z;EVICT;Take lt Easy;Fleezao;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;KIMHANEUL
+2022-04-20T02:49:53.073Z;DIOR;Elevate;YonkoSSJGOD;T7_POTION_STONESKIN;Major Resistance Potion;3;DIOR;EscaIation;UwU31
+2022-04-20T02:49:53.365Z;GUTS;KraKen 69;SawLynn;T4_ARMOR_GATHERER_ORE;Adept's Miner Garb;1;;Casual Company;PlatinumNuke
+2022-04-20T02:49:53.704Z;GUTS;KraKen 69;SawLynn;T4_CAPE@1;Adept's Cape;1;;Casual Company;PlatinumNuke
+2022-04-20T02:49:57.391Z;;Militant;RiderClav;T8_TRASH;Trash;1;DIOR;EscaIation;bootydragon
+2022-04-20T02:49:57.612Z;;Militant;Umami;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;bootydragon
+2022-04-20T02:49:57.668Z;;Militant;RiderClav;T8_2H_ARCANESTAFF;Elder's Great Arcane Staff;1;DIOR;EscaIation;bootydragon
+2022-04-20T02:49:58.975Z;;Militant;LANZERTH;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;DIOR;EscaIation;bootydragon
+2022-04-20T02:50:00.195Z;;Militant;ChestyLaRue;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:50:04.551Z;;Militant;elmandelabuti;UNIQUE_CONSUMABLE_EVENT_EASTER_2020_CHOCOLATE;Chocolate;2;DIOR;EscaIation;JJordanH
+2022-04-20T02:50:09.111Z;;;ManinGus;T5_POTION_STONESKIN@1;Resistance Potion;3;EVICT;Consequence;RatkoMladic
+2022-04-20T02:50:09.296Z;;;ManinGus;T5_BAG@1;Expert's Bag;1;EVICT;Consequence;RatkoMladic
+2022-04-20T02:50:12.942Z;;Militant;elmandelabuti;T7_POTION_SLOWFIELD;Major Sticky Potion;2;DIOR;EscaIation;bootydragon
+2022-04-20T02:50:13.321Z;;Militant;elmandelabuti;T5_MAIN_RAPIER_MORGANA@2;Expert's Bloodletter;1;DIOR;EscaIation;bootydragon
+2022-04-20T02:50:13.613Z;;Militant;elmandelabuti;T6_OFF_HORN_KEEPER;Master's Mistcaller;1;DIOR;EscaIation;bootydragon
+2022-04-20T02:50:14.092Z;;Militant;elmandelabuti;T8_SHOES_CLOTH_SET2;Elder's Cleric Sandals;1;DIOR;EscaIation;bootydragon
+2022-04-20T02:50:14.482Z;;Militant;elmandelabuti;T4_SHOES_PLATE_HELL@3;Adept's Demon Boots;1;DIOR;EscaIation;bootydragon
+2022-04-20T02:50:14.835Z;EVICT;Consequence;Twiggles420;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;EVICT;Consequence;KayTwoDee
+2022-04-20T02:50:15.143Z;EVICT;Consequence;Twiggles420;T6_ARMOR_LEATHER_AVALON@2;Master's Jacket of Tenacity;1;EVICT;Consequence;KayTwoDee
+2022-04-20T02:50:15.746Z;EVICT;Consequence;Twiggles420;T6_2H_KNUCKLES_SET3@2;Master's Spiked Gauntlets;1;EVICT;Consequence;KayTwoDee
+2022-04-20T02:50:15.963Z;EVICT;Consequence;Twiggles420;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;EVICT;Consequence;KayTwoDee
+2022-04-20T02:50:16.154Z;EVICT;Consequence;Twiggles420;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;EVICT;Consequence;KayTwoDee
+2022-04-20T02:50:16.219Z;EVICT;Consequence;Twiggles420;T6_BAG;Master's Bag;1;EVICT;Consequence;KayTwoDee
+2022-04-20T02:50:16.963Z;EVICT;Consequence;Twiggles420;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Consequence;KayTwoDee
+2022-04-20T02:50:17.171Z;EVICT;Consequence;Twiggles420;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Consequence;KayTwoDee
+2022-04-20T02:50:20.050Z;EVICT;Take lt Easy;Eterninho;T6_2H_DAGGER_KATAR_AVALON@2;Master's Bridled Fury;1;DIOR;EscaIation;Caelumyhr
+2022-04-20T02:50:20.424Z;EVICT;Take lt Easy;Eterninho;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;DIOR;EscaIation;Caelumyhr
+2022-04-20T02:50:20.591Z;;Militant;ErinMTFK;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;KIMHANEUL
+2022-04-20T02:50:21.193Z;EVICT;Take lt Easy;Eterninho;T6_ARMOR_CLOTH_SET2@2;Master's Cleric Robe;1;DIOR;EscaIation;Caelumyhr
+2022-04-20T02:50:21.550Z;;Militant;Ziddic;T4_BAG;Adept's Bag;1;DIOR;EscaIation;ManickS
+2022-04-20T02:50:21.769Z;;Militant;Ziddic;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;ManickS
+2022-04-20T02:50:21.900Z;EVICT;Take lt Easy;Eterninho;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;Caelumyhr
+2022-04-20T02:50:22.003Z;;Militant;Ziddic;T4_CAPEITEM_FW_FORTSTERLING@2;Adept's Fort Sterling Cape;1;DIOR;EscaIation;ManickS
+2022-04-20T02:50:22.220Z;;Militant;Ziddic;T7_HEAD_LEATHER_SET1;Grandmaster's Mercenary Hood;1;DIOR;EscaIation;ManickS
+2022-04-20T02:50:22.247Z;EVICT;Take lt Easy;Eterninho;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;Caelumyhr
+2022-04-20T02:50:22.515Z;;Militant;Ziddic;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;ManickS
+2022-04-20T02:50:22.704Z;;Militant;Ziddic;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;ManickS
+2022-04-20T02:50:23.097Z;;Militant;VinTaro;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;KIMHANEUL
+2022-04-20T02:50:24.682Z;;Militant;TwoFox;T8_SHOES_LEATHER_SET2@1;Elder's Hunter Shoes;1;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:50:25.277Z;;Militant;VinTaro;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;UwU31
+2022-04-20T02:50:25.374Z;;Militant;TwoFox;T7_POTION_STONESKIN;Major Resistance Potion;3;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:50:25.632Z;;NO LOCK;Thuglife420;T5_2H_ICECRYSTAL_UNDEAD@3;Expert's Permafrost Prism;1;EVICT;Consequence;DKkr15
+2022-04-20T02:50:25.830Z;GUTS;KraKen 69;SawLynn;T5_2H_HAMMER_AVALON@2;Expert's Hand of Justice;1;EVICT;Take lt Easy;vMenezs
+2022-04-20T02:50:26.049Z;;Militant;TwoFox;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;NeadeMedallo
+2022-04-20T02:50:26.299Z;GUTS;KraKen 69;SawLynn;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;EVICT;Take lt Easy;vMenezs
+2022-04-20T02:50:26.313Z;;NO LOCK;Thuglife420;T8_ARMOR_CLOTH_SET1;Elder's Scholar Robe;1;EVICT;Consequence;DKkr15
+2022-04-20T02:50:26.346Z;;Militant;midnightsnack;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:50:26.652Z;;NO LOCK;Thuglife420;T4_CAPEITEM_MORGANA@2;Adept's Morgana Cape;1;EVICT;Consequence;DKkr15
+2022-04-20T02:50:26.821Z;;;ManinGus;T6_BAG;Master's Bag;1;DIOR;EscaIation;zokiii
+2022-04-20T02:50:27.003Z;;;ManinGus;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;zokiii
+2022-04-20T02:50:27.267Z;;;ManinGus;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;zokiii
+2022-04-20T02:50:27.611Z;;;ManinGus;T8_MEAL_STEW@2;Beef Stew;1;DIOR;EscaIation;zokiii
+2022-04-20T02:50:27.936Z;;;ManinGus;T7_POTION_REVIVE;Major Gigantify Potion;1;DIOR;EscaIation;zokiii
+2022-04-20T02:50:28.283Z;;Militant;midnightsnack;T8_2H_ENIGMATICSTAFF;Elder's Enigmatic Staff;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:50:28.356Z;TH1RD;IAMNIUBI;BjornKiD;T5_MOUNT_HORSE;Expert's Riding Horse;1;EVICT;Take lt Easy;vMenezs
+2022-04-20T02:50:28.532Z;DIOR;EscaIation;MatheusMRC;T6_2H_HAMMER_AVALON@1;Master's Hand of Justice;1;EVICT;Consequence;Derrick
+2022-04-20T02:50:28.792Z;TH1RD;IAMNIUBI;BjornKiD;T8_ARMOR_PLATE_SET3;Elder's Guardian Armor;1;EVICT;Take lt Easy;vMenezs
+2022-04-20T02:50:28.845Z;TH1RD;IAMNIUBI;BjornKiD;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;EVICT;Take lt Easy;vMenezs
+2022-04-20T02:50:28.954Z;;Militant;midnightsnack;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:50:29.164Z;DIOR;EscaIation;MatheusMRC;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;EVICT;Consequence;Derrick
+2022-04-20T02:50:29.238Z;;Militant;midnightsnack;T7_SHOES_CLOTH_SET1@1;Grandmaster's Scholar Sandals;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:50:29.514Z;DIOR;EscaIation;MatheusMRC;T7_POTION_STONESKIN;Major Resistance Potion;6;EVICT;Consequence;Derrick
+2022-04-20T02:50:29.668Z;;Militant;midnightsnack;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:50:30.952Z;TH1RD;IAMNIUBI;BjornKiD;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:50:30.952Z;;NO LOCK;Thuglife420;T5_OFF_TOTEM_KEEPER@3;Expert's Taproot;1;DIOR;EscaIation;Siomeow
+2022-04-20T02:50:32.080Z;;;ManinGus;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;DIOR;EscaIation;SPlCY
+2022-04-20T02:50:32.345Z;;;ManinGus;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;DIOR;EscaIation;SPlCY
+2022-04-20T02:50:32.532Z;;;ManinGus;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;SPlCY
+2022-04-20T02:50:33.239Z;;;ManinGus;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;DIOR;EscaIation;SPlCY
+2022-04-20T02:50:33.547Z;;;ManinGus;T7_2H_TOOL_SIEGEHAMMER;Grandmaster's Demolition Hammer;1;DIOR;EscaIation;SPlCY
+2022-04-20T02:50:35.757Z;DIOR;EscaIation;zJackson;T5_2H_DAGGER_KATAR_AVALON@3;Expert's Bridled Fury;1;EVICT;Take lt Easy;paulindoboquete
+2022-04-20T02:50:36.070Z;DIOR;EscaIation;zJackson;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;EVICT;Take lt Easy;paulindoboquete
+2022-04-20T02:50:36.408Z;DIOR;EscaIation;zJackson;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;EVICT;Take lt Easy;paulindoboquete
+2022-04-20T02:50:37.743Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;3;EVICT;Take lt Easy;paulindoboquete
+2022-04-20T02:50:38.112Z;DIOR;EscaIation;Heros1;T6_2H_ARCANESTAFF_HELL@1;Master's Occult Staff;1;PXOCS;Post-Mortemm;Kinmnara
+2022-04-20T02:50:38.232Z;DIOR;EscaIation;Benmage;T4_BAG@1;Adept's Bag;1;EVICT;Take lt Easy;paulindoboquete
+2022-04-20T02:50:44.333Z;DIOR;EscaIation;Jez0r;T6_2H_HARPOON_HELL@2;Master's Spirithunter;1;EVICT;Consequence;t0t0master
+2022-04-20T02:50:46.564Z;EVICT;Take lt Easy;Eterninho;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;EVICT;Consequence;t0t0master
+2022-04-20T02:50:46.817Z;EVICT;Take lt Easy;Eterninho;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;EVICT;Consequence;t0t0master
+2022-04-20T02:51:13.518Z;EVICT;Take lt Easy;Eterninho;T6_ARMOR_PLATE_HELL@2;Master's Demon Armor;1;EVICT;Consequence;Twiggles420
+2022-04-20T02:51:14.064Z;EVICT;Take lt Easy;Eterninho;T5_2H_MACE_MORGANA@2;Expert's Camlann Mace;1;EVICT;Consequence;Twiggles420
+2022-04-20T02:51:14.298Z;EVICT;Take lt Easy;Eterninho;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;EVICT;Consequence;Twiggles420
+2022-04-20T02:51:14.789Z;EVICT;Take lt Easy;Eterninho;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;EVICT;Consequence;Twiggles420
+2022-04-20T02:51:15.033Z;;Militant;VinTaro;T7_ARMOR_PLATE_SET3@1;Grandmaster's Guardian Armor;1;DIOR;Elevate;angryludo
+2022-04-20T02:51:15.699Z;EVICT;Take lt Easy;Eterninho;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;EVICT;Consequence;Twiggles420
+2022-04-20T02:51:15.888Z;;Militant;VinTaro;T5_2H_HAMMER_AVALON@2;Expert's Hand of Justice;1;DIOR;Elevate;angryludo
+2022-04-20T02:51:15.952Z;EVICT;Take lt Easy;Eterninho;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;EVICT;Consequence;Twiggles420
+2022-04-20T02:51:16.127Z;;Militant;punkeh;T5_BAG@1;Expert's Bag;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:51:16.142Z;EVICT;Take lt Easy;Eterninho;T6_2H_KNUCKLES_SET3@2;Master's Spiked Gauntlets;1;EVICT;Consequence;Twiggles420
+2022-04-20T02:51:16.268Z;DIOR;EscaIation;Benmage;T6_2H_FIRESTAFF_HELL@3;Master's Brimstone Staff;1;DIOR;EscaIation;JMTGR
+2022-04-20T02:51:16.496Z;T4K3;The Slap;kowatera;T7_ARMOR_PLATE_HELL@1;Grandmaster's Demon Armor;1;;Militant;Trapbulge
+2022-04-20T02:51:16.612Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;JMTGR
+2022-04-20T02:51:16.673Z;DIOR;EscaIation;SoloOoM;T7_2H_DUALSCIMITAR_UNDEAD@3;Grandmaster's Galatine Pair;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:51:16.769Z;T4K3;The Slap;kowatera;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;Trapbulge
+2022-04-20T02:51:16.954Z;DIOR;EscaIation;SoloOoM;T6_HEAD_LEATHER_ROYAL@2;Master's Royal Hood;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:51:16.969Z;T4K3;The Slap;kowatera;T5_OFF_HORN_KEEPER@3;Expert's Mistcaller;1;;Militant;Trapbulge
+2022-04-20T02:51:17.075Z;;Militant;RiderClav;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:51:17.194Z;DIOR;EscaIation;SoloOoM;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:51:17.232Z;T4K3;The Slap;kowatera;T6_MAIN_CURSEDSTAFF_UNDEAD@1;Master's Lifecurse Staff;1;;Militant;Trapbulge
+2022-04-20T02:51:17.315Z;;Militant;RiderClav;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:51:17.518Z;;Militant;RiderClav;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:51:17.704Z;DIOR;EscaIation;SoloOoM;T4_CAPEITEM_KEEPER@2;Adept's Keeper Cape;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:51:17.946Z;T4K3;The Slap;kowatera;T5_SHOES_CLOTH_ROYAL@3;Expert's Royal Sandals;1;;Militant;Trapbulge
+2022-04-20T02:51:17.982Z;;Militant;RiderClav;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:51:18.127Z;;Militant;SugarcoldB2;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;EVICT;Take lt Easy;Asheliya
+2022-04-20T02:51:18.128Z;;Militant;Hadeslolxd;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;Byebee
+2022-04-20T02:51:18.168Z;;Militant;ChestyLaRue;T6_2H_MACE_MORGANA@2;Master's Camlann Mace;1;PXOCS;Post-Mortemm;FlamLz
+2022-04-20T02:51:18.290Z;T4K3;The Slap;kowatera;T4_BAG@1;Adept's Bag;1;;Militant;Trapbulge
+2022-04-20T02:51:18.324Z;;Militant;RiderClav;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:51:18.360Z;;Militant;punkeh;T7_POTION_STONESKIN;Major Resistance Potion;5;DIOR;EscaIation;BlueDawn
+2022-04-20T02:51:18.516Z;;Militant;Umami;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;Yohduh
+2022-04-20T02:51:18.571Z;T4K3;The Slap;kowatera;T6_BAG@1;Master's Bag;1;;Militant;Trapbulge
+2022-04-20T02:51:18.611Z;;Militant;ChestyLaRue;T6_ARMOR_PLATE_KEEPER@3;Master's Judicator Armor;1;PXOCS;Post-Mortemm;FlamLz
+2022-04-20T02:51:18.615Z;;Militant;Hadeslolxd;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;Byebee
+2022-04-20T02:51:18.672Z;;Militant;punkeh;T7_SHOES_CLOTH_SET3;Grandmaster's Mage Sandals;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:51:18.687Z;;Militant;SrAleatorio;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;Trapbulge
+2022-04-20T02:51:18.721Z;;Militant;SugarcoldB2;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;EVICT;Take lt Easy;Asheliya
+2022-04-20T02:51:18.810Z;T4K3;The Slap;kowatera;T6_ARMOR_LEATHER_HELL@2;Master's Hellion Jacket;1;;Militant;Trapbulge
+2022-04-20T02:51:18.845Z;;Militant;Hadeslolxd;T7_MEAL_OMELETTE_AVALON;Avalonian Pork Omelette;2;;Militant;Byebee
+2022-04-20T02:51:19.048Z;;Militant;ChestyLaRue;T5_BAG@2;Expert's Bag;1;PXOCS;Post-Mortemm;FlamLz
+2022-04-20T02:51:19.080Z;DIOR;EscaIation;SoloOoM;T8_MEAL_STEW@2;Beef Stew;1;DIOR;EscaIation;BlueDawn
+2022-04-20T02:51:19.115Z;;Militant;SugarcoldB2;T4_CAPEITEM_FW_LYMHURST@2;Adept's Lymhurst Cape;1;EVICT;Take lt Easy;Asheliya
+2022-04-20T02:51:19.141Z;;Militant;Hadeslolxd;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;Byebee
+2022-04-20T02:51:19.156Z;;Militant;RiderClav;T7_POTION_STONESKIN;Major Resistance Potion;3;DIOR;EscaIation;JJordanH
+2022-04-20T02:51:19.288Z;;Militant;PixelPecs;T6_2H_MACE_MORGANA@2;Master's Camlann Mace;1;DIOR;EscaIation;KOCHAB
+2022-04-20T02:51:19.393Z;;Militant;ChestyLaRue;T7_POTION_STONESKIN;Major Resistance Potion;4;PXOCS;Post-Mortemm;FlamLz
+2022-04-20T02:51:19.517Z;;Militant;PixelPecs;T8_HEAD_PLATE_SET3;Elder's Guardian Helmet;1;DIOR;EscaIation;KOCHAB
+2022-04-20T02:51:19.671Z;T4K3;The Slap;kowatera;T6_2H_AXE_AVALON@3;Master's Realmbreaker;1;;Militant;Trapbulge
+2022-04-20T02:51:19.736Z;;Militant;PixelPecs;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;KOCHAB
+2022-04-20T02:51:19.755Z;;Militant;ChestyLaRue;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;PXOCS;Post-Mortemm;FlamLz
+2022-04-20T02:51:19.938Z;T4K3;The Slap;kowatera;T7_POTION_STONESKIN@1;Major Resistance Potion;2;;Militant;Trapbulge
+2022-04-20T02:51:20.017Z;;Militant;BucciaratiListad;T5_CAPEITEM_FW_FORTSTERLING@2;Expert's Fort Sterling Cape;1;;Militant;Uesugi
+2022-04-20T02:51:20.204Z;DIOR;EscaIation;zstrafe;T7_2H_NATURESTAFF_HELL@1;Grandmaster's Blight Staff;1;DIOR;EscaIation;nicalli
+2022-04-20T02:51:20.315Z;;Militant;BucciaratiListad;T6_HEAD_PLATE_SET2@2;Master's Knight Helmet;1;;Militant;Uesugi
+2022-04-20T02:51:20.392Z;;Militant;Chuchay9;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;EVICT;Consequence;KnightWolv
+2022-04-20T02:51:20.421Z;;Militant;MarciaI;T6_BAG;Master's Bag;1;DIOR;EscaIation;ChowJackson
+2022-04-20T02:51:20.445Z;T4K3;The Slap;kowatera;T8_MEAL_STEW@2;Beef Stew;1;;Militant;Trapbulge
+2022-04-20T02:51:20.537Z;;Militant;BucciaratiListad;T6_ARMOR_CLOTH_SET2@2;Master's Cleric Robe;1;;Militant;Uesugi
+2022-04-20T02:51:20.553Z;DIOR;EscaIation;zstrafe;T8_HEAD_PLATE_SET2@1;Elder's Knight Helmet;1;DIOR;EscaIation;nicalli
+2022-04-20T02:51:20.577Z;;Militant;PixelPecs;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;DIOR;EscaIation;KOCHAB
+2022-04-20T02:51:20.793Z;;Militant;BucciaratiListad;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;Uesugi
+2022-04-20T02:51:20.862Z;T4K3;The Slap;kowatera;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Trapbulge
+2022-04-20T02:51:20.862Z;;Militant;Chuchay9;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;EVICT;Consequence;KnightWolv
+2022-04-20T02:51:21.009Z;DIOR;EscaIation;zstrafe;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;DIOR;EscaIation;nicalli
+2022-04-20T02:51:21.171Z;;Militant;BucciaratiListad;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;Uesugi
+2022-04-20T02:51:21.248Z;;Militant;midnightsnack;T8_SHOES_CLOTH_ROYAL@3;Elder's Royal Sandals;1;DIOR;EscaIation;Jez0r
+2022-04-20T02:51:21.494Z;;Militant;Coferosa;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;DIOR;EscaIation;KOCHAB
+2022-04-20T02:51:21.518Z;;Militant;midnightsnack;T8_2H_DAGGER_KATAR_AVALON@3;Elder's Bridled Fury;1;DIOR;EscaIation;Jez0r
+2022-04-20T02:51:21.548Z;DIOR;EscaIation;zstrafe;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;DIOR;EscaIation;nicalli
+2022-04-20T02:51:21.841Z;;Militant;midnightsnack;T8_HEAD_LEATHER_MORGANA@3;Elder's Stalker Hood;1;DIOR;EscaIation;Jez0r
+2022-04-20T02:51:21.873Z;DIOR;EscaIation;zstrafe;T7_MEAL_OMELETTE@2;Pork Omelette;1;DIOR;EscaIation;nicalli
+2022-04-20T02:51:22.017Z;TH1RD;IAMNIUBI;BjornKiD;T8_SHOES_CLOTH_SET1@1;Elder's Scholar Sandals;1;DIOR;EscaIation;nicalli
+2022-04-20T02:51:22.026Z;;Militant;ChestyLaRue;T8_2H_KNUCKLES_KEEPER@2;Elder's Ursine Maulers;1;DIOR;EscaIation;Kiske
+2022-04-20T02:51:22.267Z;;Militant;Hadeslolxd;T8_HEAD_LEATHER_SET1;Elder's Mercenary Hood;1;;Militant;Marbb
+2022-04-20T02:51:22.673Z;;Militant;Coferosa;T7_POTION_STONESKIN;Major Resistance Potion;3;DIOR;EscaIation;KOCHAB
+2022-04-20T02:51:22.673Z;TH1RD;IAMNIUBI;BjornKiD;T7_POTION_STONESKIN;Major Resistance Potion;4;DIOR;EscaIation;nicalli
+2022-04-20T02:51:22.705Z;;Militant;Hadeslolxd;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Marbb
+2022-04-20T02:51:22.733Z;;Militant;ChestyLaRue;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;DIOR;EscaIation;Kiske
+2022-04-20T02:51:23.133Z;;Militant;ChestyLaRue;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;Kiske
+2022-04-20T02:51:23.202Z;;Militant;Hadeslolxd;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;Marbb
+2022-04-20T02:51:23.282Z;;Militant;BucciaratiListad;T7_POTION_STONESKIN;Major Resistance Potion;1;EVICT;Take lt Easy;Asheliya
+2022-04-20T02:51:23.446Z;;Militant;Hadeslolxd;T7_POTION_STONESKIN;Major Resistance Potion;3;;Militant;Marbb
+2022-04-20T02:51:23.506Z;;Militant;ChestyLaRue;T4_BAG@1;Adept's Bag;1;DIOR;EscaIation;Kiske
+2022-04-20T02:51:23.639Z;;Militant;Hadeslolxd;T7_MEAL_OMELETTE_FISH;Dusthole Crab Omelette;1;;Militant;Marbb
+2022-04-20T02:51:23.792Z;;Militant;Alexia7w7;T7_POTION_STONESKIN;Major Resistance Potion;3;DIOR;EscaIation;Kiske
+2022-04-20T02:51:23.833Z;;Militant;RiderClav;T5_CAPEITEM_FW_LYMHURST@3;Expert's Lymhurst Cape;1;DIOR;Elevate;iVandal
+2022-04-20T02:51:24.077Z;;Militant;Hadeslolxd;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;Marbb
+2022-04-20T02:51:24.297Z;;Militant;Hadeslolxd;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;Marbb
+2022-04-20T02:51:24.298Z;;Militant;RiderClav;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;DIOR;Elevate;iVandal
+2022-04-20T02:51:25.252Z;;Militant;RiderClav;T8_HEAD_LEATHER_SET3@1;Elder's Assassin Hood;1;DIOR;Elevate;iVandal
+2022-04-20T02:51:25.361Z;;Militant;SrAleatorio;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;Elevate;iVandal
+2022-04-20T02:51:25.361Z;TH1RD;IAMNIUBI;BjornKiD;T6_2H_CURSEDSTAFF_MORGANA@3;Master's Damnation Staff;1;DIOR;EscaIation;lillia7w7
+2022-04-20T02:51:25.531Z;;Militant;BucciaratiListad;T7_POTION_STONESKIN;Major Resistance Potion;2;DIOR;EscaIation;lillia7w7
+2022-04-20T02:51:25.642Z;TH1RD;IAMNIUBI;BjornKiD;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;lillia7w7
+2022-04-20T02:51:25.727Z;;Militant;SandmanDUH;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;nicalli
+2022-04-20T02:51:25.798Z;;Militant;SrAleatorio;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;Elevate;iVandal
+2022-04-20T02:51:25.877Z;TH1RD;IAMNIUBI;BjornKiD;T8_ARMOR_CLOTH_SET1;Elder's Scholar Robe;1;DIOR;EscaIation;lillia7w7
+2022-04-20T02:51:26.724Z;;Militant;BucciaratiListad;T6_MOUNT_DIREWOLF;Direwolf;1;DIOR;EscaIation;lillia7w7
+2022-04-20T02:51:37.142Z;EVICT;Take lt Easy;Niurkaz;T6_OFF_TOTEM_KEEPER@3;Master's Taproot;1;DIOR;EscaIation;Zeptonia
+2022-04-20T02:51:37.533Z;EVICT;Take lt Easy;Niurkaz;T8_SHOES_LEATHER_SET2@2;Elder's Hunter Shoes;1;DIOR;EscaIation;Zeptonia
+2022-04-20T02:51:37.705Z;EVICT;Take lt Easy;Seidenada;T7_POTION_REVIVE;Major Gigantify Potion;3;DIOR;EscaIation;Zeptonia
+2022-04-20T02:51:37.736Z;EVICT;Take lt Easy;Niurkaz;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;Zeptonia
+2022-04-20T02:51:38.105Z;EVICT;Take lt Easy;Niurkaz;T8_ARMOR_PLATE_SET3@1;Elder's Guardian Armor;1;DIOR;EscaIation;Zeptonia
+2022-04-20T02:51:38.315Z;EVICT;Take lt Easy;Niurkaz;T5_CAPEITEM_FW_MARTLOCK@3;Expert's Martlock Cape;1;DIOR;EscaIation;Zeptonia
+2022-04-20T02:51:56.985Z;EVICT;Take lt Easy;Ry4nxDx;T6_2H_NATURESTAFF_HELL@1;Master's Blight Staff;1;EVICT;Take lt Easy;akaballan
+2022-04-20T02:51:57.424Z;EVICT;Take lt Easy;Ry4nxDx;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;EVICT;Take lt Easy;akaballan
+2022-04-20T02:51:57.663Z;EVICT;Take lt Easy;Ry4nxDx;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;EVICT;Take lt Easy;akaballan
+2022-04-20T02:51:57.830Z;EVICT;Take lt Easy;Ry4nxDx;T7_HEAD_LEATHER_SET1@1;Grandmaster's Mercenary Hood;1;EVICT;Take lt Easy;akaballan
+2022-04-20T02:51:58.046Z;EVICT;Take lt Easy;Ry4nxDx;T6_ARMOR_CLOTH_SET2@2;Master's Cleric Robe;1;EVICT;Take lt Easy;akaballan
+2022-04-20T02:51:58.634Z;PXOCS;Post-Mortemm;Namba17;T7_MEAL_OMELETTE@1;Pork Omelette;1;PXOCS;Post-Mortemm;Kinmnara
+2022-04-20T02:51:58.925Z;PXOCS;Post-Mortemm;Namba17;T7_POTION_STONESKIN;Major Resistance Potion;1;PXOCS;Post-Mortemm;Kinmnara
+2022-04-20T02:51:59.609Z;EVICT;Take lt Easy;Ry4nxDx;T6_HEAD_LEATHER_SET1@2;Master's Mercenary Hood;1;EVICT;Take lt Easy;Luixxxxx
+2022-04-20T02:51:59.736Z;PXOCS;Post-Mortemm;keiderlyn;T5_MOUNT_ARMORED_HORSE;Expert's Armored Horse;1;PXOCS;Post-Mortemm;Kinmnara
+2022-04-20T02:51:59.846Z;EVICT;Take lt Easy;Ry4nxDx;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;EVICT;Take lt Easy;Luixxxxx
+2022-04-20T02:52:18.264Z;LAAAL;Dove;darkrbb;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Take lt Easy;akaballan
+2022-04-20T02:52:18.828Z;LAAAL;Dove;darkrbb;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Take lt Easy;akaballan
+2022-04-20T02:52:20.142Z;LAAAL;Dove;darkrbb;T6_BAG;Master's Bag;1;EVICT;Take lt Easy;Luixxxxx
+2022-04-20T02:52:20.406Z;LAAAL;Dove;darkrbb;T6_POTION_ENERGY;Major Energy Potion;2;EVICT;Take lt Easy;Luixxxxx
+2022-04-20T02:52:20.596Z;LAAAL;Dove;darkrbb;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Take lt Easy;Luixxxxx
+2022-04-20T02:52:24.691Z;;Militant;RiderClav;T6_2H_KNUCKLES_MORGANA@2;Master's Ravenstrike Cestus;1;;Militant;Coferosa
+2022-04-20T02:52:25.642Z;;Militant;RiderClav;T5_SHOES_CLOTH_ROYAL@3;Expert's Royal Sandals;1;;Militant;Coferosa
+2022-04-20T02:52:26.045Z;;Militant;RiderClav;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;;Militant;Coferosa
+2022-04-20T02:52:30.974Z;LAAAL;Dove;darkrbb;T7_ARMOR_CLOTH_SET2@1;Grandmaster's Cleric Robe;1;;Militant;Coferosa
+2022-04-20T02:52:31.314Z;LAAAL;Dove;darkrbb;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;;Militant;Coferosa
+2022-04-20T02:52:32.290Z;LAAAL;Dove;darkrbb;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;Coferosa
+2022-04-20T02:52:32.642Z;DIOR;EscaIation;zstrafe;T6_MAIN_HOLYSTAFF_AVALON@2;Master's Hallowfall;1;EVICT;Take lt Easy;VT23
+2022-04-20T02:52:32.720Z;LAAAL;Dove;darkrbb;T5_MOUNT_ARMORED_HORSE;Expert's Armored Horse;1;;Militant;Coferosa
+2022-04-20T02:52:33.298Z;DIOR;EscaIation;zstrafe;T7_OFF_HORN_KEEPER@1;Grandmaster's Mistcaller;1;EVICT;Take lt Easy;VT23
+2022-04-20T02:52:33.689Z;DIOR;EscaIation;zstrafe;T4_HEAD_CLOTH_ROYAL@3;Adept's Royal Cowl;1;EVICT;Take lt Easy;VT23
+2022-04-20T02:52:35.799Z;LAAAL;Dove;darkrbb;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;Coferosa
+2022-04-20T02:52:36.063Z;LAAAL;Dove;darkrbb;T5_2H_CURSEDSTAFF_MORGANA@2;Expert's Damnation Staff;1;;Militant;Coferosa
+2022-04-20T02:52:37.080Z;LAAAL;Dove;darkrbb;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;;Militant;Coferosa
+2022-04-20T02:52:37.330Z;LAAAL;Dove;darkrbb;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;Coferosa
+2022-04-20T02:52:37.362Z;DIOR;EscaIation;zstrafe;T6_2H_DAGGER_KATAR_AVALON@2;Master's Bridled Fury;1;EVICT;Take lt Easy;sylvanasnega
+2022-04-20T02:52:37.533Z;LAAAL;Dove;darkrbb;T6_SHOES_CLOTH_ROYAL@3;Master's Royal Sandals;1;;Militant;Coferosa
+2022-04-20T02:52:37.737Z;DIOR;EscaIation;zstrafe;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;EVICT;Take lt Easy;sylvanasnega
+2022-04-20T02:52:37.937Z;LAAAL;Dove;darkrbb;T7_POTION_STONESKIN;Major Resistance Potion;7;;Militant;Coferosa
+2022-04-20T02:52:38.047Z;DIOR;EscaIation;zstrafe;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;EVICT;Take lt Easy;sylvanasnega
+2022-04-20T02:52:41.017Z;;Militant;SandmanDUH;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;VinTaro
+2022-04-20T02:52:42.323Z;LAAAL;Dove;darkrbb;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;;Militant;Faustos
+2022-04-20T02:52:42.607Z;LAAAL;Dove;darkrbb;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;Faustos
+2022-04-20T02:52:42.894Z;LAAAL;Dove;darkrbb;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;Faustos
+2022-04-20T02:52:44.268Z;LAAAL;Dove;darkrbb;T6_2H_CROSSBOWLARGE_MORGANA@2;Master's Siegebow;1;;Militant;Bowe
+2022-04-20T02:52:44.570Z;LAAAL;Dove;darkrbb;T5_SHOES_CLOTH_ROYAL@2;Expert's Royal Sandals;1;;Militant;Bowe
+2022-04-20T02:52:46.705Z;DIOR;EscaIation;Bigbodyblunt;T6_HEAD_LEATHER_ROYAL@3;Master's Royal Hood;1;;Militant;Drixxiss
+2022-04-20T02:52:47.485Z;DIOR;EscaIation;Bigbodyblunt;T8_SHOES_CLOTH_ROYAL@3;Elder's Royal Sandals;1;;Militant;Drixxiss
+2022-04-20T02:52:50.810Z;0UT;DYST0PIA;EAMCARRY;T6_BAG;Master's Bag;1;;Militant;Hadeslolxd
+2022-04-20T02:52:51.064Z;0UT;DYST0PIA;EAMCARRY;T4_ARMOR_PLATE_KEEPER@3;Adept's Judicator Armor;1;;Militant;Hadeslolxd
+2022-04-20T02:52:51.280Z;DIOR;EscaIation;DreadedLegend;T6_HEAD_PLATE_KEEPER@2;Master's Judicator Helmet;1;;Militant;LocoAsylum
+2022-04-20T02:52:51.298Z;0UT;DYST0PIA;EAMCARRY;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;Hadeslolxd
+2022-04-20T02:52:51.580Z;0UT;DYST0PIA;EAMCARRY;T6_2H_HAMMER_AVALON@2;Master's Hand of Justice;1;;Militant;Hadeslolxd
+2022-04-20T02:52:51.695Z;0UT;DYST0PIA;EAMCARRY;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;Hadeslolxd
+2022-04-20T02:52:51.986Z;0UT;DYST0PIA;EAMCARRY;T6_ARMOR_PLATE_KEEPER@3;Master's Judicator Armor;1;;Militant;Hadeslolxd
+2022-04-20T02:52:52.548Z;DIOR;EscaIation;AragonOrder;T8_SHOES_LEATHER_SET3;Elder's Assassin Shoes;1;;Militant;LocoAsylum
+2022-04-20T02:52:52.736Z;0UT;DYST0PIA;EAMCARRY;T8_TRASH;Trash;1;;Militant;Hadeslolxd
+2022-04-20T02:52:52.875Z;DIOR;EscaIation;AragonOrder;T5_BAG;Expert's Bag;1;;Militant;LocoAsylum
+2022-04-20T02:52:53.017Z;0UT;DYST0PIA;EAMCARRY;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;Hadeslolxd
+2022-04-20T02:52:53.223Z;0UT;DYST0PIA;EAMCARRY;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Hadeslolxd
+2022-04-20T02:52:53.362Z;;Casual Company;PlatinumNuke;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;Coferosa
+2022-04-20T02:52:53.443Z;0UT;DYST0PIA;EAMCARRY;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;Hadeslolxd
+2022-04-20T02:52:53.530Z;ARCH;Awful Company;iBjornIRONSIDEE;T8_ARMOR_CLOTH_SET2@3;Elder's Cleric Robe;1;;Militant;Drixxiss
+2022-04-20T02:52:53.626Z;0UT;DYST0PIA;EAMCARRY;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;Hadeslolxd
+2022-04-20T02:52:53.799Z;0UT;DYST0PIA;EAMCARRY;T8_HEAD_LEATHER_SET1;Elder's Mercenary Hood;1;;Militant;Hadeslolxd
+2022-04-20T02:52:53.838Z;PXOCS;ESCOLINHA DO G4NK;kraatosW;T5_MAIN_HOLYSTAFF_AVALON@3;Expert's Hallowfall;1;;;ManinGus
+2022-04-20T02:52:53.892Z;ARCH;Awful Company;iBjornIRONSIDEE;T7_BAG;Grandmaster's Bag;1;;Militant;Drixxiss
+2022-04-20T02:52:53.961Z;PXOCS;RED WIND;Lucite;T6_TRASH;Trash;1;;;ManinGus
+2022-04-20T02:52:54.204Z;PXOCS;RED WIND;Lucite;T5_OFF_SHIELD_AVALON@3;Expert's Astral Aegis;1;;;ManinGus
+2022-04-20T02:52:54.479Z;0UT;DYST0PIA;EAMCARRY;T7_POTION_STONESKIN;Major Resistance Potion;4;;Militant;Hadeslolxd
+2022-04-20T02:52:54.580Z;PXOCS;RED WIND;Lucite;T8_ARMOR_PLATE_SET3;Elder's Guardian Armor;1;;;ManinGus
+2022-04-20T02:52:54.672Z;0UT;DYST0PIA;EAMCARRY;T8_HEAD_PLATE_SET2@1;Elder's Knight Helmet;1;;Militant;Hadeslolxd
+2022-04-20T02:52:54.814Z;PXOCS;ESCOLINHA DO G4NK;Barvarian;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;;ManinGus
+2022-04-20T02:52:54.883Z;0UT;DYST0PIA;EAMCARRY;T7_MEAL_OMELETTE_FISH;Dusthole Crab Omelette;1;;Militant;Hadeslolxd
+2022-04-20T02:52:55.071Z;0UT;DYST0PIA;EAMCARRY;T6_ARTEFACT_TOKEN_FAVOR_3;Master's Crystallized Magic;1;;Militant;Hadeslolxd
+2022-04-20T02:52:55.231Z;;Casual Company;PlatinumNuke;T7_POTION_REVIVE;Major Gigantify Potion;1;;Militant;Faustos
+2022-04-20T02:52:55.319Z;PXOCS;RED WIND;Lucite;T6_2H_ENIGMATICSTAFF@2;Master's Enigmatic Staff;1;;;ManinGus
+2022-04-20T02:52:55.319Z;0UT;DYST0PIA;EAMCARRY;T7_MEAL_OMELETTE_AVALON;Avalonian Pork Omelette;1;;Militant;Hadeslolxd
+2022-04-20T02:52:55.415Z;ARCH;Awful Company;iBjornIRONSIDEE;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;Silenciando
+2022-04-20T02:52:55.502Z;;Casual Company;PlatinumNuke;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Faustos
+2022-04-20T02:52:55.594Z;PXOCS;ESCOLINHA DO G4NK;kraatosW;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;;;ManinGus
+2022-04-20T02:52:55.642Z;PXOCS;ESCOLINHA DO G4NK;Barvarian;T6_TRASH;Trash;1;;;ManinGus
+2022-04-20T02:52:55.721Z;ARCH;Awful Company;iBjornIRONSIDEE;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;Silenciando
+2022-04-20T02:52:56.071Z;ARCH;Awful Company;iBjornIRONSIDEE;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;Silenciando
+2022-04-20T02:52:56.481Z;PXOCS;RED WIND;Lucite;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;;ManinGus
+2022-04-20T02:52:56.537Z;ARCH;Awful Company;iBjornIRONSIDEE;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;Silenciando
+2022-04-20T02:52:56.820Z;PXOCS;ESCOLINHA DO G4NK;Barvarian;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;;;ManinGus
+2022-04-20T02:52:56.971Z;PXOCS;RED WIND;Lucite;T7_HEAD_PLATE_SET2@1;Grandmaster's Knight Helmet;1;;;ManinGus
+2022-04-20T02:52:57.009Z;PXOCS;RED WIND;Gurillo;T4_TRASH;Trash;1;;;ManinGus
+2022-04-20T02:52:57.062Z;PXOCS;ESCOLINHA DO G4NK;Barvarian;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;;;ManinGus
+2022-04-20T02:52:57.094Z;;Casual Company;PlatinumNuke;T5_BAG@1;Expert's Bag;1;;Militant;Bowe
+2022-04-20T02:52:57.118Z;PXOCS;ESCOLINHA DO G4NK;kraatosW;T7_HEAD_LEATHER_SET3@1;Grandmaster's Assassin Hood;1;;;ManinGus
+2022-04-20T02:52:57.348Z;;Casual Company;PlatinumNuke;T7_POTION_STONESKIN;Major Resistance Potion;3;;Militant;Bowe
+2022-04-20T02:52:57.727Z;;Casual Company;PlatinumNuke;T7_MEAL_OMELETTE@2;Pork Omelette;1;;Militant;Bowe
+2022-04-20T02:52:57.813Z;;Casual Company;PlatinumNuke;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Bowe
+2022-04-20T02:52:58.125Z;;Casual Company;PlatinumNuke;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;Bowe
+2022-04-20T02:52:58.748Z;ARCH;Awful Company;iBjornIRONSIDEE;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;VimViiVenci
+2022-04-20T02:52:59.369Z;ARCH;Awful Company;iBjornIRONSIDEE;T7_ARMOR_CLOTH_SET2@1;Grandmaster's Cleric Robe;1;;Militant;VimViiVenci
+2022-04-20T02:52:59.656Z;ARCH;Awful Company;iBjornIRONSIDEE;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;;Militant;VimViiVenci
+2022-04-20T02:52:59.923Z;ARCH;Awful Company;iBjornIRONSIDEE;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;VimViiVenci
+2022-04-20T02:53:00.271Z;ARCH;Awful Company;iBjornIRONSIDEE;T5_2H_HOLYSTAFF_HELL@2;Expert's Fallen Staff;1;;Militant;VimViiVenci
+2022-04-20T02:53:01.485Z;LAAAL;Dove;darkrbb;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;Drixxiss
+2022-04-20T02:53:02.911Z;LAAAL;Dove;darkrbb;T6_BAG;Master's Bag;1;;Militant;Silenciando
+2022-04-20T02:53:05.850Z;LAAAL;Dove;darkrbb;T5_2H_HAMMER_AVALON@2;Expert's Hand of Justice;1;GUTS;KraKen 69;SawLynn
+2022-04-20T02:53:06.192Z;LAAAL;Dove;darkrbb;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;GUTS;KraKen 69;SawLynn
+2022-04-20T02:53:07.595Z;EVICT;Take lt Easy;Eterninho;T6_ARMOR_LEATHER_HELL@2;Master's Hellion Jacket;1;;Militant;SandmanDUH
+2022-04-20T02:53:07.762Z;LAAAL;Dove;darkrbb;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;;Militant;Sirkm3
+2022-04-20T02:53:07.797Z;EVICT;Take lt Easy;Eterninho;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;SandmanDUH
+2022-04-20T02:53:07.950Z;EVICT;Take lt Easy;Eterninho;T6_2H_HARPOON_HELL@2;Master's Spirithunter;1;;Militant;SandmanDUH
+2022-04-20T02:53:08.127Z;LAAAL;Dove;darkrbb;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;Sirkm3
+2022-04-20T02:53:08.157Z;EVICT;Take lt Easy;Eterninho;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;SandmanDUH
+2022-04-20T02:53:09.783Z;LAAAL;Dove;darkrbb;T7_2H_NATURESTAFF_KEEPER@1;Grandmaster's Rampant Staff;1;;Militant;MtMnimi
+2022-04-20T02:53:10.077Z;LAAAL;Dove;darkrbb;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;MtMnimi
+2022-04-20T02:53:10.360Z;LAAAL;Dove;darkrbb;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;MtMnimi
+2022-04-20T02:53:11.360Z;LAAAL;Dove;darkrbb;T4_ARMOR_CLOTH_SET2;Adept's Cleric Robe;1;;Gorila;DREAMDARKS
+2022-04-20T02:53:12.580Z;LAAAL;Dove;darkrbb;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;RiderClav
+2022-04-20T02:53:12.846Z;LAAAL;Dove;darkrbb;T8_2H_ARCANESTAFF;Elder's Great Arcane Staff;1;;Militant;RiderClav
+2022-04-20T02:53:13.245Z;LAAAL;Dove;darkrbb;T7_ARMOR_LEATHER_MORGANA@2;Grandmaster's Stalker Jacket;1;;Militant;RiderClav
+2022-04-20T02:53:13.324Z;EVICT;Take lt Easy;Eterninho;T4_CAPEITEM_FW_FORTSTERLING@2;Adept's Fort Sterling Cape;1;;Militant;Sirkm3
+2022-04-20T02:53:13.682Z;LAAAL;Dove;darkrbb;T7_MAIN_RAPIER_MORGANA@2;Grandmaster's Bloodletter;1;;Militant;RiderClav
+2022-04-20T02:53:14.507Z;LAAAL;Dove;darkrbb;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;;Militant;RiderClav
+2022-04-20T02:53:14.735Z;LAAAL;Dove;darkrbb;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;RiderClav
+2022-04-20T02:53:14.986Z;LAAAL;Dove;darkrbb;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;;Militant;RiderClav
+2022-04-20T02:53:15.392Z;LAAAL;Dove;darkrbb;T5_CAPEITEM_FW_LYMHURST@3;Expert's Lymhurst Cape;1;;Militant;RiderClav
+2022-04-20T02:53:15.704Z;LAAAL;Dove;darkrbb;T6_2H_KNUCKLES_MORGANA@2;Master's Ravenstrike Cestus;1;;Militant;RiderClav
+2022-04-20T02:53:15.916Z;LAAAL;Dove;darkrbb;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;;Militant;RiderClav
+2022-04-20T02:53:16.100Z;LAAAL;Dove;darkrbb;T8_HEAD_LEATHER_SET3@1;Elder's Assassin Hood;1;;Militant;RiderClav
+2022-04-20T02:53:16.861Z;LAAAL;Dove;darkrbb;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;;Militant;RiderClav
+2022-04-20T02:53:17.235Z;LAAAL;Dove;darkrbb;T7_MEAL_OMELETTE_FISH;Dusthole Crab Omelette;1;;Militant;RiderClav
+2022-04-20T02:53:17.673Z;LAAAL;Dove;darkrbb;T8_MEAL_STEW@3;Beef Stew;1;;Militant;RiderClav
+2022-04-20T02:53:22.383Z;0UT;DYST0PIA;EAMCARRY;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;SandmanDUH
+2022-04-20T02:53:23.110Z;0UT;DYST0PIA;EAMCARRY;T6_2H_TOOL_SIEGEHAMMER;Master's Demolition Hammer;1;;Militant;SandmanDUH
+2022-04-20T02:53:23.267Z;0UT;DYST0PIA;EAMCARRY;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;SandmanDUH
+2022-04-20T02:53:23.567Z;0UT;DYST0PIA;EAMCARRY;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;SandmanDUH
+2022-04-20T02:53:23.919Z;0UT;DYST0PIA;EAMCARRY;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;SandmanDUH
+2022-04-20T02:53:23.967Z;;Militant;Umami;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;LocoAsylum
+2022-04-20T02:53:24.728Z;;Militant;Umami;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;LocoAsylum
+2022-04-20T02:53:25.045Z;DIOR;EscaIation;Benmage;T7_2H_KNUCKLES_SET3@1;Grandmaster's Spiked Gauntlets;1;DIOR;EscaIation;Jez0r
+2022-04-20T02:53:25.300Z;;Militant;Umami;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;LocoAsylum
+2022-04-20T02:53:26.329Z;;Militant;Anglux;T7_MEAL_OMELETTE_FISH;Dusthole Crab Omelette;1;;Militant;VimViiVenci
+2022-04-20T02:53:26.641Z;;Militant;Anglux;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;VimViiVenci
+2022-04-20T02:53:26.951Z;;Militant;Anglux;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;VimViiVenci
+2022-04-20T02:53:29.543Z;DIOR;EscaIation;SoloOoM;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;PXOCS;ESCOLINHA DO G4NK;kayn157
+2022-04-20T02:53:29.809Z;DIOR;EscaIation;SoloOoM;T8_HEAD_CLOTH_SET2;Elder's Cleric Cowl;1;PXOCS;ESCOLINHA DO G4NK;kayn157
+2022-04-20T02:53:30.112Z;DIOR;EscaIation;SoloOoM;T7_2H_ENIGMATICSTAFF@1;Grandmaster's Enigmatic Staff;1;PXOCS;ESCOLINHA DO G4NK;kayn157
+2022-04-20T02:53:31.876Z;DIOR;EscaIation;SoloOoM;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;PXOCS;ESCOLINHA DO G4NK;kayn157
+2022-04-20T02:53:32.235Z;DIOR;EscaIation;SoloOoM;T7_POTION_STONESKIN;Major Resistance Potion;1;PXOCS;ESCOLINHA DO G4NK;kayn157
+2022-04-20T02:53:32.391Z;T4K3;The Slap;Pipeexx;T6_2H_CLAWPAIR@1;Master's Claws;1;PXOCS;ESCOLINHA DO G4NK;L3T0D13
+2022-04-20T02:53:32.801Z;T4K3;The Slap;Pipeexx;T6_BAG;Master's Bag;1;PXOCS;ESCOLINHA DO G4NK;L3T0D13
+2022-04-20T02:53:33.021Z;T4K3;The Slap;Pipeexx;T8_POTION_COOLDOWN;Major Poison Potion;3;PXOCS;ESCOLINHA DO G4NK;L3T0D13
+2022-04-20T02:53:33.235Z;T4K3;The Slap;Pipeexx;T8_MEAL_STEW@1;Beef Stew;1;PXOCS;ESCOLINHA DO G4NK;L3T0D13
+2022-04-20T02:53:33.454Z;T4K3;The Slap;Pipeexx;T4_CAPEITEM_DEMON@3;Adept's Demon Cape;1;PXOCS;ESCOLINHA DO G4NK;L3T0D13
+2022-04-20T02:53:33.766Z;T4K3;The Slap;Pipeexx;T4_RELIC;Adept's Relic;2;PXOCS;ESCOLINHA DO G4NK;L3T0D13
+2022-04-20T02:53:36.138Z;T4K3;The Slap;Pipeexx;T6_HEAD_LEATHER_SET3@1;Master's Assassin Hood;1;PXOCS;RED WIND;MPDIELMP
+2022-04-20T02:53:36.389Z;T4K3;The Slap;Pipeexx;T4_ARMOR_LEATHER_HELL@3;Adept's Hellion Jacket;1;PXOCS;RED WIND;MPDIELMP
+2022-04-20T02:53:36.694Z;T4K3;The Slap;Pipeexx;T5_BAG;Expert's Bag;1;PXOCS;RED WIND;MPDIELMP
+2022-04-20T02:53:37.501Z;T4K3;The Slap;Pipeexx;T7_POTION_STONESKIN;Major Resistance Potion;2;PXOCS;RED WIND;MPDIELMP
+2022-04-20T02:53:38.918Z;DIOR;EscaIation;SoloOoM;T7_HEAD_CLOTH_SET2@1;Grandmaster's Cleric Cowl;1;PXOCS;ESCOLINHA DO G4NK;Putaodiparis
+2022-04-20T02:53:39.228Z;DIOR;EscaIation;SoloOoM;T7_ARMOR_PLATE_SET3@1;Grandmaster's Guardian Armor;1;PXOCS;ESCOLINHA DO G4NK;Putaodiparis
+2022-04-20T02:53:39.680Z;DIOR;EscaIation;SoloOoM;T7_ARMOR_PLATE_UNDEAD;Grandmaster's Graveguard Armor;1;PXOCS;ESCOLINHA DO G4NK;Putaodiparis
+2022-04-20T02:53:39.906Z;T4K3;The Slap;Pipeexx;T7_POTION_STONESKIN@1;Major Resistance Potion;1;PXOCS;ESCOLINHA DO G4NK;Maite10
+2022-04-20T02:53:40.015Z;DIOR;EscaIation;SoloOoM;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;PXOCS;ESCOLINHA DO G4NK;Putaodiparis
+2022-04-20T02:53:40.515Z;T4K3;The Slap;Pipeexx;T7_ARMOR_PLATE_UNDEAD@1;Grandmaster's Graveguard Armor;1;PXOCS;ESCOLINHA DO G4NK;Maite10
+2022-04-20T02:53:40.536Z;DIOR;EscaIation;SoloOoM;T6_HEAD_CLOTH_HELL@1;Master's Fiend Cowl;1;PXOCS;ESCOLINHA DO G4NK;Putaodiparis
+2022-04-20T02:53:40.776Z;DIOR;EscaIation;zstrafe;T5_2H_DUALAXE_KEEPER@2;Expert's Bear Paws;1;PXOCS;RED WIND;Gurillo
+2022-04-20T02:53:40.847Z;DIOR;EscaIation;SoloOoM;T6_CAPEITEM_UNDEAD;Master's Undead Cape;1;PXOCS;ESCOLINHA DO G4NK;Putaodiparis
+2022-04-20T02:53:40.890Z;T4K3;The Slap;Pipeexx;T7_2H_FLAIL;Grandmaster's Morning Star;1;PXOCS;ESCOLINHA DO G4NK;Maite10
+2022-04-20T02:53:41.345Z;T4K3;The Slap;Pipeexx;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;PXOCS;ESCOLINHA DO G4NK;Maite10
+2022-04-20T02:53:42.266Z;DIOR;EscaIation;SoloOoM;T7_POTION_STONESKIN;Major Resistance Potion;3;PXOCS;ESCOLINHA DO G4NK;Putaodiparis
+2022-04-20T02:53:43.249Z;DIOR;EscaIation;zJackson;T6_2H_AXE_AVALON@2;Master's Realmbreaker;1;EVICT;Take lt Easy;YoungCEOII
+2022-04-20T02:53:43.465Z;DIOR;EscaIation;Siomeow;T7_OFF_TORCH@1;Grandmaster's Torch;1;PXOCS;ESCOLINHA DO G4NK;kraatosW
+2022-04-20T02:53:43.547Z;DIOR;EscaIation;zJackson;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;EVICT;Take lt Easy;YoungCEOII
+2022-04-20T02:53:43.737Z;ARCH;Awful Company;beckRR;T4_2H_DOUBLEBLADEDSTAFF;Adept's Double Bladed Staff;1;PXOCS;ESCOLINHA DO G4NK;Hoozak
+2022-04-20T02:53:43.875Z;DIOR;EscaIation;zJackson;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;EVICT;Take lt Easy;YoungCEOII
+2022-04-20T02:53:43.925Z;ARCH;Awful Company;beckRR;T4_SHOES_PLATE_SET1@1;Adept's Soldier Boots;1;PXOCS;ESCOLINHA DO G4NK;Hoozak
+2022-04-20T02:53:44.168Z;DIOR;EscaIation;zJackson;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;EVICT;Take lt Easy;YoungCEOII
+2022-04-20T02:53:44.173Z;T4K3;The Slap;Pipeexx;T4_OFF_JESTERCANE_HELL@3;Adept's Leering Cane;1;PXOCS;ESCOLINHA DO G4NK;xSaiCaraiox
+2022-04-20T02:53:44.203Z;ARCH;Awful Company;beckRR;T8_MAIN_CURSEDSTAFF;Elder's Cursed Staff;1;PXOCS;ESCOLINHA DO G4NK;Hoozak
+2022-04-20T02:53:44.470Z;T4K3;The Slap;Pipeexx;T7_POTION_STONESKIN;Major Resistance Potion;2;PXOCS;ESCOLINHA DO G4NK;xSaiCaraiox
+2022-04-20T02:53:45.143Z;ARCH;Awful Company;beckRR;T4_ARMOR_CLOTH_SET2;Adept's Cleric Robe;1;PXOCS;ESCOLINHA DO G4NK;Hoozak
+2022-04-20T02:53:45.935Z;ARCH;Awful Company;beckRR;T5_2H_DAGGER_KATAR_AVALON@3;Expert's Bridled Fury;1;PXOCS;ESCOLINHA DO G4NK;Hoozak
+2022-04-20T02:53:47.297Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;1;EVICT;Take lt Easy;FunnyZxz
+2022-04-20T02:53:47.435Z;T4K3;The Slap;Pipeexx;T7_MAIN_DAGGER;Grandmaster's Dagger;1;PXOCS;ESCOLINHA DO G4NK;kraatosW
+2022-04-20T02:53:47.831Z;DIOR;EscaIation;Benmage;T6_2H_KNUCKLES_MORGANA@2;Master's Ravenstrike Cestus;1;EVICT;Take lt Easy;FunnyZxz
+2022-04-20T02:53:48.142Z;DIOR;EscaIation;Benmage;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;EVICT;Take lt Easy;FunnyZxz
+2022-04-20T02:53:48.205Z;T4K3;The Slap;Pipeexx;T6_2H_AXE;Master's Greataxe;1;PXOCS;ESCOLINHA DO G4NK;kraatosW
+2022-04-20T02:53:48.514Z;T4K3;The Slap;Pipeexx;T5_MAIN_HOLYSTAFF_AVALON@3;Expert's Hallowfall;1;PXOCS;ESCOLINHA DO G4NK;kraatosW
+2022-04-20T02:53:49.172Z;T4K3;The Slap;Pipeexx;T7_POTION_STONESKIN;Major Resistance Potion;5;PXOCS;ESCOLINHA DO G4NK;kraatosW
+2022-04-20T02:53:55.293Z;ARCH;Awful Company;beckRR;T5_HEAD_CLOTH_SET2@3;Expert's Cleric Cowl;1;PXOCS;ESCOLINHA DO G4NK;xSaiCaraiox
+2022-04-20T02:53:57.171Z;ARCH;Awful Company;beckRR;T6_ARMOR_PLATE_UNDEAD@1;Master's Graveguard Armor;1;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:53:57.361Z;ARCH;Awful Company;beckRR;T6_ARMOR_PLATE_UNDEAD@1;Master's Graveguard Armor;1;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:53:57.609Z;ARCH;Awful Company;beckRR;T6_BAG@1;Master's Bag;1;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:53:58.043Z;ARCH;Awful Company;beckRR;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:53:58.329Z;ARCH;Awful Company;beckRR;T6_ARMOR_CLOTH_SET2;Master's Cleric Robe;1;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:54:03.823Z;DIOR;EscaIation;zstrafe;T8_POTION_COOLDOWN;Major Poison Potion;5;PXOCS;ESCOLINHA DO G4NK;Putaodiparis
+2022-04-20T02:54:09.922Z;TH1RD;IAMNIUBI;BjornKiD;T8_TRASH;Trash;1;;Militant;barroomhero
+2022-04-20T02:54:10.079Z;ARCH;Awful Company;beckRR;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;;ManinGus
+2022-04-20T02:54:10.156Z;TH1RD;IAMNIUBI;BjornKiD;T8_SHOES_CLOTH_SET1@1;Elder's Scholar Sandals;1;;Militant;barroomhero
+2022-04-20T02:54:10.267Z;ARCH;Awful Company;beckRR;T6_ARMOR_PLATE_HELL@2;Master's Demon Armor;1;;;ManinGus
+2022-04-20T02:54:10.319Z;TH1RD;IAMNIUBI;BjornKiD;T4_BAG@2;Adept's Bag;1;;Militant;barroomhero
+2022-04-20T02:54:10.383Z;ARCH;Awful Company;beckRR;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;;ManinGus
+2022-04-20T02:54:10.469Z;ARCH;Awful Company;beckRR;T6_ARMOR_PLATE_HELL@2;Master's Demon Armor;1;;;ManinGus
+2022-04-20T02:54:10.670Z;ARCH;Awful Company;beckRR;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;;;ManinGus
+2022-04-20T02:54:10.890Z;ARCH;Awful Company;beckRR;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;;ManinGus
+2022-04-20T02:54:11.498Z;ARCH;Awful Company;beckRR;T7_ARMOR_PLATE_SET3@1;Grandmaster's Guardian Armor;1;;;ManinGus
+2022-04-20T02:54:11.812Z;ARCH;Awful Company;beckRR;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;;ManinGus
+2022-04-20T02:54:11.898Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;Chito
+2022-04-20T02:54:12.251Z;ARCH;Awful Company;beckRR;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;;ManinGus
+2022-04-20T02:54:12.674Z;ARCH;Awful Company;beckRR;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;;ManinGus
+2022-04-20T02:54:12.733Z;DIOR;EscaIation;zJackson;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;;Militant;CristhianB
+2022-04-20T02:54:13.392Z;DIOR;EscaIation;N97A;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;barroomhero
+2022-04-20T02:54:13.714Z;DIOR;EscaIation;N97A;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;6;;Militant;barroomhero
+2022-04-20T02:54:13.953Z;ARCH;Awful Company;beckRR;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;;;ManinGus
+2022-04-20T02:54:14.564Z;ARCH;Awful Company;beckRR;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;;;ManinGus
+2022-04-20T02:54:14.802Z;ARCH;Awful Company;beckRR;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;;ManinGus
+2022-04-20T02:54:14.812Z;;NO LOCK;Thuglife420;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;R4da
+2022-04-20T02:54:14.934Z;;NO LOCK;ThyLer;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;barroomhero
+2022-04-20T02:54:15.091Z;ARCH;Awful Company;beckRR;T6_SHOES_PLATE_UNDEAD@2;Master's Graveguard Boots;1;;;ManinGus
+2022-04-20T02:54:15.795Z;;NO LOCK;Thuglife420;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;R4da
+2022-04-20T02:54:15.985Z;;NO LOCK;Thuglife420;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;R4da
+2022-04-20T02:54:16.422Z;ARCH;Awful Company;beckRR;T7_2H_TOOL_SIEGEHAMMER;Grandmaster's Demolition Hammer;1;;;ManinGus
+2022-04-20T02:54:16.811Z;;NO LOCK;Thuglife420;T8_2H_LONGBOW@1;Elder's Longbow;1;;Militant;R4da
+2022-04-20T02:54:17.169Z;ARCH;Awful Company;beckRR;T7_MEAL_OMELETTE@2;Pork Omelette;1;;;ManinGus
+2022-04-20T02:54:17.502Z;ARCH;Awful Company;beckRR;T8_MEAL_STEW@3;Beef Stew;1;;;ManinGus
+2022-04-20T02:54:17.545Z;;NO LOCK;Thuglife420;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;R4da
+2022-04-20T02:54:18.328Z;EVICT;Take lt Easy;COELHITOS;T5_CAPEITEM_KEEPER@3;Expert's Keeper Cape;1;;Militant;Anglux
+2022-04-20T02:54:18.345Z;ARCH;Awful Company;beckRR;T8_MEAL_STEW@2;Beef Stew;1;;;ManinGus
+2022-04-20T02:54:18.659Z;EVICT;Take lt Easy;COELHITOS;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;Anglux
+2022-04-20T02:54:18.980Z;EVICT;Take lt Easy;Ry4nxDx;T7_HEAD_LEATHER_SET3@1;Grandmaster's Assassin Hood;1;;Militant;Anglux
+2022-04-20T02:54:19.219Z;EVICT;Take lt Easy;Ry4nxDx;T5_ARMOR_LEATHER_HELL@3;Expert's Hellion Jacket;1;;Militant;Anglux
+2022-04-20T02:54:19.369Z;;NO LOCK;ThyLer;T5_CAPEITEM_FW_FORTSTERLING@3;Expert's Fort Sterling Cape;1;;Militant;Chito
+2022-04-20T02:54:19.531Z;DIOR;EscaIation;zJackson;T6_2H_CURSEDSTAFF_MORGANA@2;Master's Damnation Staff;1;;Militant;UnkleRukus
+2022-04-20T02:54:19.752Z;ARCH;Awful Company;beckRR;T7_POTION_STONESKIN;Major Resistance Potion;8;;;ManinGus
+2022-04-20T02:54:19.843Z;;NO LOCK;ThyLer;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;;Militant;Chito
+2022-04-20T02:54:19.950Z;DIOR;EscaIation;zJackson;T8_ARMOR_CLOTH_SET1@1;Elder's Scholar Robe;1;;Militant;UnkleRukus
+2022-04-20T02:54:20.018Z;ARCH;Awful Company;beckRR;T5_POTION_STONESKIN@1;Resistance Potion;2;;;ManinGus
+2022-04-20T02:54:20.166Z;;NO LOCK;ThyLer;T6_SHOES_CLOTH_ROYAL@3;Master's Royal Sandals;1;;Militant;Chito
+2022-04-20T02:54:20.198Z;EVICT;Take lt Easy;Ry4nxDx;T6_2H_KNUCKLES_KEEPER@2;Master's Ursine Maulers;1;;Militant;Anglux
+2022-04-20T02:54:20.966Z;EVICT;Take lt Easy;Seidenada;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:54:20.966Z;ARCH;Awful Company;beckRR;T6_BAG;Master's Bag;1;;;ManinGus
+2022-04-20T02:54:20.996Z;EVICT;Take lt Easy;vMenezs;T8_2H_ENIGMATICSTAFF;Elder's Enigmatic Staff;1;DIOR;EscaIation;iammaw
+2022-04-20T02:54:21.011Z;DIOR;EscaIation;N97A;T5_2H_HOLYSTAFF_HELL@2;Expert's Fallen Staff;1;;Militant;Alexia7w7
+2022-04-20T02:54:21.582Z;EVICT;Take lt Easy;vMenezs;T7_BAG;Grandmaster's Bag;1;DIOR;EscaIation;iammaw
+2022-04-20T02:54:21.734Z;ARCH;Awful Company;beckRR;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;;;ManinGus
+2022-04-20T02:54:21.944Z;EVICT;Take lt Easy;vMenezs;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;DIOR;EscaIation;iammaw
+2022-04-20T02:54:22.008Z;ARCH;Awful Company;beckRR;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;;ManinGus
+2022-04-20T02:54:22.204Z;ARCH;Awful Company;beckRR;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;;ManinGus
+2022-04-20T02:54:22.229Z;EVICT;Take lt Easy;vMenezs;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;iammaw
+2022-04-20T02:54:22.515Z;EVICT;Take lt Easy;vMenezs;T7_MEAL_OMELETTE@2;Pork Omelette;1;DIOR;EscaIation;iammaw
+2022-04-20T02:54:23.476Z;EVICT;Take lt Easy;Ry4nxDx;T6_ARMOR_CLOTH_AVALON@2;Master's Robe of Purity;1;DIOR;EscaIation;iammaw
+2022-04-20T02:54:23.718Z;EVICT;Take lt Easy;Ry4nxDx;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;DIOR;EscaIation;iammaw
+2022-04-20T02:54:24.671Z;;NO LOCK;Thuglife420;T7_2H_HOLYSTAFF_HELL@1;Grandmaster's Fallen Staff;1;;Militant;Hiccup
+2022-04-20T02:54:24.751Z;EVICT;Take lt Easy;Seidenada;T7_MEAL_OMELETTE_FISH;Dusthole Crab Omelette;1;;Militant;Anglux
+2022-04-20T02:54:24.812Z;0UT;DYST0PIA;EAMCARRY;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;;Militant;OkitaZouji
+2022-04-20T02:54:24.921Z;EVICT;Take lt Easy;Eterninho;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;Anglux
+2022-04-20T02:54:25.110Z;;NO LOCK;Thuglife420;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;Hiccup
+2022-04-20T02:54:25.131Z;EVICT;Take lt Easy;Ry4nxDx;T5_ARMOR_CLOTH_AVALON@3;Expert's Robe of Purity;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:54:25.267Z;EVICT;Take lt Easy;Seidenada;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;7;;Militant;Anglux
+2022-04-20T02:54:25.328Z;0UT;DYST0PIA;EAMCARRY;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;;Militant;OkitaZouji
+2022-04-20T02:54:25.385Z;;NO LOCK;Thuglife420;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;Hiccup
+2022-04-20T02:54:25.437Z;T4K3;The Slap;kowatera;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:54:25.591Z;;NO LOCK;Thuglife420;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Hiccup
+2022-04-20T02:54:25.703Z;T4K3;The Slap;kowatera;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:54:25.954Z;EVICT;Take lt Easy;Ry4nxDx;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:54:25.954Z;T4K3;The Slap;kowatera;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;KTtelecom
+2022-04-20T02:54:26.017Z;;NO LOCK;Thuglife420;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;Hiccup
+2022-04-20T02:54:26.032Z;EVICT;Take lt Easy;Eterninho;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;DIOR;EscaIation;iammaw
+2022-04-20T02:54:26.110Z;0UT;DYST0PIA;EAMCARRY;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;;Militant;OkitaZouji
+2022-04-20T02:54:26.277Z;0UT;DYST0PIA;EAMCARRY;T6_2H_TOOL_SIEGEHAMMER;Master's Demolition Hammer;1;;Militant;OkitaZouji
+2022-04-20T02:54:26.277Z;;NO LOCK;Thuglife420;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;Hiccup
+2022-04-20T02:54:26.526Z;;NO LOCK;ThyLer;T5_2H_NATURESTAFF_HELL@3;Expert's Blight Staff;1;;Militant;dunt
+2022-04-20T02:54:26.610Z;0UT;DYST0PIA;EAMCARRY;T4_BAG;Adept's Bag;1;;Militant;OkitaZouji
+2022-04-20T02:54:26.766Z;ARCH;Awful Company;beckRR;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;PXOCS;RED WIND;Lucite
+2022-04-20T02:54:26.791Z;;NO LOCK;ThyLer;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;dunt
+2022-04-20T02:54:26.887Z;0UT;DYST0PIA;EAMCARRY;T8_2H_LONGBOW@1;Elder's Longbow;1;;Militant;OkitaZouji
+2022-04-20T02:54:27.015Z;;NO LOCK;ThyLer;T4_CAPEITEM_FW_FORTSTERLING@2;Adept's Fort Sterling Cape;1;;Militant;dunt
+2022-04-20T02:54:27.163Z;0UT;DYST0PIA;EAMCARRY;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;OkitaZouji
+2022-04-20T02:54:27.285Z;;NO LOCK;ThyLer;T8_HEAD_LEATHER_SET1;Elder's Mercenary Hood;1;;Militant;dunt
+2022-04-20T02:54:27.390Z;0UT;DYST0PIA;EAMCARRY;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;4;;Militant;OkitaZouji
+2022-04-20T02:54:27.517Z;;NO LOCK;ThyLer;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;dunt
+2022-04-20T02:54:27.578Z;EVICT;Take lt Easy;Eterninho;T8_HEAD_LEATHER_SET1@1;Elder's Mercenary Hood;1;DIOR;EscaIation;nicalli
+2022-04-20T02:54:27.790Z;;NO LOCK;ThyLer;T3_MOUNT_HORSE;Journeyman's Riding Horse;1;;Militant;dunt
+2022-04-20T02:54:27.791Z;EVICT;Take lt Easy;Eterninho;T6_SHOES_CLOTH_SET1@2;Master's Scholar Sandals;1;DIOR;EscaIation;nicalli
+2022-04-20T02:54:28.154Z;;NO LOCK;ThyLer;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;dunt
+2022-04-20T02:54:28.297Z;ARCH;Awful Company;beckRR;T5_OFF_SHIELD_AVALON@3;Expert's Astral Aegis;1;PXOCS;RED WIND;Lucite
+2022-04-20T02:54:28.571Z;DIOR;EscaIation;NeadeMedallo;T8_ARMOR_CLOTH_SET1;Elder's Scholar Robe;1;;Militant;Pachibot
+2022-04-20T02:54:28.722Z;ARCH;Awful Company;beckRR;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;PXOCS;RED WIND;Lucite
+2022-04-20T02:54:29.165Z;DIOR;EscaIation;NeadeMedallo;T6_2H_FIRESTAFF_HELL@2;Master's Brimstone Staff;1;;Militant;Pachibot
+2022-04-20T02:54:29.640Z;;NO LOCK;Thuglife420;T8_ARMOR_CLOTH_SET1;Elder's Scholar Robe;1;;Militant;CristhianB
+2022-04-20T02:54:29.672Z;;NO LOCK;ThyLer;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;exanianx
+2022-04-20T02:54:29.890Z;;NO LOCK;ThyLer;T5_BAG;Expert's Bag;1;;Militant;exanianx
+2022-04-20T02:54:29.912Z;EVICT;Take lt Easy;Ry4nxDx;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;DIOR;EscaIation;nicalli
+2022-04-20T02:54:29.950Z;;NO LOCK;Thuglife420;T5_CAPEITEM_MORGANA@3;Expert's Morgana Cape;1;;Militant;CristhianB
+2022-04-20T02:54:30.126Z;;NO LOCK;ThyLer;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;exanianx
+2022-04-20T02:54:30.133Z;GOZU;7 Segundos;piero136459;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;SugarcoldB2
+2022-04-20T02:54:30.181Z;EVICT;Take lt Easy;Ry4nxDx;T7_MEAL_OMELETTE@2;Pork Omelette;1;DIOR;EscaIation;nicalli
+2022-04-20T02:54:30.351Z;GOZU;7 Segundos;piero136459;T5_2H_ARCANESTAFF_HELL@3;Expert's Occult Staff;1;;Militant;SugarcoldB2
+2022-04-20T02:54:30.422Z;;NO LOCK;Thuglife420;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;CristhianB
+2022-04-20T02:54:30.541Z;GOZU;7 Segundos;piero136459;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;2;;Militant;SugarcoldB2
+2022-04-20T02:54:30.677Z;DIOR;EscaIation;zstrafe;T5_CAPEITEM_FW_FORTSTERLING@3;Expert's Fort Sterling Cape;1;;Militant;Katasyo
+2022-04-20T02:54:30.773Z;GOZU;7 Segundos;piero136459;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;SugarcoldB2
+2022-04-20T02:54:30.791Z;;NO LOCK;Thuglife420;T7_POTION_STONESKIN;Major Resistance Potion;3;;Militant;CristhianB
+2022-04-20T02:54:31.016Z;GOZU;7 Segundos;piero136459;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;SugarcoldB2
+2022-04-20T02:54:31.831Z;GOZU;7 Segundos;piero136459;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;SugarcoldB2
+2022-04-20T02:54:31.938Z;;NO LOCK;ThyLer;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;OkitaZouji
+2022-04-20T02:54:31.987Z;GOZU;7 Segundos;piero136459;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;SugarcoldB2
+2022-04-20T02:54:32.042Z;DIOR;EscaIation;ManickS;T6_MAIN_CURSEDSTAFF_UNDEAD@1;Master's Lifecurse Staff;1;;Militant;Trapbulge
+2022-04-20T02:54:32.179Z;GOZU;7 Segundos;piero136459;T4_BAG@2;Adept's Bag;1;;Militant;SugarcoldB2
+2022-04-20T02:54:32.386Z;GOZU;7 Segundos;piero136459;T6_ARMOR_CLOTH_SET2;Master's Cleric Robe;1;;Militant;SugarcoldB2
+2022-04-20T02:54:32.466Z;DIOR;EscaIation;ManickS;T6_ARMOR_PLATE_HELL@1;Master's Demon Armor;1;;Militant;Trapbulge
+2022-04-20T02:54:32.945Z;DIOR;EscaIation;M0RZ4;T4_OFF_HORN_KEEPER@3;Adept's Mistcaller;1;;Militant;Trapbulge
+2022-04-20T02:54:32.969Z;GOZU;7 Segundos;piero136459;T7_TRASH;Trash;1;;Militant;SugarcoldB2
+2022-04-20T02:54:33.232Z;GOZU;7 Segundos;piero136459;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;SugarcoldB2
+2022-04-20T02:54:33.448Z;GOZU;7 Segundos;piero136459;T4_CAPEITEM_FW_LYMHURST@2;Adept's Lymhurst Cape;1;;Militant;SugarcoldB2
+2022-04-20T02:54:34.537Z;GOZU;7 Segundos;piero136459;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;4;;Militant;SugarcoldB2
+2022-04-20T02:54:34.766Z;GOZU;7 Segundos;piero136459;T7_POTION_STONESKIN@1;Major Resistance Potion;1;;Militant;SugarcoldB2
+2022-04-20T02:54:34.847Z;;NO LOCK;ThyLer;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;R4da
+2022-04-20T02:54:34.927Z;ARCH;Awful Company;beckRR;T8_ARMOR_PLATE_SET3;Elder's Guardian Armor;1;PXOCS;RED WIND;Lucite
+2022-04-20T02:54:35.123Z;;NO LOCK;ThyLer;T8_MEAL_STEW@1;Beef Stew;1;;Militant;R4da
+2022-04-20T02:54:35.270Z;ARCH;Awful Company;beckRR;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;PXOCS;RED WIND;Lucite
+2022-04-20T02:54:35.271Z;GOZU;7 Segundos;piero136459;T8_MEAL_SANDWICH_FISH;Thunderfall Lurcher Sandwich;1;;Militant;SugarcoldB2
+2022-04-20T02:54:35.391Z;ARCH;Awful Company;beckRR;T6_2H_ENIGMATICSTAFF@2;Master's Enigmatic Staff;1;PXOCS;RED WIND;Lucite
+2022-04-20T02:54:35.451Z;GOZU;7 Segundos;piero136459;T7_POTION_STONESKIN;Major Resistance Potion;7;;Militant;SugarcoldB2
+2022-04-20T02:54:35.575Z;;NO LOCK;ThyLer;T7_POTION_STONESKIN;Major Resistance Potion;4;;Militant;R4da
+2022-04-20T02:54:35.671Z;EVICT;Take lt Easy;MestreZen;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Pachibot
+2022-04-20T02:54:35.718Z;NME;Bunch of Bulls;JohnOC;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;nicalli
+2022-04-20T02:54:35.822Z;EVICT;Take lt Easy;DBaan;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;iammaw
+2022-04-20T02:54:35.888Z;DIOR;EscaIation;N97A;T6_2H_HAMMER_AVALON@1;Master's Hand of Justice;1;;Militant;LocoAsylum
+2022-04-20T02:54:36.046Z;NME;Bunch of Bulls;JohnOC;T7_POTION_STONESKIN;Major Resistance Potion;4;DIOR;EscaIation;nicalli
+2022-04-20T02:54:36.133Z;DIOR;EscaIation;zstrafe;T6_HEAD_LEATHER_ROYAL@3;Master's Royal Hood;1;DIOR;EscaIation;CarbinePhx
+2022-04-20T02:54:36.173Z;0UT;DYST0PIA;EAMCARRY;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;Pachibot
+2022-04-20T02:54:36.515Z;ARCH;Awful Company;beckRR;T7_HEAD_PLATE_SET2@1;Grandmaster's Knight Helmet;1;PXOCS;RED WIND;Lucite
+2022-04-20T02:54:37.984Z;EVICT;Take lt Easy;Bergzin;T5_POTION_STONESKIN@1;Resistance Potion;4;EVICT;Take lt Easy;YoungCEOII
+2022-04-20T02:54:38.672Z;EVICT;Take lt Easy;Ry4nxDx;T7_2H_NATURESTAFF_KEEPER@1;Grandmaster's Rampant Staff;1;;Militant;Khalessie
+2022-04-20T02:54:38.703Z;EVICT;Take lt Easy;Bergzin;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Take lt Easy;YoungCEOII
+2022-04-20T02:54:39.126Z;EVICT;Take lt Easy;Seidenada;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;Katasyo
+2022-04-20T02:54:39.265Z;DIOR;EscaIation;ManickS;T7_MOUNT_TERRORBIRD_ADC;Saddled Terrorbird;1;;Militant;Chuchay9
+2022-04-20T02:54:39.652Z;;Militant;alexo160;T7_2H_CLAYMORE_AVALON@2;Grandmaster's Kingmaker;1;;Militant;l7awli
+2022-04-20T02:54:39.707Z;DIOR;EscaIation;ManickS;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;Chuchay9
+2022-04-20T02:54:39.976Z;;Militant;alexo160;T8_HEAD_CLOTH_SET1@2;Elder's Scholar Cowl;1;;Militant;l7awli
+2022-04-20T02:54:40.016Z;DIOR;EscaIation;ManickS;T8_ARMOR_CLOTH_SET1;Elder's Scholar Robe;1;;Militant;Chuchay9
+2022-04-20T02:54:40.619Z;DIOR;EscaIation;ManickS;T8_ARMOR_CLOTH_SET1@3;Elder's Scholar Robe;1;;Militant;Chuchay9
+2022-04-20T02:54:40.922Z;;Militant;alexo160;T5_BAG;Expert's Bag;1;;Militant;l7awli
+2022-04-20T02:54:41.754Z;;Militant;alexo160;T6_CAPEITEM_KEEPER@3;Master's Keeper Cape;1;;Militant;l7awli
+2022-04-20T02:54:41.912Z;EVICT;Take lt Easy;DBaan;T7_MEAL_OMELETTE@1;Pork Omelette;1;;Militant;Hiccup
+2022-04-20T02:54:42.308Z;EVICT;Take lt Easy;MCLOFFA;T6_POTION_ENERGY;Major Energy Potion;3;;Militant;Hiccup
+2022-04-20T02:54:42.341Z;;Militant;alexo160;T6_ARMOR_LEATHER_HELL@3;Master's Hellion Jacket;1;;Militant;l7awli
+2022-04-20T02:54:43.516Z;ARCH;Awful Company;beckRR;T6_BAG@1;Master's Bag;1;PXOCS;ESCOLINHA DO G4NK;Putaodiparis
+2022-04-20T02:54:44.079Z;0UT;DYST0PIA;EAMCARRY;T7_POTION_STONESKIN;Major Resistance Potion;3;;Militant;barroomhero
+2022-04-20T02:54:44.205Z;EVICT;Take lt Easy;Seidenada;T7_POTION_STONESKIN;Major Resistance Potion;1;PXOCS;RED WIND;NiikoCute
+2022-04-20T02:54:44.624Z;EVICT;Take lt Easy;Seidenada;T7_MEAL_OMELETTE;Pork Omelette;2;PXOCS;RED WIND;NiikoCute
+2022-04-20T02:54:44.921Z;EVICT;Take lt Easy;Seidenada;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;6;PXOCS;RED WIND;NiikoCute
+2022-04-20T02:54:47.022Z;;NO LOCK;Thuglife420;T5_ARMOR_CLOTH_HELL@2;Expert's Fiend Robe;1;PXOCS;ESCOLINHA DO G4NK;xSaiCaraiox
+2022-04-20T02:54:51.307Z;ARCH;Awful Company;beckRR;T7_POTION_STONESKIN;Major Resistance Potion;2;PXOCS;RED WIND;Lucite
+2022-04-20T02:54:51.548Z;ARCH;Awful Company;beckRR;T8_MEAL_STEW;Beef Stew;2;PXOCS;RED WIND;Lucite
+2022-04-20T02:54:54.323Z;DIOR;EscaIation;JMTGR;T7_2H_ENIGMATICSTAFF@1;Grandmaster's Enigmatic Staff;1;;Militant;MarciaI
+2022-04-20T02:54:54.537Z;DIOR;EscaIation;JMTGR;T7_HEAD_LEATHER_SET3@1;Grandmaster's Assassin Hood;1;;Militant;MarciaI
+2022-04-20T02:54:54.673Z;;NO LOCK;ThyLer;T8_HEAD_CLOTH_SET2@2;Elder's Cleric Cowl;1;;Militant;DMunja
+2022-04-20T02:54:54.766Z;DIOR;EscaIation;JMTGR;T6_ARMOR_CLOTH_AVALON@2;Master's Robe of Purity;1;;Militant;MarciaI
+2022-04-20T02:54:54.963Z;;NO LOCK;ThyLer;T8_ARMOR_CLOTH_SET2@2;Elder's Cleric Robe;1;;Militant;DMunja
+2022-04-20T02:54:55.047Z;DIOR;EscaIation;JMTGR;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;MarciaI
+2022-04-20T02:54:55.330Z;;NO LOCK;ThyLer;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;6;;Militant;DMunja
+2022-04-20T02:54:55.480Z;DIOR;EscaIation;JMTGR;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;MarciaI
+2022-04-20T02:54:55.579Z;;NO LOCK;ThyLer;T7_MEAL_OMELETTE_AVALON@1;Avalonian Pork Omelette;1;;Militant;DMunja
+2022-04-20T02:54:55.860Z;;NO LOCK;ThyLer;T7_POTION_STONESKIN;Major Resistance Potion;4;;Militant;DMunja
+2022-04-20T02:54:55.877Z;DIOR;EscaIation;JMTGR;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;MarciaI
+2022-04-20T02:54:56.913Z;EVICT;Take lt Easy;MestreZen;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;Elevate;iVandal
+2022-04-20T02:54:56.982Z;;Militant;VinTaro;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;punkeh
+2022-04-20T02:54:57.063Z;EVICT;Take lt Easy;MCLOFFA;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Trapbulge
+2022-04-20T02:54:57.218Z;EVICT;Take lt Easy;MestreZen;T6_ARMOR_CLOTH_SET2@2;Master's Cleric Robe;1;DIOR;Elevate;iVandal
+2022-04-20T02:54:57.284Z;;Militant;VinTaro;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;;Militant;punkeh
+2022-04-20T02:54:57.366Z;EVICT;Take lt Easy;MCLOFFA;T4_MOUNT_HORSE;Adept's Riding Horse;1;;Militant;Trapbulge
+2022-04-20T02:54:57.407Z;0UT;DYST0PIA;EAMCARRY;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;Jez0r
+2022-04-20T02:54:57.453Z;EVICT;Take lt Easy;Ry4nxDx;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;Chuchay9
+2022-04-20T02:54:57.561Z;EVICT;Take lt Easy;MestreZen;T5_CAPEITEM_FW_MARTLOCK@3;Expert's Martlock Cape;1;DIOR;Elevate;iVandal
+2022-04-20T02:54:58.053Z;EVICT;Take lt Easy;MestreZen;T7_POTION_STONESKIN;Major Resistance Potion;2;DIOR;Elevate;iVandal
+2022-04-20T02:54:58.266Z;DIOR;Elevate;PandoBarins;T8_TRASH;Trash;1;;Militant;Vanky
+2022-04-20T02:54:58.454Z;EVICT;Take lt Easy;Ry4nxDx;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;;Militant;Chuchay9
+2022-04-20T02:54:58.669Z;DIOR;Elevate;PandoBarins;T7_2H_CURSEDSTAFF_MORGANA@1;Grandmaster's Damnation Staff;1;;Militant;Vanky
+2022-04-20T02:54:58.700Z;EVICT;Take lt Easy;Ry4nxDx;T6_HEAD_LEATHER_SET3@3;Master's Assassin Hood;1;;Militant;Chuchay9
+2022-04-20T02:54:58.954Z;EVICT;Take lt Easy;Ry4nxDx;T6_SHOES_CLOTH_ROYAL@3;Master's Royal Sandals;1;;Militant;Chuchay9
+2022-04-20T02:54:59.657Z;EVICT;Take lt Easy;MCLOFFA;T6_BAG;Master's Bag;1;;Militant;Trapbulge
+2022-04-20T02:54:59.984Z;DIOR;EscaIation;bootydragon;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;Alexia7w7
+2022-04-20T02:55:00.173Z;DIOR;EscaIation;bootydragon;T6_ARMOR_CLOTH_SET2@2;Master's Cleric Robe;1;;Militant;Alexia7w7
+2022-04-20T02:55:00.174Z;;Militant;VinTaro;T6_2H_ENIGMATICORB_MORGANA@2;Master's Malevolent Locus;1;;Militant;punkeh
+2022-04-20T02:55:00.195Z;EVICT;Take lt Easy;MestreZen;T8_SHOES_LEATHER_SET3;Elder's Assassin Shoes;1;;Militant;LocoAsylum
+2022-04-20T02:55:00.235Z;ARCH;Awful Company;beckRR;T4_CAPEITEM_FW_BRIDGEWATCH@3;Adept's Bridgewatch Cape;1;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:55:00.296Z;EVICT;Take lt Easy;MCLOFFA;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;;Militant;Trapbulge
+2022-04-20T02:55:00.438Z;;Militant;VinTaro;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;;Militant;punkeh
+2022-04-20T02:55:00.701Z;EVICT;Take lt Easy;MestreZen;T5_BAG;Expert's Bag;1;;Militant;LocoAsylum
+2022-04-20T02:55:00.886Z;EVICT;Take lt Easy;EPILIHP;T8_HEAD_LEATHER_SET1;Elder's Mercenary Hood;1;;Militant;Khalessie
+2022-04-20T02:55:00.936Z;;Militant;VinTaro;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;punkeh
+2022-04-20T02:55:01.046Z;EVICT;Take lt Easy;MestreZen;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;LocoAsylum
+2022-04-20T02:55:01.256Z;DIOR;EscaIation;bootydragon;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;Alexia7w7
+2022-04-20T02:55:01.453Z;EVICT;Take lt Easy;MestreZen;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;LocoAsylum
+2022-04-20T02:55:01.453Z;DIOR;EscaIation;bootydragon;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;;Militant;Alexia7w7
+2022-04-20T02:55:01.474Z;EVICT;Take lt Easy;EPILIHP;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;Khalessie
+2022-04-20T02:55:01.673Z;DIOR;EscaIation;bootydragon;T5_ARMOR_PLATE_HELL@2;Expert's Demon Armor;1;;Militant;Alexia7w7
+2022-04-20T02:55:01.765Z;SURF;Tidal;Chonchoson;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;MarciaI
+2022-04-20T02:55:01.816Z;EVICT;Take lt Easy;MestreZen;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;7;;Militant;LocoAsylum
+2022-04-20T02:55:02.304Z;EVICT;Take lt Easy;MestreZen;T8_ARMOR_PLATE_SET3;Elder's Guardian Armor;1;;Militant;LocoAsylum
+2022-04-20T02:55:02.673Z;;NO LOCK;ThyLer;T7_MAIN_MACE;Grandmaster's Mace;1;PXOCS;RED WIND;iDexterPK
+2022-04-20T02:55:02.994Z;;NO LOCK;ThyLer;T5_OFF_JESTERCANE_HELL@3;Expert's Leering Cane;1;PXOCS;RED WIND;iDexterPK
+2022-04-20T02:55:03.320Z;EVICT;Take lt Easy;DBaan;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;UnkleRukus
+2022-04-20T02:55:03.392Z;;NO LOCK;ThyLer;T8_HEAD_PLATE_SET1;Elder's Soldier Helmet;1;PXOCS;RED WIND;iDexterPK
+2022-04-20T02:55:03.503Z;EVICT;Take lt Easy;PaladinoLoko;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;PXOCS;RED WIND;NiikoCute
+2022-04-20T02:55:03.641Z;EVICT;Take lt Easy;DBaan;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;UnkleRukus
+2022-04-20T02:55:03.673Z;DIOR;EscaIation;bootydragon;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;Alexia7w7
+2022-04-20T02:55:03.828Z;;NO LOCK;ThyLer;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;PXOCS;RED WIND;iDexterPK
+2022-04-20T02:55:03.901Z;0UT;DYST0PIA;EAMCARRY;T5_MAIN_RAPIER_MORGANA@2;Expert's Bloodletter;1;PXOCS;RED WIND;Lucite
+2022-04-20T02:55:03.950Z;EVICT;Take lt Easy;DBaan;T6_BAG;Master's Bag;1;;Militant;UnkleRukus
+2022-04-20T02:55:04.171Z;;NO LOCK;ThyLer;T6_POTION_COOLDOWN;Poison Potion;5;PXOCS;RED WIND;iDexterPK
+2022-04-20T02:55:04.251Z;EVICT;Take lt Easy;DBaan;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;UnkleRukus
+2022-04-20T02:55:04.451Z;;NO LOCK;ThyLer;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;PXOCS;RED WIND;iDexterPK
+2022-04-20T02:55:04.618Z;EVICT;Take lt Easy;DBaan;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;UnkleRukus
+2022-04-20T02:55:04.858Z;;NO LOCK;ThyLer;T4_CAPEITEM_FW_CAERLEON@3;Adept's Caerleon Cape;1;PXOCS;RED WIND;iDexterPK
+2022-04-20T02:55:07.016Z;EVICT;Take lt Easy;DBaan;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;Trapbulge
+2022-04-20T02:55:11.049Z;PXOCS;Post-Mortemm;DuroContraelmuro;T1_ROCK;Rough Stone;1;GUTS;KraKen 69;apm9
+2022-04-20T02:55:11.068Z;;NO LOCK;ThyLer;T5_BAG;Expert's Bag;1;PXOCS;ESCOLINHA DO G4NK;kayn157
+2022-04-20T02:55:11.570Z;PXOCS;Post-Mortemm;DuroContraelmuro;T3_MOUNT_OX;Journeyman's Transport Ox;1;GUTS;KraKen 69;apm9
+2022-04-20T02:55:16.010Z;EVICT;Take lt Easy;DBaan;T6_2H_ENIGMATICORB_MORGANA@1;Master's Malevolent Locus;1;;Militant;Alexia7w7
+2022-04-20T02:55:16.444Z;EVICT;Take lt Easy;DBaan;T8_HEAD_LEATHER_SET1;Elder's Mercenary Hood;1;;Militant;Alexia7w7
+2022-04-20T02:55:17.243Z;EVICT;Take lt Easy;DBaan;T4_CAPEITEM_FW_FORTSTERLING@2;Adept's Fort Sterling Cape;1;;Militant;Alexia7w7
+2022-04-20T02:55:17.572Z;;NO LOCK;ThyLer;T7_POTION_STONESKIN;Major Resistance Potion;3;;Militant;l7awli
+2022-04-20T02:55:20.007Z;EVICT;Take lt Easy;DBaan;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;Alexia7w7
+2022-04-20T02:55:21.217Z;;NO LOCK;Thuglife420;T6_2H_RAM_KEEPER@2;Master's Grovekeeper;1;;Militant;TAOXIANI
+2022-04-20T02:55:21.852Z;EVICT;Take lt Easy;MCLOFFA;T4_CAPEITEM_KEEPER@3;Adept's Keeper Cape;1;DIOR;EscaIation;CarbinePhx
+2022-04-20T02:55:21.985Z;;NO LOCK;Thuglife420;T8_SHOES_LEATHER_SET2@1;Elder's Hunter Shoes;1;;Militant;TAOXIANI
+2022-04-20T02:55:22.162Z;EVICT;Take lt Easy;MCLOFFA;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;CarbinePhx
+2022-04-20T02:55:22.293Z;EVICT;Take lt Easy;Seidenada;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;Hyunric
+2022-04-20T02:55:22.341Z;;NO LOCK;Thuglife420;T6_HEAD_PLATE_KEEPER@2;Master's Judicator Helmet;1;;Militant;TAOXIANI
+2022-04-20T02:55:23.070Z;LAAAL;Dove;darkrbb;T6_2H_FIRESTAFF_HELL@3;Master's Brimstone Staff;1;;Militant;Mistee
+2022-04-20T02:55:23.147Z;EVICT;Take lt Easy;MCLOFFA;T7_POTION_STONESKIN;Major Resistance Potion;2;DIOR;EscaIation;CarbinePhx
+2022-04-20T02:55:23.469Z;LAAAL;Dove;darkrbb;T8_HEAD_PLATE_SET2@1;Elder's Knight Helmet;1;;Militant;Mistee
+2022-04-20T02:55:23.851Z;LAAAL;Dove;darkrbb;T8_ARMOR_CLOTH_SET1@1;Elder's Scholar Robe;1;;Militant;Mistee
+2022-04-20T02:55:24.510Z;TH1RD;IAMNIUBI;BjornKiD;T7_2H_KNUCKLES_SET3@3;Grandmaster's Spiked Gauntlets;1;;Militant;Umami
+2022-04-20T02:55:24.673Z;TH1RD;IAMNIUBI;BjornKiD;T7_HEAD_LEATHER_SET3@3;Grandmaster's Assassin Hood;1;;Militant;Umami
+2022-04-20T02:55:24.811Z;TH1RD;IAMNIUBI;BjornKiD;T7_ARMOR_CLOTH_SET2@3;Grandmaster's Cleric Robe;1;;Militant;Umami
+2022-04-20T02:55:25.048Z;TH1RD;IAMNIUBI;BjornKiD;T5_BAG;Expert's Bag;1;;Militant;Umami
+2022-04-20T02:55:25.237Z;TH1RD;IAMNIUBI;BjornKiD;T5_CAPEITEM_FW_LYMHURST@3;Expert's Lymhurst Cape;1;;Militant;Umami
+2022-04-20T02:55:25.924Z;EVICT;Take lt Easy;Eterninho;T6_TRASH;Trash;1;DIOR;EscaIation;lillia7w7
+2022-04-20T02:55:25.984Z;;NO LOCK;ThyLer;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;VinTaro
+2022-04-20T02:55:26.375Z;EVICT;Take lt Easy;Eterninho;T8_ARMOR_CLOTH_SET1;Elder's Scholar Robe;1;DIOR;EscaIation;lillia7w7
+2022-04-20T02:55:26.621Z;;NO LOCK;ThyLer;T5_CAPEITEM_FW_FORTSTERLING@3;Expert's Fort Sterling Cape;1;;Militant;VinTaro
+2022-04-20T02:55:26.672Z;EVICT;Consequence;M1NH;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;lillia7w7
+2022-04-20T02:55:26.705Z;EVICT;Take lt Easy;Eterninho;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;DIOR;EscaIation;lillia7w7
+2022-04-20T02:55:26.819Z;TH1RD;IAMNIUBI;BjornKiD;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;Umami
+2022-04-20T02:55:26.851Z;;NO LOCK;Thuglife420;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;Umami
+2022-04-20T02:55:27.138Z;EVICT;Consequence;M1NH;T7_POTION_STONESKIN;Major Resistance Potion;2;DIOR;EscaIation;lillia7w7
+2022-04-20T02:55:27.329Z;EVICT;Consequence;M1NH;T7_POTION_STONESKIN;Major Resistance Potion;2;DIOR;EscaIation;lillia7w7
+2022-04-20T02:55:27.337Z;EVICT;Take lt Easy;Ry4nxDx;T8_TRASH;Trash;1;DIOR;EscaIation;MeyzonDick
+2022-04-20T02:55:27.666Z;EVICT;Consequence;pvpundead12;T5_MOUNT_ARMORED_HORSE;Expert's Armored Horse;1;;Militant;Khalessie
+2022-04-20T02:55:28.511Z;EVICT;Take lt Easy;vMenezs;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;DIOR;EscaIation;UwU31
+2022-04-20T02:55:28.626Z;EVICT;Take lt Easy;Ry4nxDx;T7_ARMOR_CLOTH_SET2@1;Grandmaster's Cleric Robe;1;DIOR;EscaIation;MeyzonDick
+2022-04-20T02:55:28.798Z;EVICT;Take lt Easy;vMenezs;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;DIOR;EscaIation;UwU31
+2022-04-20T02:55:28.985Z;EVICT;Take lt Easy;vMenezs;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;DIOR;EscaIation;UwU31
+2022-04-20T02:55:29.016Z;EVICT;Take lt Easy;Ry4nxDx;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;MeyzonDick
+2022-04-20T02:55:29.282Z;EVICT;Take lt Easy;vMenezs;T7_POTION_STONESKIN;Major Resistance Potion;4;DIOR;EscaIation;UwU31
+2022-04-20T02:55:31.736Z;EVICT;Take lt Easy;Eterninho;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;UwU31
+2022-04-20T02:55:32.138Z;EVICT;Take lt Easy;Eterninho;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;UwU31
+2022-04-20T02:55:32.453Z;EVICT;Take lt Easy;Eterninho;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;DIOR;EscaIation;UwU31
+2022-04-20T02:55:32.495Z;;Militant;Ziddic;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Casual Company;PlatinumNuke
+2022-04-20T02:55:33.860Z;EVICT;Take lt Easy;DBaan;T4_SHOES_GATHERER_HIDE;Adept's Skinner Workboots;1;PXOCS;RED WIND;NiikoCute
+2022-04-20T02:55:34.824Z;EVICT;Take lt Easy;DBaan;T6_2H_HOLYSTAFF;Master's Great Holy Staff;1;PXOCS;RED WIND;NiikoCute
+2022-04-20T02:55:35.362Z;;Militant;Ziddic;T7_POTION_STONESKIN;Major Resistance Potion;2;;Casual Company;PlatinumNuke
+2022-04-20T02:55:35.820Z;;Militant;Ziddic;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Casual Company;PlatinumNuke
+2022-04-20T02:55:36.033Z;SURF;Tidal;Minnezs;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;PhantomHaliax
+2022-04-20T02:55:36.329Z;SURF;Tidal;Minnezs;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;DIOR;EscaIation;PhantomHaliax
+2022-04-20T02:55:36.607Z;SURF;Tidal;Minnezs;T4_BAG;Adept's Bag;1;DIOR;EscaIation;PhantomHaliax
+2022-04-20T02:55:38.031Z;;Militant;RiderClav;T7_POTION_STONESKIN@1;Major Resistance Potion;1;;Militant;Umami
+2022-04-20T02:55:38.360Z;EVICT;Take lt Easy;DBaan;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;Alexia7w7
+2022-04-20T02:55:39.077Z;SURF;Tidal;Minnezs;T8_TRASH;Trash;1;DIOR;EscaIation;lillia7w7
+2022-04-20T02:55:39.470Z;SURF;Tidal;Minnezs;T6_BAG@1;Master's Bag;1;DIOR;EscaIation;lillia7w7
+2022-04-20T02:55:39.486Z;;Militant;RiderClav;T5_HEAD_PLATE_KEEPER@3;Expert's Judicator Helmet;1;;Militant;KingCharlesIII
+2022-04-20T02:55:39.688Z;SURF;Tidal;Chonchoson;T8_MEAL_STEW@2;Beef Stew;1;;Militant;Umami
+2022-04-20T02:55:39.704Z;;Militant;RiderClav;T6_2H_RAM_KEEPER@2;Master's Grovekeeper;1;;Militant;KingCharlesIII
+2022-04-20T02:55:39.928Z;;Militant;RiderClav;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;KingCharlesIII
+2022-04-20T02:55:39.935Z;SURF;Tidal;Chonchoson;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;6;;Militant;Umami
+2022-04-20T02:55:40.180Z;;Militant;RiderClav;T6_BAG@1;Master's Bag;1;;Militant;KingCharlesIII
+2022-04-20T02:55:40.257Z;SURF;Tidal;Chonchoson;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;Umami
+2022-04-20T02:55:40.875Z;GUTS;KraKen 69;SawLynn;T4_MAIN_RAPIER_MORGANA@2;Adept's Bloodletter;1;ARCH;Awful Company;iBjornIRONSIDEE
+2022-04-20T02:55:41.164Z;GUTS;KraKen 69;SawLynn;T5_SHOES_LEATHER_SET2@1;Expert's Hunter Shoes;1;ARCH;Awful Company;iBjornIRONSIDEE
+2022-04-20T02:55:41.392Z;GUTS;KraKen 69;SawLynn;T6_BAG;Master's Bag;1;ARCH;Awful Company;iBjornIRONSIDEE
+2022-04-20T02:55:41.602Z;GUTS;KraKen 69;SawLynn;T6_HEAD_CLOTH_SET2@1;Master's Cleric Cowl;1;ARCH;Awful Company;iBjornIRONSIDEE
+2022-04-20T02:55:42.031Z;GUTS;KraKen 69;SawLynn;T4_CAPEITEM_FW_FORTSTERLING@1;Adept's Fort Sterling Cape;1;ARCH;Awful Company;iBjornIRONSIDEE
+2022-04-20T02:55:42.609Z;SURF;Tidal;Chonchoson;T6_BAG;Master's Bag;1;;Militant;Mistee
+2022-04-20T02:55:42.669Z;;Militant;RiderClav;T8_TRASH;Trash;1;;Militant;midnightsnack
+2022-04-20T02:55:42.897Z;;Militant;RiderClav;T7_OFF_HORN_KEEPER@1;Grandmaster's Mistcaller;1;;Militant;midnightsnack
+2022-04-20T02:55:43.141Z;SURF;Tidal;Chonchoson;T7_POTION_STONESKIN;Major Resistance Potion;3;;Militant;Mistee
+2022-04-20T02:55:43.548Z;SURF;Tidal;Minnezs;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;MeyzonDick
+2022-04-20T02:55:43.578Z;SURF;Tidal;Chonchoson;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Mistee
+2022-04-20T02:55:43.794Z;SURF;Tidal;Minnezs;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;DIOR;EscaIation;MeyzonDick
+2022-04-20T02:55:43.961Z;;Militant;RiderClav;T8_2H_DAGGER_KATAR_AVALON@3;Elder's Bridled Fury;1;;Militant;midnightsnack
+2022-04-20T02:55:44.355Z;;NO LOCK;ThyLer;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;BucciaratiListad
+2022-04-20T02:55:44.577Z;;Militant;RiderClav;T8_2H_ENIGMATICSTAFF;Elder's Enigmatic Staff;1;;Militant;midnightsnack
+2022-04-20T02:55:44.641Z;;NO LOCK;ThyLer;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;;Militant;BucciaratiListad
+2022-04-20T02:55:44.845Z;;Militant;RiderClav;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;midnightsnack
+2022-04-20T02:55:45.030Z;SURF;Tidal;Chonchoson;T5_CAPEITEM_FW_FORTSTERLING@3;Expert's Fort Sterling Cape;1;;Militant;Vanky
+2022-04-20T02:55:45.175Z;;Militant;RiderClav;T6_ARMOR_PLATE_HELL@2;Master's Demon Armor;1;;Militant;midnightsnack
+2022-04-20T02:55:45.287Z;;NO LOCK;ThyLer;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;;Militant;BucciaratiListad
+2022-04-20T02:55:45.583Z;;NO LOCK;ThyLer;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;BucciaratiListad
+2022-04-20T02:55:45.749Z;;Militant;RiderClav;T5_HEAD_PLATE_KEEPER@3;Expert's Judicator Helmet;1;;Militant;midnightsnack
+2022-04-20T02:55:45.861Z;;NO LOCK;ThyLer;T6_2H_ENIGMATICORB_MORGANA@2;Master's Malevolent Locus;1;;Militant;BucciaratiListad
+2022-04-20T02:55:46.048Z;SURF;Tidal;Chonchoson;T8_ARMOR_CLOTH_SET1@1;Elder's Scholar Robe;1;;Militant;Vanky
+2022-04-20T02:55:46.641Z;;NO LOCK;ThyLer;T5_CAPEITEM_FW_FORTSTERLING@2;Expert's Fort Sterling Cape;1;;Militant;BucciaratiListad
+2022-04-20T02:55:47.535Z;;NO LOCK;ThyLer;T6_HEAD_PLATE_SET2@2;Master's Knight Helmet;1;;Militant;BucciaratiListad
+2022-04-20T02:55:47.825Z;;NO LOCK;ThyLer;T6_ARMOR_CLOTH_SET2@2;Master's Cleric Robe;1;;Militant;BucciaratiListad
+2022-04-20T02:55:48.002Z;SURF;Tidal;Chonchoson;T6_MAIN_CURSEDSTAFF_UNDEAD@1;Master's Lifecurse Staff;1;;Militant;CaptainNavi
+2022-04-20T02:55:48.112Z;;Militant;SandmanDUH;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;Artista666
+2022-04-20T02:55:48.312Z;SURF;Tidal;Chonchoson;T6_OFF_HORN_KEEPER@2;Master's Mistcaller;1;;Militant;CaptainNavi
+2022-04-20T02:55:48.374Z;;Militant;SandmanDUH;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;DIOR;EscaIation;Artista666
+2022-04-20T02:55:48.516Z;SURF;Tidal;Chonchoson;T7_ARMOR_PLATE_HELL@1;Grandmaster's Demon Armor;1;;Militant;CaptainNavi
+2022-04-20T02:55:48.565Z;;Militant;SandmanDUH;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;Artista666
+2022-04-20T02:55:48.766Z;SURF;Tidal;Chonchoson;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;;Militant;CaptainNavi
+2022-04-20T02:55:48.892Z;;Militant;SandmanDUH;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;Artista666
+2022-04-20T02:55:49.224Z;SURF;Tidal;Chonchoson;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;CaptainNavi
+2022-04-20T02:55:49.515Z;SURF;Tidal;Chonchoson;T6_BAG;Master's Bag;1;;Militant;CaptainNavi
+2022-04-20T02:55:49.594Z;;Militant;ChestyLaRue;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;DIOR;EscaIation;Artista666
+2022-04-20T02:55:49.636Z;T4K3;The Slap;kowatera;T7_POTION_STONESKIN;Major Resistance Potion;2;DIOR;EscaIation;Artista666
+2022-04-20T02:55:50.737Z;;NO LOCK;ThyLer;T6_2H_FIRESTAFF_HELL@2;Master's Brimstone Staff;1;;Militant;exanianx
+2022-04-20T02:55:53.141Z;T4K3;The Slap;kowatera;T8_FISH_FRESHWATER_ALL_COMMON;River Sturgeon;1;PXOCS;RED WIND;iDexterPK
+2022-04-20T02:55:58.266Z;GOZU;7 Segundos;piero136459;TREASURE_KNOWLEDGE_RARITY3;Ancient Tome;2;PXOCS;ESCOLINHA DO G4NK;kayn157
+2022-04-20T02:55:58.577Z;GOZU;7 Segundos;piero136459;TREASURE_SILVERWARE_RARITY3;Silver Candelabrum;2;PXOCS;ESCOLINHA DO G4NK;kayn157
+2022-04-20T02:55:59.831Z;SURF;Tidal;RatsInMyKitchen;T6_2H_AXE_AVALON@2;Master's Realmbreaker;1;;Militant;TheGuido
+2022-04-20T02:56:00.262Z;SURF;Tidal;RatsInMyKitchen;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;TheGuido
+2022-04-20T02:56:00.610Z;SURF;Tidal;RatsInMyKitchen;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;TheGuido
+2022-04-20T02:56:00.921Z;SURF;Tidal;RatsInMyKitchen;T4_BAG@1;Adept's Bag;1;;Militant;TheGuido
+2022-04-20T02:56:01.172Z;SURF;Tidal;RatsInMyKitchen;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;TheGuido
+2022-04-20T02:56:01.406Z;SURF;Tidal;Minnezs;T6_TRASH;Trash;1;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:56:01.434Z;SURF;Tidal;RatsInMyKitchen;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;TheGuido
+2022-04-20T02:56:01.625Z;SURF;Tidal;Minnezs;T7_MEAL_OMELETTE;Pork Omelette;1;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:56:03.108Z;SURF;Tidal;Minnezs;T5_TRASH;Trash;1;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:56:03.376Z;SURF;Tidal;Minnezs;T6_TRASH;Trash;1;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:56:03.515Z;GOZU;7 Segundos;piero136459;T7_MEAL_OMELETTE;Pork Omelette;1;PXOCS;ESCOLINHA DO G4NK;Hoozak
+2022-04-20T02:56:03.671Z;SURF;Tidal;Minnezs;T5_TRASH;Trash;1;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:56:03.725Z;GOZU;7 Segundos;piero136459;T7_POTION_STONESKIN;Major Resistance Potion;1;PXOCS;ESCOLINHA DO G4NK;Hoozak
+2022-04-20T02:56:04.074Z;GOZU;7 Segundos;piero136459;T6_POTION_COOLDOWN;Poison Potion;1;PXOCS;ESCOLINHA DO G4NK;Hoozak
+2022-04-20T02:56:04.504Z;SURF;Tidal;Minnezs;UNIQUE_CONSUMABLE_EVENT_EASTER_2020_EGG;Surprise Egg;10;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:56:04.509Z;DIOR;EscaIation;N97A;T5_2H_KNUCKLES_MORGANA@3;Expert's Ravenstrike Cestus;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:56:04.755Z;SURF;Tidal;Minnezs;T6_POTION_COOLDOWN;Poison Potion;2;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:56:05.017Z;SURF;Tidal;Minnezs;UNIQUE_CONSUMABLE_EVENT_EASTER_2020_CHOCOLATE;Chocolate;2;PXOCS;ESCOLINHA DO G4NK;JACKBONELLES
+2022-04-20T02:56:05.414Z;DIOR;Elevate;YonkoSSJGOD;T7_POTION_STONESKIN;Major Resistance Potion;3;DIOR;EscaIation;JJordanH
+2022-04-20T02:56:06.797Z;SURF;Tidal;Minnezs;T7_POTION_STONESKIN;Major Resistance Potion;1;PXOCS;RED WIND;Gurillo
+2022-04-20T02:56:07.062Z;SURF;Tidal;Minnezs;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;PXOCS;RED WIND;Gurillo
+2022-04-20T02:56:07.421Z;SURF;Tidal;Minnezs;T8_MEAL_STEW@1;Beef Stew;1;PXOCS;RED WIND;Gurillo
+2022-04-20T02:56:07.898Z;GUTS;KraKen 69;MaRcO137;T5_BAG;Expert's Bag;1;;Militant;Hiccup
+2022-04-20T02:56:12.144Z;EVICT;Take lt Easy;Seidenada;T7_POTION_STONESKIN;Major Resistance Potion;3;DIOR;EscaIation;Kiske
+2022-04-20T02:56:13.577Z;EVICT;Take lt Easy;Seidenada;T7_POTION_STONESKIN;Major Resistance Potion;2;DIOR;EscaIation;MrKrabs69420
+2022-04-20T02:56:13.792Z;EVICT;Consequence;M1NH;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;lillia7w7
+2022-04-20T02:56:15.001Z;EVICT;Consequence;Thanks4loot;T6_HEAD_LEATHER_MORGANA@3;Master's Stalker Hood;1;DIOR;EscaIation;DesertSand
+2022-04-20T02:56:15.203Z;EVICT;Consequence;Thanks4loot;T8_2H_DAGGER_KATAR_AVALON@3;Elder's Bridled Fury;1;DIOR;EscaIation;DesertSand
+2022-04-20T02:56:15.432Z;EVICT;Consequence;Thanks4loot;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;DesertSand
+2022-04-20T02:56:16.077Z;EVICT;Consequence;Thanks4loot;T5_RUNE;Expert's Rune;1;DIOR;EscaIation;DesertSand
+2022-04-20T02:56:16.416Z;EVICT;Take lt Easy;vMenezs;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;DIOR;EscaIation;DesertSand
+2022-04-20T02:56:16.416Z;EVICT;Consequence;Thanks4loot;T4_SKILLBOOK_STANDARD;Adept's Tome of Insight;1;DIOR;EscaIation;DesertSand
+2022-04-20T02:56:16.563Z;EVICT;Consequence;Thanks4loot;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;DesertSand
+2022-04-20T02:56:16.602Z;;NO LOCK;Thuglife420;T8_2H_LONGBOW;Elder's Longbow;1;;Militant;Pachibot
+2022-04-20T02:56:16.642Z;EVICT;Take lt Easy;vMenezs;T5_CAPEITEM_FW_LYMHURST@3;Expert's Lymhurst Cape;1;DIOR;EscaIation;DesertSand
+2022-04-20T02:56:16.878Z;;NO LOCK;Thuglife420;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;Pachibot
+2022-04-20T02:56:17.151Z;;NO LOCK;Thuglife420;T7_ARMOR_CLOTH_SET2@1;Grandmaster's Cleric Robe;1;;Militant;Pachibot
+2022-04-20T02:56:17.296Z;EVICT;Take lt Easy;Seidenada;T6_OFF_TOTEM_KEEPER@3;Master's Taproot;1;DIOR;EscaIation;MrKrabs69420
+2022-04-20T02:56:17.718Z;;NO LOCK;Thuglife420;T7_SHOES_LEATHER_SET3@1;Grandmaster's Assassin Shoes;1;;Militant;Pachibot
+2022-04-20T02:56:17.765Z;EVICT;Take lt Easy;Seidenada;T8_ARMOR_PLATE_SET2@1;Elder's Knight Armor;1;DIOR;EscaIation;MrKrabs69420
+2022-04-20T02:56:18.483Z;;Militant;LocoAsylum;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;KingCharlesIII
+2022-04-20T02:56:18.756Z;;Militant;LocoAsylum;T7_POTION_STONESKIN;Major Resistance Potion;3;;Militant;KingCharlesIII
+2022-04-20T02:56:19.070Z;;Militant;LocoAsylum;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;KingCharlesIII
+2022-04-20T02:56:20.703Z;EVICT;Take lt Easy;Seidenada;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;DIOR;EscaIation;MrKrabs69420
+2022-04-20T02:56:20.827Z;EVICT;Take lt Easy;Eterninho;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;M0RZ4
+2022-04-20T02:56:21.061Z;EVICT;Take lt Easy;Seidenada;T6_HEAD_PLATE_KEEPER@3;Master's Judicator Helmet;1;DIOR;EscaIation;MrKrabs69420
+2022-04-20T02:56:21.081Z;EVICT;Take lt Easy;Eterninho;T7_2H_DAGGER_KATAR_AVALON@2;Grandmaster's Bridled Fury;1;DIOR;EscaIation;M0RZ4
+2022-04-20T02:56:21.359Z;EVICT;Take lt Easy;Eterninho;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;M0RZ4
+2022-04-20T02:56:21.389Z;EVICT;Take lt Easy;Seidenada;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;DIOR;EscaIation;MrKrabs69420
+2022-04-20T02:56:21.405Z;;Militant;LocoAsylum;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;;Militant;exanianx
+2022-04-20T02:56:21.749Z;;Militant;LocoAsylum;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;exanianx
+2022-04-20T02:56:21.778Z;EVICT;Take lt Easy;Eterninho;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;M0RZ4
+2022-04-20T02:56:22.076Z;;Militant;LocoAsylum;T8_ARMOR_CLOTH_SET1;Elder's Scholar Robe;1;;Militant;exanianx
+2022-04-20T02:56:22.734Z;;Militant;SugarcoldB2;T8_MEAL_STEW@1;Beef Stew;1;;Militant;exanianx
+2022-04-20T02:56:22.967Z;;Militant;SugarcoldB2;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;exanianx
+2022-04-20T02:56:24.260Z;;NO LOCK;Thuglife420;T6_HEAD_CLOTH_HELL@1;Master's Fiend Cowl;1;;Militant;midnightsnack
+2022-04-20T02:56:25.443Z;;NO LOCK;Thuglife420;T8_ARMOR_CLOTH_SET2@3;Elder's Cleric Robe;1;;Militant;midnightsnack
+2022-04-20T02:56:26.165Z;;NO LOCK;Thuglife420;T5_ARMOR_LEATHER_HELL@3;Expert's Hellion Jacket;1;;Militant;midnightsnack
+2022-04-20T02:56:26.401Z;;NO LOCK;Thuglife420;T8_SHOES_CLOTH_ROYAL@3;Elder's Royal Sandals;1;;Militant;midnightsnack
+2022-04-20T02:56:26.719Z;;NO LOCK;Thuglife420;T7_2H_TOOL_SIEGEHAMMER;Grandmaster's Demolition Hammer;1;;Militant;midnightsnack
+2022-04-20T02:56:27.655Z;;Militant;SugarcoldB2;T7_POTION_REVIVE;Major Gigantify Potion;1;;Militant;midnightsnack
+2022-04-20T02:56:27.734Z;EVICT;Take lt Easy;Eterninho;T8_ARMOR_CLOTH_SET2@3;Elder's Cleric Robe;1;DIOR;EscaIation;Vnncz3
+2022-04-20T02:56:27.961Z;;Militant;SugarcoldB2;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;4;;Militant;midnightsnack
+2022-04-20T02:56:28.611Z;EVICT;Consequence;LesheroOP;T5_HEAD_CLOTH_SET3;Expert's Mage Cowl;1;PXOCS;RED WIND;NiikoCute
+2022-04-20T02:56:28.819Z;EVICT;Consequence;LesheroOP;T6_OFF_HORN_KEEPER@2;Master's Mistcaller;1;PXOCS;RED WIND;NiikoCute
+2022-04-20T02:56:29.201Z;EVICT;Consequence;LesheroOP;T5_SHOES_PLATE_SET1@1;Expert's Soldier Boots;1;PXOCS;RED WIND;NiikoCute
+2022-04-20T02:56:29.479Z;EVICT;Consequence;LesheroOP;T6_CAPE;Master's Cape;1;PXOCS;RED WIND;NiikoCute
+2022-04-20T02:56:29.625Z;EVICT;Take lt Easy;Eterninho;T8_SHOES_CLOTH_SET1@3;Elder's Scholar Sandals;1;DIOR;EscaIation;Vnncz3
+2022-04-20T02:56:30.983Z;LAAAL;Dove;darkrbb;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;Pachibot
+2022-04-20T02:56:31.202Z;LAAAL;Dove;darkrbb;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Pachibot
+2022-04-20T02:56:31.577Z;LAAAL;Dove;darkrbb;T8_MEAL_STEW@1;Beef Stew;2;;Militant;Pachibot
+2022-04-20T02:56:31.671Z;EVICT;Take lt Easy;Eterninho;T8_OFF_TOWERSHIELD_UNDEAD@3;Elder's Sarcophagus;1;DIOR;EscaIation;Vnncz3
+2022-04-20T02:56:34.015Z;EVICT;Take lt Easy;Eterninho;T8_HEAD_LEATHER_SET1@3;Elder's Mercenary Hood;1;DIOR;EscaIation;Vnncz3
+2022-04-20T02:56:34.218Z;EVICT;Consequence;Twiggles420;T8_HEAD_LEATHER_SET1@1;Elder's Mercenary Hood;1;DIOR;EscaIation;Touharnan
+2022-04-20T02:56:34.453Z;EVICT;Consequence;Twiggles420;T8_SHOES_CLOTH_SET1@1;Elder's Scholar Sandals;1;DIOR;EscaIation;Touharnan
+2022-04-20T02:56:34.689Z;EVICT;Consequence;Twiggles420;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;Touharnan
+2022-04-20T02:56:37.054Z;GUTS;KraKen 69;Cringehonry;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;lucasSil
+2022-04-20T02:56:37.472Z;LAAAL;Dove;darkrbb;T7_MEAL_OMELETTE_AVALON@1;Avalonian Pork Omelette;1;;Militant;KingCharlesIII
+2022-04-20T02:56:38.171Z;GUTS;KraKen 69;Cringehonry;T7_2H_HOLYSTAFF_HELL@1;Grandmaster's Fallen Staff;1;;Militant;lucasSil
+2022-04-20T02:56:38.625Z;GUTS;KraKen 69;Cringehonry;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;lucasSil
+2022-04-20T02:56:38.759Z;EVICT;Consequence;Twiggles420;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;MrKrabs69420
+2022-04-20T02:56:38.792Z;LAAAL;Dove;darkrbb;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;7;;Militant;exanianx
+2022-04-20T02:56:39.075Z;GUTS;KraKen 69;SawLynn;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;TAOXIANI
+2022-04-20T02:56:39.358Z;GUTS;KraKen 69;SawLynn;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;TAOXIANI
+2022-04-20T02:56:39.661Z;GUTS;KraKen 69;SawLynn;T7_MEAL_OMELETTE_AVALON;Avalonian Pork Omelette;1;;Militant;TAOXIANI
+2022-04-20T02:56:39.812Z;GUTS;KraKen 69;Cringehonry;T8_ARMOR_PLATE_HELL@1;Elder's Demon Armor;1;;Militant;lucasSil
+2022-04-20T02:56:40.236Z;GUTS;KraKen 69;Cringehonry;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;lucasSil
+2022-04-20T02:56:40.895Z;GUTS;KraKen 69;Cringehonry;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;lucasSil
+2022-04-20T02:56:41.045Z;GUTS;KraKen 69;SawLynn;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;;Militant;VinTaro
+2022-04-20T02:56:41.311Z;GUTS;KraKen 69;SawLynn;T8_2H_LONGBOW;Elder's Longbow;1;;Militant;VinTaro
+2022-04-20T02:56:41.686Z;GUTS;KraKen 69;SawLynn;T4_MOUNT_GIANTSTAG;Adept's Giant Stag;1;;Militant;VinTaro
+2022-04-20T02:56:41.932Z;GUTS;KraKen 69;SawLynn;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;VinTaro
+2022-04-20T02:56:42.142Z;GUTS;KraKen 69;SawLynn;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;;Militant;VinTaro
+2022-04-20T02:56:42.764Z;GUTS;KraKen 69;SawLynn;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;;Militant;VinTaro
+2022-04-20T02:56:43.218Z;GUTS;KraKen 69;SawLynn;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;;Militant;VinTaro
+2022-04-20T02:56:43.531Z;GUTS;KraKen 69;SawLynn;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;VinTaro
+2022-04-20T02:56:44.933Z;GUTS;KraKen 69;SawLynn;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;VinTaro
+2022-04-20T02:56:45.283Z;GUTS;KraKen 69;SawLynn;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;VinTaro
+2022-04-20T02:56:45.516Z;GUTS;KraKen 69;Cringehonry;T8_TRASH;Trash;1;;Militant;lucasSil
+2022-04-20T02:56:46.761Z;GUTS;KraKen 69;Cringehonry;T5_TRASH;Trash;1;;Militant;lucasSil
+2022-04-20T02:56:47.163Z;GUTS;KraKen 69;SawLynn;T6_2H_CROSSBOWLARGE_MORGANA@2;Master's Siegebow;1;;Militant;Bowe
+2022-04-20T02:56:47.539Z;GUTS;KraKen 69;SawLynn;T5_SHOES_CLOTH_ROYAL@2;Expert's Royal Sandals;1;;Militant;Bowe
+2022-04-20T02:56:47.845Z;GUTS;KraKen 69;SawLynn;T6_MOUNT_ARMORED_HORSE;Master's Armored Horse;1;;Militant;Bowe
+2022-04-20T02:56:48.172Z;GUTS;KraKen 69;SawLynn;T7_POTION_STONESKIN;Major Resistance Potion;3;;Militant;Bowe
+2022-04-20T02:56:48.483Z;GUTS;KraKen 69;SawLynn;T7_MEAL_OMELETTE@1;Pork Omelette;1;;Militant;Bowe
+2022-04-20T02:56:48.701Z;GUTS;KraKen 69;SawLynn;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Bowe
+2022-04-20T02:56:48.921Z;GUTS;KraKen 69;Cringehonry;T6_TRASH;Trash;1;;Militant;LethalXH
+2022-04-20T02:56:49.008Z;GUTS;KraKen 69;SawLynn;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;Bowe
+2022-04-20T02:56:49.109Z;DIOR;EscaIation;Jez0r;T6_2H_KNUCKLES_MORGANA@2;Master's Ravenstrike Cestus;1;EVICT;Take lt Easy;FunnyZxz
+2022-04-20T02:56:49.293Z;GUTS;KraKen 69;Cringehonry;T5_HEAD_PLATE_KEEPER@2;Expert's Judicator Helmet;1;;Militant;LethalXH
+2022-04-20T02:56:49.328Z;DIOR;EscaIation;JMTGR;T7_POTION_STONESKIN;Major Resistance Potion;1;EVICT;Take lt Easy;TEIXEIRA3403
+2022-04-20T02:56:49.421Z;GUTS;KraKen 69;SawLynn;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;7;;Militant;Bowe
+2022-04-20T02:56:49.453Z;DIOR;EscaIation;Jez0r;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;EVICT;Take lt Easy;FunnyZxz
+2022-04-20T02:56:49.725Z;GUTS;KraKen 69;Cringehonry;T8_ARMOR_PLATE_SET2;Elder's Knight Armor;1;;Militant;LethalXH
+2022-04-20T02:56:49.861Z;DIOR;Elevate;YonkoSSJGOD;T4_TRASH;Trash;1;EVICT;Take lt Easy;EPILIHP
+2022-04-20T02:56:50.077Z;DIOR;Elevate;YonkoSSJGOD;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Take lt Easy;EPILIHP
+2022-04-20T02:56:50.182Z;DIOR;EscaIation;Jez0r;T7_POTION_STONESKIN;Major Resistance Potion;1;EVICT;Take lt Easy;FunnyZxz
+2022-04-20T02:56:50.535Z;GUTS;KraKen 69;Cringehonry;T4_CAPEITEM_FW_MARTLOCK@2;Adept's Martlock Cape;1;;Militant;LethalXH
+2022-04-20T02:56:50.921Z;GUTS;KraKen 69;Cringehonry;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;LethalXH
+2022-04-20T02:56:51.280Z;GUTS;KraKen 69;SawLynn;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;CaptainNavi
+2022-04-20T02:56:51.514Z;GUTS;KraKen 69;Cringehonry;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;LethalXH
+2022-04-20T02:56:51.517Z;GUTS;KraKen 69;SawLynn;T7_POTION_REVIVE;Major Gigantify Potion;4;;Militant;CaptainNavi
+2022-04-20T02:56:51.828Z;GUTS;KraKen 69;SawLynn;T7_MEAL_OMELETTE;Pork Omelette;1;;Militant;CaptainNavi
+2022-04-20T02:56:52.797Z;GUTS;KraKen 69;Cringehonry;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;LethalXH
+2022-04-20T02:56:52.954Z;LAAAL;Dove;darkrbb;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;Hyunric
+2022-04-20T02:56:53.170Z;GUTS;KraKen 69;Cringehonry;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;LethalXH
+2022-04-20T02:56:53.250Z;LAAAL;Dove;darkrbb;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;DIOR;EscaIation;Hyunric
+2022-04-20T02:56:53.734Z;GUTS;KraKen 69;Cringehonry;T7_MEAL_OMELETTE_AVALON;Avalonian Pork Omelette;1;;Militant;LethalXH
+2022-04-20T02:56:53.886Z;DIOR;Elevate;PandoBarins;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;EVICT;Take lt Easy;sylvanasnega
+2022-04-20T02:56:54.141Z;GUTS;KraKen 69;Cringehonry;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;LethalXH
+2022-04-20T02:56:54.299Z;DIOR;Elevate;PandoBarins;T6_2H_DAGGER_KATAR_AVALON@2;Master's Bridled Fury;1;EVICT;Take lt Easy;sylvanasnega
+2022-04-20T02:56:54.531Z;GUTS;KraKen 69;Cringehonry;T7_2H_TOOL_SIEGEHAMMER;Grandmaster's Demolition Hammer;1;;Militant;LethalXH
+2022-04-20T02:56:55.328Z;DIOR;Elevate;PandoBarins;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;EVICT;Take lt Easy;sylvanasnega
+2022-04-20T02:56:55.922Z;GUTS;KraKen 69;SawLynn;T6_2H_TOOL_SIEGEHAMMER;Master's Demolition Hammer;1;;Militant;Vanky
+2022-04-20T02:56:55.937Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Take lt Easy;sylvanasnega
+2022-04-20T02:56:56.312Z;GUTS;KraKen 69;SawLynn;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;Vanky
+2022-04-20T02:56:56.594Z;GUTS;KraKen 69;SawLynn;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;Vanky
+2022-04-20T02:56:57.256Z;GUTS;KraKen 69;Cringehonry;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;Pachibot
+2022-04-20T02:56:57.576Z;LAAAL;Dove;darkrbb;T6_CAPEITEM_FW_LYMHURST@3;Master's Lymhurst Cape;1;DIOR;EscaIation;Vnncz3
+2022-04-20T02:56:57.921Z;LAAAL;Dove;darkrbb;T6_MOUNT_DIREWOLF;Direwolf;1;DIOR;EscaIation;Vnncz3
+2022-04-20T02:57:00.077Z;GUTS;KraKen 69;Cringehonry;T7_POTION_STONESKIN;Major Resistance Potion;8;;Militant;BucciaratiListad
+2022-04-20T02:57:00.508Z;GUTS;KraKen 69;Cringehonry;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;BucciaratiListad
+2022-04-20T02:57:00.828Z;GOZU;7 Segundos;Shampiatro;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;EVICT;Take lt Easy;EPILIHP
+2022-04-20T02:57:00.921Z;GUTS;KraKen 69;Cringehonry;T6_TRASH;Trash;1;;Militant;BucciaratiListad
+2022-04-20T02:57:01.256Z;GUTS;KraKen 69;Cringehonry;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;BucciaratiListad
+2022-04-20T02:57:01.701Z;GUTS;KraKen 69;Cringehonry;T6_TRASH;Trash;1;;Militant;BucciaratiListad
+2022-04-20T02:57:01.735Z;GOZU;7 Segundos;Shampiatro;T8_HEAD_LEATHER_SET1;Elder's Mercenary Hood;1;EVICT;Take lt Easy;EPILIHP
+2022-04-20T02:57:02.078Z;GOZU;7 Segundos;Shampiatro;T6_2H_AXE_AVALON@2;Master's Realmbreaker;1;EVICT;Take lt Easy;EPILIHP
+2022-04-20T02:57:02.453Z;GUTS;KraKen 69;Cringehonry;T7_TRASH;Trash;1;;Militant;BucciaratiListad
+2022-04-20T02:57:03.749Z;SURF;Tidal;Vankleis;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:57:04.077Z;SURF;Tidal;Vankleis;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:57:04.422Z;SURF;Tidal;Vankleis;T5_2H_QUARTERSTAFF_AVALON@2;Expert's Grailseeker;1;DIOR;EscaIation;JJordanH
+2022-04-20T02:57:04.531Z;GUTS;KraKen 69;Cringehonry;T6_TRASH;Trash;1;;Militant;MarciaI
+2022-04-20T02:57:06.453Z;SURF;Tidal;Vankleis;T7_POTION_STONESKIN;Major Resistance Potion;3;DIOR;EscaIation;Vnncz3
+2022-04-20T02:57:07.443Z;GUTS;KraKen 69;Cringehonry;T8_SHOES_LEATHER_SET2@1;Elder's Hunter Shoes;1;;Militant;CJKoopa
+2022-04-20T02:57:07.794Z;GUTS;KraKen 69;Cringehonry;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;CJKoopa
+2022-04-20T02:57:08.556Z;GUTS;KraKen 69;Cringehonry;T3_MOUNT_HORSE;Journeyman's Riding Horse;1;;Militant;CJKoopa
+2022-04-20T02:57:12.104Z;GUTS;KraKen 69;Cringehonry;T4_SHOES_GATHERER_ORE;Adept's Miner Workboots;1;;Militant;CJKoopa
+2022-04-20T02:57:12.548Z;GUTS;KraKen 69;Cringehonry;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;CJKoopa
+2022-04-20T02:57:12.671Z;;Militant;SugarcoldB2;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;EVICT;Take lt Easy;FunnyZxz
+2022-04-20T02:57:13.187Z;;Militant;SugarcoldB2;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Take lt Easy;FunnyZxz
+2022-04-20T02:57:13.483Z;;Militant;SugarcoldB2;T6_ARMOR_CLOTH_SET2@2;Master's Cleric Robe;1;EVICT;Take lt Easy;FunnyZxz
+2022-04-20T02:57:14.484Z;EVICT;Consequence;Twiggles420;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;SURF;Tidal;Vankleis
+2022-04-20T02:57:15.001Z;EVICT;Consequence;Twiggles420;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;SURF;Tidal;Vankleis
+2022-04-20T02:57:15.594Z;EVICT;Consequence;Twiggles420;T5_2H_QUARTERSTAFF_AVALON@2;Expert's Grailseeker;1;SURF;Tidal;Vankleis
+2022-04-20T02:57:22.445Z;;Militant;SugarcoldB2;T7_ARMOR_PLATE_SET3@1;Grandmaster's Guardian Armor;1;DIOR;EscaIation;Hyunric
+2022-04-20T02:57:22.760Z;;Militant;SugarcoldB2;T6_SHOES_LEATHER_SET2@2;Master's Hunter Shoes;1;DIOR;EscaIation;Hyunric
+2022-04-20T02:57:25.654Z;EVICT;Take lt Easy;Ry4nxDx;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;EVICT;Take lt Easy;paulindoboquete
+2022-04-20T02:57:25.703Z;EVICT;Take lt Easy;Seidenada;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;Chuchay9
+2022-04-20T02:57:26.510Z;DIOR;EscaIation;Benmage;T6_2H_HARPOON_HELL@2;Master's Spirithunter;1;EVICT;Consequence;t0t0master
+2022-04-20T02:57:26.827Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;1;EVICT;Consequence;t0t0master
+2022-04-20T02:57:27.437Z;EVICT;Take lt Easy;Seidenada;T4_ARMOR_PLATE_KEEPER@3;Adept's Judicator Armor;1;;Militant;ErinMTFK
+2022-04-20T02:57:27.598Z;DIOR;EscaIation;zJackson;T7_ARMOR_CLOTH_SET2@1;Grandmaster's Cleric Robe;1;EVICT;Consequence;t0t0master
+2022-04-20T02:57:27.984Z;EVICT;Take lt Easy;Seidenada;T6_2H_ENIGMATICORB_MORGANA@1;Master's Malevolent Locus;1;;Militant;ErinMTFK
+2022-04-20T02:57:28.297Z;EVICT;Take lt Easy;Seidenada;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;;Militant;ErinMTFK
+2022-04-20T02:57:28.669Z;EVICT;Take lt Easy;Seidenada;T7_HEAD_LEATHER_SET3@1;Grandmaster's Assassin Hood;1;;Militant;ErinMTFK
+2022-04-20T02:57:29.233Z;DIOR;EscaIation;Benmage;T6_2H_NATURESTAFF_HELL@1;Master's Blight Staff;1;EVICT;Take lt Easy;akaballan
+2022-04-20T02:57:29.604Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;3;EVICT;Take lt Easy;akaballan
+2022-04-20T02:57:29.641Z;;Militant;SugarcoldB2;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;EVICT;Take lt Easy;sylvanasnega
+2022-04-20T02:57:29.703Z;EVICT;Take lt Easy;Seidenada;T7_ARMOR_CLOTH_SET2@1;Grandmaster's Cleric Robe;1;;Militant;ErinMTFK
+2022-04-20T02:57:29.918Z;DIOR;EscaIation;MatheusMRC;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;EVICT;Consequence;KnightWolv
+2022-04-20T02:57:30.406Z;T4K3;The Slap;kowatera;T7_TRASH;Trash;1;EVICT;Take lt Easy;Niurkaz
+2022-04-20T02:57:30.502Z;EVICT;Take lt Easy;Seidenada;T6_ARMOR_PLATE_HELL@2;Master's Demon Armor;1;;Militant;ErinMTFK
+2022-04-20T02:57:30.626Z;T4K3;The Slap;kowatera;T6_HEAD_LEATHER_SET3@1;Master's Assassin Hood;1;EVICT;Take lt Easy;Niurkaz
+2022-04-20T02:57:30.795Z;T4K3;The Slap;kowatera;T7_ARMOR_CLOTH_SET2@1;Grandmaster's Cleric Robe;1;EVICT;Take lt Easy;Niurkaz
+2022-04-20T02:57:31.046Z;T4K3;The Slap;kowatera;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;EVICT;Take lt Easy;Niurkaz
+2022-04-20T02:57:31.046Z;EVICT;Take lt Easy;Seidenada;T7_ARMOR_PLATE_SET3@1;Grandmaster's Guardian Armor;1;;Militant;ErinMTFK
+2022-04-20T02:57:31.088Z;DIOR;EscaIation;ManickS;T5_BAG;Expert's Bag;1;;Militant;Alexia7w7
+2022-04-20T02:57:31.236Z;T4K3;The Slap;kowatera;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;EVICT;Take lt Easy;Niurkaz
+2022-04-20T02:57:31.396Z;EVICT;Take lt Easy;Seidenada;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;;Militant;ErinMTFK
+2022-04-20T02:57:31.760Z;EVICT;Take lt Easy;Seidenada;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;ErinMTFK
+2022-04-20T02:57:32.042Z;EVICT;Take lt Easy;Seidenada;T6_SHOES_CLOTH_ROYAL@3;Master's Royal Sandals;1;;Militant;ErinMTFK
+2022-04-20T02:57:32.264Z;EVICT;Consequence;M1NH;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;EVICT;Consequence;Deanosaurs
+2022-04-20T02:57:32.267Z;DIOR;EscaIation;zJackson;T8_SHOES_CLOTH_SET1@1;Elder's Scholar Sandals;1;EVICT;Consequence;KnightWolv
+2022-04-20T02:57:32.533Z;EVICT;Consequence;M1NH;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;EVICT;Consequence;Deanosaurs
+2022-04-20T02:57:32.797Z;EVICT;Consequence;M1NH;T7_POTION_STONESKIN;Major Resistance Potion;3;EVICT;Consequence;Deanosaurs
+2022-04-20T02:57:33.260Z;EVICT;Take lt Easy;Seidenada;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;;Militant;ErinMTFK
+2022-04-20T02:57:33.575Z;EVICT;Take lt Easy;Seidenada;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;ErinMTFK
+2022-04-20T02:57:34.137Z;DIOR;EscaIation;ManickS;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Take lt Easy;paulindoboquete
+2022-04-20T02:57:34.654Z;DIOR;EscaIation;ManickS;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;EVICT;Take lt Easy;paulindoboquete
+2022-04-20T02:57:35.437Z;DIOR;EscaIation;zJackson;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;EVICT;Consequence;Thanks4loot
+2022-04-20T02:57:35.968Z;DIOR;EscaIation;zJackson;T7_ARMOR_CLOTH_SET2@1;Grandmaster's Cleric Robe;1;EVICT;Consequence;Thanks4loot
+2022-04-20T02:57:36.324Z;DIOR;EscaIation;zJackson;T6_HEAD_LEATHER_MORGANA@3;Master's Stalker Hood;1;EVICT;Consequence;Thanks4loot
+2022-04-20T02:57:37.233Z;DIOR;EscaIation;NeadeMedallo;T5_BAG@2;Expert's Bag;1;EVICT;Consequence;Thanks4loot
+2022-04-20T02:57:37.264Z;GUTS;KraKen 69;MaRcO137;T7_HEAD_LEATHER_SET3@1;Grandmaster's Assassin Hood;1;EVICT;Consequence;LesheroOP
+2022-04-20T02:57:37.579Z;GUTS;KraKen 69;MaRcO137;T5_ARMOR_CLOTH_AVALON@3;Expert's Robe of Purity;1;EVICT;Consequence;LesheroOP
+2022-04-20T02:57:37.796Z;GUTS;KraKen 69;MaRcO137;T6_2H_ENIGMATICSTAFF@2;Master's Enigmatic Staff;1;EVICT;Consequence;LesheroOP
+2022-04-20T02:57:43.187Z;DIOR;EscaIation;NeadeMedallo;T8_ARMOR_CLOTH_SET2@1;Elder's Cleric Robe;1;EVICT;Consequence;KnightWolv
+2022-04-20T02:57:43.641Z;DIOR;EscaIation;NeadeMedallo;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;EVICT;Consequence;KnightWolv
+2022-04-20T02:57:43.860Z;DIOR;EscaIation;NeadeMedallo;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;EVICT;Consequence;KnightWolv
+2022-04-20T02:57:50.386Z;;Your Last Breath;THBX;T4_2H_TOOL_SIEGEHAMMER;Adept's Demolition Hammer;1;DIOR;EscaIation;KOCHAB
+2022-04-20T02:57:51.592Z;DIOR;EscaIation;KOCHAB;T7_POTION_STONESKIN;Major Resistance Potion;1;EVICT;Take lt Easy;MCLOFFA
+2022-04-20T02:58:09.623Z;EVICT;Take lt Easy;TEIXEIRA3403;T6_2H_TWINSCYTHE_HELL@1;Master's Soulscythe;1;EVICT;Take lt Easy;PXocs
+2022-04-20T02:58:09.892Z;EVICT;Take lt Easy;TEIXEIRA3403;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;EVICT;Take lt Easy;PXocs
+2022-04-20T02:58:10.140Z;EVICT;Take lt Easy;TEIXEIRA3403;T4_BAG@1;Adept's Bag;1;EVICT;Take lt Easy;PXocs
+2022-04-20T02:58:10.811Z;EVICT;Take lt Easy;TEIXEIRA3403;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;EVICT;Take lt Easy;PXocs
+2022-04-20T02:58:11.828Z;EVICT;Take lt Easy;MestreZen;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;EVICT;Take lt Easy;PXocs
+2022-04-20T02:58:12.407Z;;Your Last Breath;Eternoz;T6_ARMOR_LEATHER_AVALON@2;Master's Jacket of Tenacity;1;EVICT;Consequence;KayTwoDee
+2022-04-20T02:58:12.687Z;;Your Last Breath;ziikOll;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;EVICT;Consequence;KayTwoDee
+2022-04-20T02:58:12.717Z;;Your Last Breath;Eternoz;T6_BAG;Master's Bag;1;EVICT;Consequence;KayTwoDee
+2022-04-20T02:58:13.360Z;;Your Last Breath;ziikOll;T7_POTION_STONESKIN;Major Resistance Potion;2;EVICT;Consequence;KayTwoDee
+2022-04-20T02:58:58.641Z;;Militant;Trapbulge;T7_POTION_REVIVE;Major Gigantify Potion;2;;Militant;Trapbulge
+2022-04-20T02:58:58.873Z;;Militant;Trapbulge;T5_POTION_STONESKIN@1;Resistance Potion;2;;Militant;Trapbulge
+2022-04-20T02:59:12.703Z;DIOR;EscaIation;zJackson;T6_BAG;Master's Bag;1;OOPS;Different Cloth;Rockseas
+2022-04-20T02:59:12.955Z;DIOR;EscaIation;zJackson;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;OOPS;Different Cloth;Rockseas
+2022-04-20T02:59:13.158Z;DIOR;EscaIation;zJackson;T8_ARMOR_PLATE_SET2;Elder's Knight Armor;1;OOPS;Different Cloth;Rockseas
+2022-04-20T02:59:13.421Z;DIOR;EscaIation;zJackson;T8_HEAD_LEATHER_SET3@1;Elder's Assassin Hood;1;OOPS;Different Cloth;Rockseas
+2022-04-20T02:59:25.343Z;DIOR;EscaIation;Heros1;T5_2H_RAM_KEEPER@3;Expert's Grovekeeper;1;OOPS;Different Cloth;NixBaltimore
+2022-04-20T02:59:26.422Z;DIOR;EscaIation;KOCHAB;T7_POTION_STONESKIN;Major Resistance Potion;3;OOPS;Different Cloth;Burriza
+2022-04-20T02:59:32.656Z;DIOR;EscaIation;iammaw;T5_ARMOR_PLATE_HELL@2;Expert's Demon Armor;1;OOPS;Different Cloth;Burriza
+2022-04-20T02:59:32.716Z;DIOR;Elevate;PandoBarins;T5_HEAD_PLATE_KEEPER@3;Expert's Judicator Helmet;1;OOPS;Different Cloth;NixBaltimore
+2022-04-20T02:59:32.920Z;DIOR;EscaIation;iammaw;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;OOPS;Different Cloth;Burriza
+2022-04-20T02:59:33.313Z;DIOR;EscaIation;iammaw;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;OOPS;Different Cloth;Burriza
+2022-04-20T02:59:39.758Z;DIOR;EscaIation;AragonOrder;T8_TRASH;Trash;1;OOPS;Different Cloth;Ernestoasty
+2022-04-20T02:59:40.076Z;DIOR;EscaIation;AragonOrder;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;OOPS;Different Cloth;Ernestoasty
+2022-04-20T02:59:40.683Z;DIOR;EscaIation;AragonOrder;T5_ARMOR_LEATHER_HELL@3;Expert's Hellion Jacket;1;OOPS;Different Cloth;Ernestoasty
+2022-04-20T02:59:52.966Z;;Militant;TwoFox;T5_ARMOR_LEATHER_HELL@3;Expert's Hellion Jacket;1;DIOR;EscaIation;JMTGR
+2022-04-20T02:59:53.450Z;;Militant;TwoFox;T5_HEAD_LEATHER_MORGANA@3;Expert's Stalker Hood;1;DIOR;EscaIation;JMTGR
+2022-04-20T02:59:54.909Z;DIOR;Elevate;YonkoSSJGOD;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;DIOR;EscaIation;JMTGR
+2022-04-20T02:59:55.376Z;;Militant;TwoFox;T6_ARMOR_CLOTH_AVALON@2;Master's Robe of Purity;1;DIOR;EscaIation;JMTGR
+2022-04-20T02:59:58.691Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;lucasSil
+2022-04-20T02:59:59.257Z;DIOR;EscaIation;Benmage;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;;Militant;lucasSil
+2022-04-20T03:00:02.174Z;DIOR;EscaIation;Benmage;T6_2H_CURSEDSTAFF_MORGANA@2;Master's Damnation Staff;1;;Militant;UnkleRukus
+2022-04-20T03:00:03.131Z;DIOR;EscaIation;Benmage;T8_ARMOR_CLOTH_SET1;Elder's Scholar Robe;1;;Militant;UnkleRukus
+2022-04-20T03:00:03.461Z;TH1RD;IAMNIUBI;BjornKiD;T7_2H_ENIGMATICSTAFF@1;Grandmaster's Enigmatic Staff;1;DIOR;EscaIation;JMTGR
+2022-04-20T03:00:03.699Z;TH1RD;IAMNIUBI;BjornKiD;T7_HEAD_LEATHER_SET3@1;Grandmaster's Assassin Hood;1;DIOR;EscaIation;JMTGR
+2022-04-20T03:00:05.250Z;DIOR;EscaIation;Benmage;T5_2H_FIRESTAFF_HELL@3;Expert's Brimstone Staff;1;;Militant;Chuchay9
+2022-04-20T03:00:05.846Z;;Militant;Trapbulge;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;Chuchay9
+2022-04-20T03:00:05.849Z;GOZU;7 Segundos;piero136459;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;UnkleRukus
+2022-04-20T03:00:06.125Z;;Militant;Trapbulge;T8_ARMOR_CLOTH_SET1;Elder's Scholar Robe;1;;Militant;Chuchay9
+2022-04-20T03:00:06.164Z;GOZU;7 Segundos;piero136459;T6_SHOES_LEATHER_SET2@2;Master's Hunter Shoes;1;;Militant;UnkleRukus
+2022-04-20T03:00:06.467Z;GOZU;7 Segundos;piero136459;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;UnkleRukus
+2022-04-20T03:00:06.483Z;;Militant;Trapbulge;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;;Militant;Chuchay9
+2022-04-20T03:00:06.811Z;OOPS;Different Cloth;brysneth;T7_TRASH;Trash;1;DIOR;EscaIation;KoronaVirus19
+2022-04-20T03:00:07.202Z;OOPS;Different Cloth;brysneth;T5_ARMOR_PLATE_AVALON@2;Expert's Armor of Valor;1;DIOR;EscaIation;KoronaVirus19
+2022-04-20T03:00:07.730Z;OOPS;Different Cloth;brysneth;T7_POTION_STONESKIN;Major Resistance Potion;2;DIOR;EscaIation;KoronaVirus19
+2022-04-20T03:00:08.031Z;SURF;Tidal;Vankleis;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;;Militant;SrAleatorio
+2022-04-20T03:00:08.264Z;;Militant;SugarcoldB2;T6_ARMOR_PLATE_HELL@2;Master's Demon Armor;1;DIOR;EscaIation;KOCHAB
+2022-04-20T03:00:08.480Z;SURF;Tidal;Vankleis;T5_MOUNT_ARMORED_HORSE;Expert's Armored Horse;1;;Militant;SrAleatorio
+2022-04-20T03:00:08.685Z;T4K3;The Slap;kowatera;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;KoronaVirus19
+2022-04-20T03:00:08.753Z;;Militant;SugarcoldB2;T5_2H_MACE_MORGANA@3;Expert's Camlann Mace;1;DIOR;EscaIation;KOCHAB
+2022-04-20T03:00:08.981Z;T4K3;The Slap;kowatera;T5_OFF_JESTERCANE_HELL@2;Expert's Leering Cane;1;DIOR;EscaIation;KoronaVirus19
+2022-04-20T03:00:09.328Z;;Militant;SugarcoldB2;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;DIOR;EscaIation;KOCHAB
+2022-04-20T03:00:09.688Z;;Militant;SugarcoldB2;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;KOCHAB
+2022-04-20T03:00:10.139Z;;Militant;SugarcoldB2;T7_MEAL_OMELETTE_AVALON@1;Avalonian Pork Omelette;1;DIOR;EscaIation;KOCHAB
+2022-04-20T03:00:10.633Z;;Militant;SugarcoldB2;T7_POTION_STONESKIN;Major Resistance Potion;7;DIOR;EscaIation;KOCHAB
+2022-04-20T03:00:10.763Z;DIOR;EscaIation;SoloOoM;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;KIMHANEUL
+2022-04-20T03:00:11.046Z;DIOR;EscaIation;SoloOoM;T6_2H_HARPOON_HELL@2;Master's Spirithunter;1;DIOR;EscaIation;KIMHANEUL
+2022-04-20T03:00:11.271Z;DIOR;EscaIation;SoloOoM;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;EscaIation;KIMHANEUL
+2022-04-20T03:00:11.390Z;DIOR;EscaIation;Zeptonia;T6_2H_MACE_MORGANA@1;Master's Camlann Mace;1;DIOR;EscaIation;ManickS
+2022-04-20T03:00:11.687Z;DIOR;EscaIation;SoloOoM;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;EscaIation;KIMHANEUL
+2022-04-20T03:00:12.234Z;DIOR;EscaIation;SoloOoM;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;DIOR;EscaIation;KIMHANEUL
+2022-04-20T03:00:12.358Z;EVICT;Take lt Easy;Seidenada;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;KoronaVirus19
+2022-04-20T03:00:14.708Z;DIOR;EscaIation;SoloOoM;T8_HEAD_PLATE_SET2@1;Elder's Knight Helmet;1;;Militant;Vanky
+2022-04-20T03:00:14.966Z;DIOR;EscaIation;SoloOoM;T6_2H_CURSEDSTAFF_MORGANA@3;Master's Damnation Staff;1;;Militant;Vanky
+2022-04-20T03:00:15.233Z;DIOR;EscaIation;SoloOoM;T8_ARMOR_CLOTH_SET1@1;Elder's Scholar Robe;1;;Militant;Vanky
+2022-04-20T03:00:15.608Z;OOPS;Different Cloth;Devisss;T8_ARMOR_PLATE_SET2;Elder's Knight Armor;1;DIOR;EscaIation;bootydragon
+2022-04-20T03:00:15.634Z;DIOR;EscaIation;SoloOoM;T5_CAPEITEM_FW_FORTSTERLING@3;Expert's Fort Sterling Cape;1;;Militant;Vanky
+2022-04-20T03:00:15.917Z;OOPS;Different Cloth;Devisss;T8_SHOES_CLOTH_KEEPER;Elder's Druid Sandals;1;DIOR;EscaIation;bootydragon
+2022-04-20T03:00:16.104Z;SURF;Tidal;Vankleis;T8_2H_LONGBOW;Elder's Longbow;1;;Militant;R4da
+2022-04-20T03:00:16.388Z;SURF;Tidal;Vankleis;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;R4da
+2022-04-20T03:00:16.670Z;SURF;Tidal;Vankleis;T7_SHOES_CLOTH_SET1;Grandmaster's Scholar Sandals;1;;Militant;R4da
+2022-04-20T03:00:16.953Z;SURF;Tidal;Vankleis;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;R4da
+2022-04-20T03:00:17.294Z;GOZU;7 Segundos;piero136459;T5_BAG@1;Expert's Bag;1;;Militant;Chuchay9
+2022-04-20T03:00:17.333Z;SURF;Tidal;Vankleis;T7_POTION_STONESKIN;Major Resistance Potion;3;;Militant;R4da
+2022-04-20T03:00:17.515Z;GOZU;7 Segundos;piero136459;T3_MOUNT_HORSE;Journeyman's Riding Horse;1;;Militant;Chuchay9
+2022-04-20T03:00:17.640Z;SURF;Tidal;Vankleis;T8_MEAL_STEW@1;Beef Stew;1;;Militant;R4da
+2022-04-20T03:00:18.326Z;GOZU;7 Segundos;piero136459;T4_CAPEITEM_FW_THETFORD@3;Adept's Thetford Cape;1;;Militant;Chuchay9
+2022-04-20T03:00:18.547Z;GOZU;7 Segundos;piero136459;T3_MOUNT_HORSE;Journeyman's Riding Horse;1;;Militant;Chuchay9
+2022-04-20T03:00:18.720Z;GOZU;7 Segundos;piero136459;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;Chuchay9
+2022-04-20T03:00:18.983Z;GOZU;7 Segundos;piero136459;T4_SHOES_CLOTH_ROYAL@3;Adept's Royal Sandals;1;;Militant;Chuchay9
+2022-04-20T03:00:19.201Z;GOZU;7 Segundos;piero136459;T5_CAPEITEM_FW_FORTSTERLING@3;Expert's Fort Sterling Cape;1;;Militant;Chuchay9
+2022-04-20T03:00:19.757Z;;Militant;ErinMTFK;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Sirkm3
+2022-04-20T03:00:19.860Z;GOZU;7 Segundos;piero136459;T7_POTION_REVIVE;Major Gigantify Potion;1;;Militant;Chuchay9
+2022-04-20T03:00:20.017Z;OOPS;Different Cloth;lGAIJINl;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;OOPS;Different Cloth;NixBaltimore
+2022-04-20T03:00:20.046Z;;Militant;ErinMTFK;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;Sirkm3
+2022-04-20T03:00:20.079Z;GOZU;7 Segundos;piero136459;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;2;;Militant;Chuchay9
+2022-04-20T03:00:20.310Z;OOPS;Different Cloth;lGAIJINl;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;OOPS;Different Cloth;NixBaltimore
+2022-04-20T03:00:20.623Z;OOPS;Different Cloth;lGAIJINl;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;OOPS;Different Cloth;NixBaltimore
+2022-04-20T03:00:20.638Z;SURF;Tidal;Aerona69;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;Marbb
+2022-04-20T03:00:20.882Z;SURF;Tidal;Aerona69;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;Marbb
+2022-04-20T03:00:21.000Z;OOPS;Different Cloth;lGAIJINl;T7_POTION_STONESKIN;Major Resistance Potion;2;OOPS;Different Cloth;NixBaltimore
+2022-04-20T03:00:21.202Z;SURF;Tidal;Aerona69;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;Marbb
+2022-04-20T03:00:21.233Z;EVICT;Take lt Easy;Eterninho;T6_ARMOR_PLATE_UNDEAD@1;Master's Graveguard Armor;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:21.322Z;OOPS;Different Cloth;SexySkull;T4_CAPEITEM_FW_LYMHURST@2;Adept's Lymhurst Cape;1;DIOR;EscaIation;UwU31
+2022-04-20T03:00:21.435Z;SURF;Tidal;Aerona69;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;;Militant;Marbb
+2022-04-20T03:00:21.453Z;EVICT;Take lt Easy;Eterninho;T6_HEAD_LEATHER_MORGANA@1;Master's Stalker Hood;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:21.670Z;EVICT;Take lt Easy;Eterninho;T6_SHOES_LEATHER_SET2@1;Master's Hunter Shoes;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:21.874Z;EVICT;Take lt Easy;Eterninho;T8_2H_CLAWPAIR;Elder's Claws;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:22.596Z;GOZU;7 Segundos;piero136459;T4_TRASH;Trash;1;;Militant;R4da
+2022-04-20T03:00:22.685Z;OOPS;Different Cloth;SexySkull;T4_CAPEITEM_FW_MARTLOCK@1;Adept's Martlock Cape;1;DIOR;EscaIation;ManickS
+2022-04-20T03:00:22.952Z;EVICT;Take lt Easy;Eterninho;T8_ARMOR_CLOTH_SET1@1;Elder's Scholar Robe;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:23.107Z;EVICT;Take lt Easy;Eterninho;T5_CAPEITEM_FW_FORTSTERLING@3;Expert's Fort Sterling Cape;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:23.473Z;EVICT;Take lt Easy;Eterninho;T7_ARMOR_PLATE_HELL@1;Grandmaster's Demon Armor;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:23.952Z;OOPS;Different Cloth;SexySkull;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;DIOR;EscaIation;ManickS
+2022-04-20T03:00:24.236Z;OOPS;Different Cloth;SexySkull;T8_ARMOR_CLOTH_SET1;Elder's Scholar Robe;1;DIOR;EscaIation;ManickS
+2022-04-20T03:00:24.253Z;OOPS;Different Cloth;lGAIJINl;T4_BAG@2;Adept's Bag;1;DIOR;EscaIation;bootydragon
+2022-04-20T03:00:24.264Z;EVICT;Take lt Easy;Eterninho;UNIQUE_GVGTOKEN_GENERIC;Siphoned Energy;10;SURF;Tidal;Chonchoson
+2022-04-20T03:00:24.452Z;OOPS;Different Cloth;SexySkull;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;DIOR;EscaIation;ManickS
+2022-04-20T03:00:24.515Z;EVICT;Take lt Easy;Eterninho;T6_OFF_HORN_KEEPER@2;Master's Mistcaller;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:24.656Z;OOPS;Different Cloth;lGAIJINl;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;DIOR;EscaIation;bootydragon
+2022-04-20T03:00:24.905Z;OOPS;Different Cloth;SexySkull;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;DIOR;EscaIation;ManickS
+2022-04-20T03:00:25.157Z;OOPS;Different Cloth;SexySkull;T5_BAG;Expert's Bag;1;DIOR;EscaIation;ManickS
+2022-04-20T03:00:25.346Z;OOPS;Different Cloth;lGAIJINl;T7_MEAL_OMELETTE@2;Pork Omelette;1;DIOR;EscaIation;bootydragon
+2022-04-20T03:00:25.813Z;OOPS;Different Cloth;lGAIJINl;T7_POTION_STONESKIN;Major Resistance Potion;3;DIOR;EscaIation;bootydragon
+2022-04-20T03:00:29.392Z;OOPS;Different Cloth;SexySkull;T6_MOUNT_HORSE;Master's Riding Horse;1;;Militant;Vanky
+2022-04-20T03:00:29.713Z;OOPS;Different Cloth;SexySkull;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;Vanky
+2022-04-20T03:00:30.249Z;ARCH;Awful Company;beckRR;T8_2H_ENIGMATICSTAFF;Elder's Enigmatic Staff;1;;Militant;PixelPecs
+2022-04-20T03:00:30.515Z;ARCH;Awful Company;beckRR;T8_HEAD_PLATE_SET2@1;Elder's Knight Helmet;1;;Militant;PixelPecs
+2022-04-20T03:00:30.575Z;;NO LOCK;ThyLer;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;DIOR;EscaIation;BIGGASUM
+2022-04-20T03:00:30.826Z;;NO LOCK;ThyLer;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;EscaIation;BIGGASUM
+2022-04-20T03:00:30.889Z;ARCH;Awful Company;beckRR;T4_2H_ARCANESTAFF_HELL@2;Adept's Occult Staff;1;;Militant;PixelPecs
+2022-04-20T03:00:31.072Z;;NO LOCK;ThyLer;T4_CAPEITEM_FW_MARTLOCK@2;Adept's Martlock Cape;1;DIOR;EscaIation;BIGGASUM
+2022-04-20T03:00:31.294Z;;NO LOCK;ThyLer;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;DIOR;EscaIation;BIGGASUM
+2022-04-20T03:00:31.432Z;ARCH;Awful Company;beckRR;T5_2H_ICECRYSTAL_UNDEAD@3;Expert's Permafrost Prism;1;;Militant;PixelPecs
+2022-04-20T03:00:31.531Z;;NO LOCK;ThyLer;T5_2H_ENIGMATICORB_MORGANA@2;Expert's Malevolent Locus;1;DIOR;EscaIation;BIGGASUM
+2022-04-20T03:00:31.691Z;ARCH;Awful Company;beckRR;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;;Militant;PixelPecs
+2022-04-20T03:00:31.889Z;;NO LOCK;ThyLer;T5_POTION_STONESKIN@1;Resistance Potion;3;DIOR;EscaIation;BIGGASUM
+2022-04-20T03:00:31.890Z;ARCH;Awful Company;beckRR;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;;Militant;PixelPecs
+2022-04-20T03:00:33.311Z;ARCH;Awful Company;beckRR;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;PixelPecs
+2022-04-20T03:00:33.872Z;ARCH;Awful Company;beckRR;T6_2H_MACE_MORGANA@2;Master's Camlann Mace;1;;Militant;PixelPecs
+2022-04-20T03:00:34.657Z;EVICT;Take lt Easy;Eterninho;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;;Militant;Sirkm3
+2022-04-20T03:00:35.044Z;ARCH;Awful Company;beckRR;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;;Militant;PixelPecs
+2022-04-20T03:00:35.242Z;ARCH;Awful Company;beckRR;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;;Militant;PixelPecs
+2022-04-20T03:00:35.357Z;;NO LOCK;ThyLer;T4_BAG@1;Adept's Bag;1;DIOR;EscaIation;JMTGR
+2022-04-20T03:00:35.733Z;;NO LOCK;ThyLer;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;DIOR;EscaIation;JMTGR
+2022-04-20T03:00:37.008Z;;Militant;ErinMTFK;T6_ARMOR_PLATE_SET2@1;Master's Knight Armor;1;DIOR;EscaIation;ManickS
+2022-04-20T03:00:39.201Z;;NO LOCK;ThyLer;T7_SHOES_LEATHER_SET2@1;Grandmaster's Hunter Shoes;1;DIOR;EscaIation;JMTGR
+2022-04-20T03:00:39.452Z;;NO LOCK;ThyLer;T8_HEAD_PLATE_SET2@1;Elder's Knight Helmet;1;DIOR;EscaIation;JMTGR
+2022-04-20T03:00:40.264Z;;NO LOCK;ThyLer;T7_POTION_STONESKIN;Major Resistance Potion;3;DIOR;EscaIation;JMTGR
+2022-04-20T03:00:42.535Z;EVICT;Take lt Easy;Eterninho;T8_ARMOR_PLATE_SET3@1;Elder's Guardian Armor;1;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:42.826Z;EVICT;Take lt Easy;Eterninho;T8_HEAD_LEATHER_SET3@3;Elder's Assassin Hood;1;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:43.016Z;EVICT;Take lt Easy;Eterninho;T8_2H_DUALHAMMER_HELL;Elder's Forge Hammers;1;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:43.452Z;EVICT;Take lt Easy;Eterninho;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:43.854Z;;NO LOCK;ThyLer;T8_TRASH;Trash;1;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:44.168Z;;NO LOCK;ThyLer;T5_BAG_INSIGHT@1;Expert's Satchel of Insight;1;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:44.168Z;EVICT;Take lt Easy;Eterninho;T6_2H_DAGGER_KATAR_AVALON@2;Master's Bridled Fury;1;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:44.326Z;EVICT;Take lt Easy;Eterninho;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:44.411Z;;NO LOCK;ThyLer;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:44.638Z;EVICT;Take lt Easy;Eterninho;T5_HEAD_PLATE_KEEPER@3;Expert's Judicator Helmet;1;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:45.114Z;;NO LOCK;ThyLer;T5_BAG@1;Expert's Bag;1;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:45.164Z;ROAR;Level Reapers;L1ghtW0lf;T4_ARMOR_PLATE_SET3;Adept's Guardian Armor;1;GUTS;KraKen 69;SawLynn
+2022-04-20T03:00:45.406Z;ROAR;Level Reapers;L1ghtW0lf;T4_CAPEITEM_FW_FORTSTERLING@1;Adept's Fort Sterling Cape;1;GUTS;KraKen 69;SawLynn
+2022-04-20T03:00:45.639Z;;NO LOCK;Thuglife420;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:45.842Z;;NO LOCK;ThyLer;T7_POTION_STONESKIN;Major Resistance Potion;2;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:46.070Z;;NO LOCK;ThyLer;T5_POTION_STONESKIN@1;Resistance Potion;4;DIOR;Elevate;PandoBarins
+2022-04-20T03:00:46.108Z;;NO LOCK;Thuglife420;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:46.186Z;DIOR;EscaIation;Bigbodyblunt;T8_SHOES_PLATE_SET3;Elder's Guardian Boots;1;DIOR;EscaIation;DirkSmalls
+2022-04-20T03:00:46.410Z;DIOR;EscaIation;Bigbodyblunt;T8_ARMOR_PLATE_SET3;Elder's Guardian Armor;1;DIOR;EscaIation;DirkSmalls
+2022-04-20T03:00:46.538Z;;NO LOCK;Thuglife420;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:46.648Z;DIOR;EscaIation;Bigbodyblunt;T8_MAIN_MACE;Elder's Mace;1;DIOR;EscaIation;DirkSmalls
+2022-04-20T03:00:47.265Z;DIOR;EscaIation;Bigbodyblunt;T4_OFF_TOTEM_KEEPER@3;Adept's Taproot;1;DIOR;EscaIation;DirkSmalls
+2022-04-20T03:00:47.499Z;DIOR;EscaIation;Bigbodyblunt;T4_HEAD_PLATE_KEEPER@3;Adept's Judicator Helmet;1;DIOR;EscaIation;DirkSmalls
+2022-04-20T03:00:47.574Z;;NO LOCK;Thuglife420;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;SURF;Tidal;Chonchoson
+2022-04-20T03:00:47.682Z;DIOR;EscaIation;Zeptonia;T5_2H_HOLYSTAFF_HELL@3;Expert's Fallen Staff;1;OOPS;Different Cloth;UnburdenedTW
+2022-04-20T03:00:48.325Z;ROAR;Level Reapers;L1ghtW0lf;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;DIOR;EscaIation;DirkSmalls
+2022-04-20T03:00:49.045Z;DIOR;EscaIation;Zeptonia;T8_HEAD_PLATE_SET2@1;Elder's Knight Helmet;1;OOPS;Different Cloth;UnburdenedTW
+2022-04-20T03:00:49.512Z;DIOR;EscaIation;Bigbodyblunt;T8_HEAD_CLOTH_SET1@2;Elder's Scholar Cowl;1;DIOR;EscaIation;AragonOrder
+2022-04-20T03:00:49.733Z;DIOR;EscaIation;Bigbodyblunt;T7_ARMOR_LEATHER_HELL@3;Grandmaster's Hellion Jacket;1;DIOR;EscaIation;AragonOrder
+2022-04-20T03:00:50.111Z;OOPS;Different Cloth;Devisss;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;DIOR;EscaIation;KTtelecom
+2022-04-20T03:00:50.310Z;DIOR;EscaIation;SoloOoM;T7_OFF_SPIKEDSHIELD_MORGANA@1;Grandmaster's Facebreaker;1;OOPS;Different Cloth;Lmbeaux
+2022-04-20T03:00:50.420Z;OOPS;Different Cloth;Devisss;T8_2H_ENIGMATICSTAFF;Elder's Enigmatic Staff;1;DIOR;EscaIation;KTtelecom
+2022-04-20T03:00:50.451Z;DIOR;EscaIation;Bigbodyblunt;T8_2H_HALBERD@2;Elder's Halberd;1;DIOR;EscaIation;AragonOrder
+2022-04-20T03:00:50.624Z;DIOR;EscaIation;SoloOoM;T6_MAIN_RAPIER_MORGANA@2;Master's Bloodletter;1;OOPS;Different Cloth;Lmbeaux
+2022-04-20T03:00:50.919Z;DIOR;EscaIation;SoloOoM;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;OOPS;Different Cloth;Lmbeaux
+2022-04-20T03:00:51.326Z;DIOR;EscaIation;SoloOoM;T5_SHOES_CLOTH_ROYAL@3;Expert's Royal Sandals;1;OOPS;Different Cloth;Lmbeaux
+2022-04-20T03:00:51.889Z;DIOR;EscaIation;SoloOoM;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;OOPS;Different Cloth;Lmbeaux
+2022-04-20T03:00:52.232Z;;NO LOCK;Thuglife420;T6_2H_QUARTERSTAFF_AVALON@2;Master's Grailseeker;1;;Militant;takticks
+2022-04-20T03:00:52.327Z;DIOR;EscaIation;SoloOoM;T7_POTION_STONESKIN;Major Resistance Potion;6;OOPS;Different Cloth;Lmbeaux
+2022-04-20T03:00:52.693Z;;NO LOCK;Thuglife420;T5_CAPEITEM_FW_MARTLOCK@3;Expert's Martlock Cape;1;;Militant;takticks
+2022-04-20T03:00:52.936Z;;NO LOCK;Thuglife420;T6_ARMOR_PLATE_HELL@2;Master's Demon Armor;1;;Militant;takticks
+2022-04-20T03:00:53.047Z;ARCH;Awful Company;beckRR;T5_CAPEITEM_FW_MARTLOCK@3;Expert's Martlock Cape;1;;Militant;PixelPecs
+2022-04-20T03:00:53.766Z;;NO LOCK;Thuglife420;T5_2H_KNUCKLES_MORGANA@3;Expert's Ravenstrike Cestus;1;;Militant;takticks
+2022-04-20T03:00:54.092Z;;NO LOCK;Thuglife420;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;takticks
+2022-04-20T03:00:54.543Z;TH1RD;IAMNIUBI;BjornKiD;T6_SHOES_CLOTH_SET1@2;Master's Scholar Sandals;1;OOPS;Different Cloth;UnburdenedTW
+2022-04-20T03:00:54.732Z;TH1RD;IAMNIUBI;BjornKiD;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;OOPS;Different Cloth;UnburdenedTW
+2022-04-20T03:00:54.788Z;;NO LOCK;Thuglife420;T8_ARMOR_PLATE_SET3@1;Elder's Guardian Armor;1;;Militant;takticks
+2022-04-20T03:00:54.921Z;TH1RD;IAMNIUBI;BjornKiD;T7_POTION_STONESKIN;Major Resistance Potion;2;OOPS;Different Cloth;UnburdenedTW
+2022-04-20T03:00:54.984Z;ARCH;Awful Company;beckRR;T6_HEAD_PLATE_SET2@2;Master's Knight Helmet;1;;Militant;Khalessie
+2022-04-20T03:00:55.112Z;;NO LOCK;Thuglife420;T6_HEAD_PLATE_KEEPER@2;Master's Judicator Helmet;1;;Militant;takticks
+2022-04-20T03:00:55.373Z;;NO LOCK;Thuglife420;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;;Militant;takticks
+2022-04-20T03:00:55.468Z;ARCH;Awful Company;beckRR;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;Khalessie
+2022-04-20T03:00:55.753Z;ARCH;Awful Company;beckRR;T7_SHOES_CLOTH_SET1@1;Grandmaster's Scholar Sandals;1;;Militant;Khalessie
+2022-04-20T03:00:56.015Z;ARCH;Awful Company;beckRR;T4_CAPEITEM_FW_FORTSTERLING@2;Adept's Fort Sterling Cape;1;;Militant;Khalessie
+2022-04-20T03:00:56.921Z;;NO LOCK;Thuglife420;T7_MEAL_OMELETTE_AVALON;Avalonian Pork Omelette;1;;Militant;takticks
+2022-04-20T03:00:57.764Z;TH1RD;IAMNIUBI;BjornKiD;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;;Militant;PixelPecs
+2022-04-20T03:00:57.779Z;ROAR;Level Reapers;L1ghtW0lf;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;;Militant;PixelPecs
+2022-04-20T03:00:57.984Z;TH1RD;IAMNIUBI;BjornKiD;T6_BAG;Master's Bag;1;;Militant;PixelPecs
+2022-04-20T03:00:59.390Z;TH1RD;IAMNIUBI;BjornKiD;T7_POTION_STONESKIN;Major Resistance Potion;1;;Militant;PixelPecs
+2022-04-20T03:01:01.874Z;ROAR;Level Reapers;L1ghtW0lf;T8_TRASH;Trash;1;;Militant;lucasSil
+2022-04-20T03:01:02.076Z;ROAR;Level Reapers;L1ghtW0lf;T5_TRASH;Trash;1;;Militant;lucasSil
+2022-04-20T03:01:02.578Z;TH1RD;IAMNIUBI;BjornKiD;T8_TRASH;Trash;1;;Militant;PixelPecs
+2022-04-20T03:01:02.790Z;TH1RD;IAMNIUBI;BjornKiD;T5_TRASH;Trash;1;;Militant;PixelPecs
+2022-04-20T03:01:09.223Z;DIOR;EscaIation;Zeptonia;T4_ARMOR_PLATE_HELL@3;Adept's Demon Armor;1;;Militant;CaptainNavi
+2022-04-20T03:01:09.811Z;DIOR;EscaIation;ChowJackson;T8_2H_LONGBOW;Elder's Longbow;1;;Militant;Katasyo
+2022-04-20T03:01:10.065Z;DIOR;EscaIation;ChowJackson;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;;Militant;Katasyo
+2022-04-20T03:01:10.216Z;OOPS;Different Cloth;SexySkull;T5_ARMOR_CLOTH_AVALON@3;Expert's Robe of Purity;1;DIOR;EscaIation;KTtelecom
+2022-04-20T03:01:10.294Z;DIOR;EscaIation;ChowJackson;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;;Militant;Katasyo
+2022-04-20T03:01:10.481Z;DIOR;EscaIation;ChowJackson;T5_CAPEITEM_FW_FORTSTERLING@3;Expert's Fort Sterling Cape;1;;Militant;Katasyo
+2022-04-20T03:01:10.635Z;OOPS;Different Cloth;SexySkull;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;DIOR;EscaIation;KTtelecom
+2022-04-20T03:01:10.667Z;DIOR;EscaIation;ChowJackson;T7_POTION_STONESKIN;Major Resistance Potion;2;;Militant;Katasyo
+2022-04-20T03:01:12.697Z;DIOR;EscaIation;ChowJackson;T6_SHOES_CLOTH_ROYAL@3;Master's Royal Sandals;1;;Militant;WinterGunnar
+2022-04-20T03:01:12.939Z;DIOR;EscaIation;ChowJackson;T8_HEAD_LEATHER_SET3@1;Elder's Assassin Hood;1;;Militant;WinterGunnar
+2022-04-20T03:01:13.170Z;DIOR;EscaIation;ChowJackson;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;;Militant;WinterGunnar
+2022-04-20T03:01:13.360Z;DIOR;EscaIation;ChowJackson;T7_POTION_STONESKIN@1;Major Resistance Potion;1;;Militant;WinterGunnar
+2022-04-20T03:01:13.529Z;DIOR;EscaIation;ChowJackson;T7_2H_TOOL_SIEGEHAMMER;Grandmaster's Demolition Hammer;1;;Militant;WinterGunnar
+2022-04-20T03:01:13.757Z;OOPS;Different Cloth;SexySkull;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;DIOR;EscaIation;KTtelecom
+2022-04-20T03:01:14.187Z;OOPS;Different Cloth;SexySkull;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;DIOR;EscaIation;KTtelecom
+2022-04-20T03:01:14.481Z;OOPS;Different Cloth;SexySkull;T7_POTION_STONESKIN;Major Resistance Potion;1;DIOR;EscaIation;KTtelecom
+2022-04-20T03:01:15.554Z;DIOR;EscaIation;MatheusMRC;T7_POTION_STONESKIN;Major Resistance Potion;5;;Militant;SrAleatorio
+2022-04-20T03:01:15.814Z;DIOR;EscaIation;SPlCY;T4_BAG@1;Adept's Bag;1;;Militant;R4da
+2022-04-20T03:01:15.976Z;DIOR;EscaIation;SPlCY;T8_TRASH;Trash;1;;Militant;R4da
+2022-04-20T03:01:25.559Z;DIOR;EscaIation;zstrafe;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;;Militant;CaptainNavi
+2022-04-20T03:01:27.403Z;;NO LOCK;ThyLer;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;DIOR;EscaIation;KTtelecom
+2022-04-20T03:01:28.008Z;;NO LOCK;ThyLer;T6_HEAD_LEATHER_SET3@2;Master's Assassin Hood;1;DIOR;EscaIation;KTtelecom
+2022-04-20T03:01:28.755Z;;NO LOCK;ThyLer;T6_SHOES_LEATHER_SET2@2;Master's Hunter Shoes;1;DIOR;EscaIation;KTtelecom
+2022-04-20T03:01:32.934Z;DIOR;EscaIation;MatheusMRC;T5_HEAD_LEATHER_SET3@3;Expert's Assassin Hood;1;OOPS;Different Cloth;ZanettiShow
+2022-04-20T03:01:33.195Z;DIOR;EscaIation;MatheusMRC;T5_ARMOR_LEATHER_ROYAL@3;Expert's Royal Jacket;1;OOPS;Different Cloth;ZanettiShow
+2022-04-20T03:01:34.502Z;SURF;Tidal;RatsInMyKitchen;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;;Militant;CaptainNavi
+2022-04-20T03:01:34.734Z;SURF;Tidal;RatsInMyKitchen;T4_CAPEITEM_FW_MARTLOCK@2;Adept's Martlock Cape;1;;Militant;CaptainNavi
+2022-04-20T03:01:35.008Z;SURF;Tidal;RatsInMyKitchen;T3_MOUNT_HORSE;Journeyman's Riding Horse;1;;Militant;CaptainNavi
+2022-04-20T03:01:36.827Z;SURF;Tidal;RatsInMyKitchen;T6_BAG;Master's Bag;1;SURF;Tidal;Chonchoson
+2022-04-20T03:01:37.801Z;SURF;Tidal;RatsInMyKitchen;T6_BAG;Master's Bag;1;SURF;Tidal;Chonchoson
+2022-04-20T03:01:38.038Z;SURF;Tidal;RatsInMyKitchen;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;SURF;Tidal;Chonchoson
+2022-04-20T03:01:38.546Z;SURF;Tidal;RatsInMyKitchen;T8_MEAL_STEW@2;Beef Stew;1;SURF;Tidal;Chonchoson
+2022-04-20T03:01:39.483Z;SURF;Tidal;RatsInMyKitchen;T8_POTION_COOLDOWN;Major Poison Potion;1;SURF;Tidal;Chonchoson
+2022-04-20T03:01:39.811Z;SURF;Tidal;RatsInMyKitchen;T7_POTION_STONESKIN;Major Resistance Potion;1;SURF;Tidal;Chonchoson
+2022-04-20T03:01:41.879Z;DIOR;EscaIation;Benmage;T6_2H_HOLYSTAFF_HELL@2;Master's Fallen Staff;1;OOPS;Different Cloth;Dexk
+2022-04-20T03:01:42.224Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN@1;Major Resistance Potion;2;OOPS;Different Cloth;Dexk
+2022-04-20T03:01:42.517Z;EVICT;Take lt Easy;COELHITOS;T7_2H_GLACIALSTAFF@2;Grandmaster's Glacial Staff;1;OOPS;Different Cloth;MalphiteOre
+2022-04-20T03:01:42.763Z;EVICT;Take lt Easy;COELHITOS;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;OOPS;Different Cloth;MalphiteOre
+2022-04-20T03:01:42.929Z;EVICT;Take lt Easy;Eterninho;T6_SHOES_CLOTH_ROYAL@2;Master's Royal Sandals;1;OOPS;Different Cloth;MalphiteOre
+2022-04-20T03:01:43.014Z;TH1RD;IAMNIUBI;BjornKiD;T6_2H_CURSEDSTAFF_MORGANA@2;Master's Damnation Staff;1;OOPS;Different Cloth;Renvils
+2022-04-20T03:01:43.185Z;EVICT;Take lt Easy;Eterninho;T8_ARMOR_CLOTH_SET1@1;Elder's Scholar Robe;1;OOPS;Different Cloth;MalphiteOre
+2022-04-20T03:01:43.217Z;TH1RD;IAMNIUBI;BjornKiD;T7_HEAD_LEATHER_SET3@1;Grandmaster's Assassin Hood;1;OOPS;Different Cloth;Renvils
+2022-04-20T03:01:43.393Z;TH1RD;IAMNIUBI;BjornKiD;T6_ARMOR_CLOTH_SET1@2;Master's Scholar Robe;1;OOPS;Different Cloth;Renvils
+2022-04-20T03:01:43.575Z;TH1RD;IAMNIUBI;BjornKiD;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;OOPS;Different Cloth;Renvils
+2022-04-20T03:01:43.763Z;TH1RD;IAMNIUBI;BjornKiD;T6_MOUNT_DIREWOLF;Direwolf;1;OOPS;Different Cloth;Renvils
+2022-04-20T03:01:46.151Z;SURF;Tidal;Vankleis;T7_HEAD_LEATHER_SET1@1;Grandmaster's Mercenary Hood;1;OOPS;Different Cloth;Dexk
+2022-04-20T03:01:46.438Z;SURF;Tidal;Vankleis;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;OOPS;Different Cloth;Dexk
+2022-04-20T03:01:46.794Z;SURF;Tidal;Vankleis;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;OOPS;Different Cloth;Dexk
+2022-04-20T03:01:50.919Z;DIOR;EscaIation;Benmage;T5_2H_HOLYSTAFF_HELL@3;Expert's Fallen Staff;1;OOPS;Different Cloth;HeartlessJanna
+2022-04-20T03:01:51.257Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;2;OOPS;Different Cloth;HeartlessJanna
+2022-04-20T03:01:51.973Z;DIOR;EscaIation;Benmage;T7_MEAL_OMELETTE@1;Pork Omelette;1;OOPS;Different Cloth;HeartlessJanna
+2022-04-20T03:01:53.379Z;DIOR;EscaIation;Benmage;T5_BAG;Expert's Bag;1;OOPS;Different Cloth;HeartlessJanna
+2022-04-20T03:01:57.732Z;;NO LOCK;Thuglife420;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;OOPS;Different Cloth;lGAIJINl
+2022-04-20T03:01:58.155Z;ARCH;Awful Company;iBjornIRONSIDEE;T4_HEAD_CLOTH_HELL@2;Adept's Fiend Cowl;1;OOPS;Different Cloth;ZanettiShow
+2022-04-20T03:01:58.232Z;;NO LOCK;Thuglife420;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;OOPS;Different Cloth;lGAIJINl
+2022-04-20T03:01:58.503Z;ARCH;Awful Company;iBjornIRONSIDEE;T5_BAG;Expert's Bag;1;OOPS;Different Cloth;ZanettiShow
+2022-04-20T03:01:58.698Z;;NO LOCK;Thuglife420;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;OOPS;Different Cloth;lGAIJINl
+2022-04-20T03:01:59.076Z;;NO LOCK;Thuglife420;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;OOPS;Different Cloth;lGAIJINl
+2022-04-20T03:01:59.076Z;DIOR;EscaIation;zJackson;T6_2H_HARPOON_HELL@2;Master's Spirithunter;1;OOPS;Different Cloth;YANKOUS
+2022-04-20T03:01:59.489Z;DIOR;EscaIation;zJackson;T7_ARMOR_CLOTH_SET2@1;Grandmaster's Cleric Robe;1;OOPS;Different Cloth;YANKOUS
+2022-04-20T03:01:59.795Z;DIOR;Elevate;iVandal;T5_CAPEITEM_FW_MARTLOCK@3;Expert's Martlock Cape;1;OOPS;Different Cloth;Monoxcide
+2022-04-20T03:02:00.265Z;;NO LOCK;Thuglife420;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;OOPS;Different Cloth;lGAIJINl
+2022-04-20T03:02:00.603Z;;NO LOCK;Thuglife420;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;OOPS;Different Cloth;lGAIJINl
+2022-04-20T03:02:00.779Z;DIOR;EscaIation;zJackson;T8_2H_LONGBOW@1;Elder's Longbow;1;OOPS;Different Cloth;Jubjub42O
+2022-04-20T03:02:01.106Z;DIOR;EscaIation;zJackson;T6_HEAD_LEATHER_ROYAL@3;Master's Royal Hood;1;OOPS;Different Cloth;Jubjub42O
+2022-04-20T03:02:01.450Z;DIOR;EscaIation;zJackson;T6_SHOES_CLOTH_ROYAL@3;Master's Royal Sandals;1;OOPS;Different Cloth;Jubjub42O
+2022-04-20T03:02:01.755Z;DIOR;EscaIation;MatheusMRC;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;OOPS;Different Cloth;RingMyBalls
+2022-04-20T03:02:01.983Z;;NO LOCK;ThyLer;T7_SHOES_CLOTH_SET1@1;Grandmaster's Scholar Sandals;1;OOPS;Different Cloth;Dexk
+2022-04-20T03:02:02.105Z;DIOR;EscaIation;zJackson;T5_CAPEITEM_FW_LYMHURST@3;Expert's Lymhurst Cape;1;OOPS;Different Cloth;Jubjub42O
+2022-04-20T03:02:03.390Z;DIOR;EscaIation;NeadeMedallo;T5_MOUNT_GREYWOLF_FW_CAERLEON;Saddled Greywolf;1;OOPS;Different Cloth;Jubjub42O
+2022-04-20T03:02:03.698Z;DIOR;EscaIation;MatheusMRC;T4_CAPEITEM_FW_LYMHURST@2;Adept's Lymhurst Cape;1;OOPS;Different Cloth;SexySkull
+2022-04-20T03:02:03.982Z;DIOR;Elevate;YonkoSSJGOD;T5_CAPEITEM_FW_MARTLOCK@2;Expert's Martlock Cape;1;OOPS;Different Cloth;bighonkers2
+2022-04-20T03:02:04.044Z;DIOR;EscaIation;iCrain;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;OOPS;Different Cloth;Rockseas
+2022-04-20T03:02:04.295Z;DIOR;Elevate;YonkoSSJGOD;T7_POTION_STONESKIN;Major Resistance Potion;1;OOPS;Different Cloth;bighonkers2
+2022-04-20T03:02:04.389Z;DIOR;EscaIation;iCrain;T5_2H_QUARTERSTAFF_AVALON@2;Expert's Grailseeker;1;OOPS;Different Cloth;Rockseas
+2022-04-20T03:02:04.576Z;DIOR;Elevate;YonkoSSJGOD;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;OOPS;Different Cloth;bighonkers2
+2022-04-20T03:02:04.635Z;DIOR;EscaIation;iCrain;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;OOPS;Different Cloth;Rockseas
+2022-04-20T03:02:04.726Z;DIOR;EscaIation;zJackson;T5_ARMOR_CLOTH_AVALON@3;Expert's Robe of Purity;1;OOPS;Different Cloth;SexySkull
+2022-04-20T03:02:04.903Z;DIOR;EscaIation;iCrain;T4_CAPEITEM_FW_LYMHURST@3;Adept's Lymhurst Cape;1;OOPS;Different Cloth;Rockseas
+2022-04-20T03:02:05.005Z;DIOR;EscaIation;SoloOoM;T8_TRASH;Trash;1;OOPS;Different Cloth;Bongof420
+2022-04-20T03:02:05.076Z;DIOR;EscaIation;MatheusMRC;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;OOPS;Different Cloth;SexySkull
+2022-04-20T03:02:05.279Z;DIOR;EscaIation;SoloOoM;T6_ARMOR_CLOTH_SET1@2;Master's Scholar Robe;1;OOPS;Different Cloth;Bongof420
+2022-04-20T03:02:05.793Z;;NO LOCK;ThyLer;T4_CAPEITEM_FW_FORTSTERLING@3;Adept's Fort Sterling Cape;1;OOPS;Different Cloth;HeartlessJanna
+2022-04-20T03:02:05.857Z;DIOR;EscaIation;SoloOoM;T6_2H_FIRESTAFF_HELL@3;Master's Brimstone Staff;1;OOPS;Different Cloth;Bongof420
+2022-04-20T03:02:06.106Z;;NO LOCK;ThyLer;T6_SHOES_CLOTH_SET1@2;Master's Scholar Sandals;1;OOPS;Different Cloth;HeartlessJanna
+2022-04-20T03:02:06.356Z;;NO LOCK;ThyLer;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;OOPS;Different Cloth;HeartlessJanna
+2022-04-20T03:02:06.467Z;T4K3;The Slap;kowatera;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;OOPS;Different Cloth;Bongof420
+2022-04-20T03:02:06.891Z;T4K3;The Slap;kowatera;T7_POTION_STONESKIN;Major Resistance Potion;1;OOPS;Different Cloth;Bongof420
+2022-04-20T03:02:07.419Z;DIOR;EscaIation;iCrain;T8_HEAD_LEATHER_SET3;Elder's Assassin Hood;1;OOPS;Different Cloth;Devisss
+2022-04-20T03:02:07.764Z;DIOR;EscaIation;iCrain;T6_2H_ENIGMATICORB_MORGANA@2;Master's Malevolent Locus;1;OOPS;Different Cloth;Devisss
+2022-04-20T03:02:08.038Z;DIOR;EscaIation;iCrain;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;OOPS;Different Cloth;Devisss
+2022-04-20T03:02:08.295Z;DIOR;EscaIation;iCrain;T8_ARMOR_PLATE_SET2;Elder's Knight Armor;1;OOPS;Different Cloth;Devisss
+2022-04-20T03:02:08.340Z;DIOR;EscaIation;iammaw;T5_ARMOR_PLATE_KEEPER@3;Expert's Judicator Armor;1;OOPS;Different Cloth;Devisss
+2022-04-20T03:02:08.762Z;ARCH;Awful Company;iBjornIRONSIDEE;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;OOPS;Different Cloth;Renvils
+2022-04-20T03:02:08.817Z;DIOR;EscaIation;iCrain;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;OOPS;Different Cloth;Devisss
+2022-04-20T03:02:09.075Z;DIOR;EscaIation;iCrain;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;OOPS;Different Cloth;Devisss
+2022-04-20T03:02:09.577Z;DIOR;EscaIation;iammaw;T8_2H_ENIGMATICSTAFF;Elder's Enigmatic Staff;1;OOPS;Different Cloth;Devisss
+2022-04-20T03:02:09.578Z;DIOR;EscaIation;SoloOoM;T6_2H_NATURESTAFF_HELL@2;Master's Blight Staff;1;OOPS;Different Cloth;Ramakaz3
+2022-04-20T03:02:09.778Z;DIOR;EscaIation;iammaw;T7_POTION_STONESKIN;Major Resistance Potion;1;OOPS;Different Cloth;Devisss
+2022-04-20T03:02:09.808Z;DIOR;EscaIation;SoloOoM;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;OOPS;Different Cloth;Ramakaz3
+2022-04-20T03:02:09.808Z;DIOR;EscaIation;NeadeMedallo;T7_POTION_STONESKIN;Major Resistance Potion;1;OOPS;Different Cloth;Rockseas
+2022-04-20T03:02:10.076Z;DIOR;EscaIation;SoloOoM;T8_ARMOR_CLOTH_SET2;Elder's Cleric Robe;1;OOPS;Different Cloth;Ramakaz3
+2022-04-20T03:02:10.308Z;ARCH;Awful Company;iBjornIRONSIDEE;T6_MAIN_MACE@1;Master's Mace;1;SURF;Tidal;Chonchoson
+2022-04-20T03:02:10.512Z;DIOR;EscaIation;SoloOoM;T8_SHOES_CLOTH_SET1;Elder's Scholar Sandals;1;OOPS;Different Cloth;Ramakaz3
+2022-04-20T03:02:10.545Z;ARCH;Awful Company;iBjornIRONSIDEE;T4_OFF_JESTERCANE_HELL@2;Adept's Leering Cane;1;SURF;Tidal;Chonchoson
+2022-04-20T03:02:10.791Z;DIOR;EscaIation;SoloOoM;T4_CAPEITEM_FW_MARTLOCK@3;Adept's Martlock Cape;1;OOPS;Different Cloth;Ramakaz3
+2022-04-20T03:02:12.059Z;DIOR;EscaIation;Benmage;T7_POTION_STONESKIN;Major Resistance Potion;4;OOPS;Different Cloth;Jubjub42O
+2022-04-20T03:02:14.129Z;DIOR;EscaIation;ChowJackson;T5_2H_HAMMER_AVALON@3;Expert's Hand of Justice;1;OOPS;Different Cloth;NinjaTV
+2022-04-20T03:02:14.325Z;DIOR;EscaIation;ChowJackson;T8_HEAD_PLATE_SET2;Elder's Knight Helmet;1;OOPS;Different Cloth;NinjaTV
+2022-04-20T03:02:14.482Z;DIOR;EscaIation;ChowJackson;T8_ARMOR_PLATE_SET3;Elder's Guardian Armor;1;OOPS;Different Cloth;NinjaTV
+2022-04-20T03:02:14.685Z;DIOR;EscaIation;ChowJackson;T8_SHOES_LEATHER_SET2;Elder's Hunter Shoes;1;OOPS;Different Cloth;NinjaTV
+2022-04-20T03:02:24.016Z;EVICT;Take lt Easy;COELHITOS;T8_TRASH;Trash;1;OOPS;Different Cloth;Sebbii
+2022-04-20T03:02:24.233Z;EVICT;Take lt Easy;COELHITOS;T5_MOUNT_COUGAR_KEEPER@1;Swiftclaw;1;OOPS;Different Cloth;Sebbii
+2022-04-20T03:02:24.418Z;EVICT;Take lt Easy;COELHITOS;T7_POTION_STONESKIN;Major Resistance Potion;3;OOPS;Different Cloth;Sebbii
